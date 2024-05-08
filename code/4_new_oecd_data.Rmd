@@ -13,7 +13,11 @@ p_load(tidyverse, RColorBrewer, ggplot2, OECD)
 
 ### [1] data
 
+<<<<<<< HEAD
 ```{r data finding}
+=======
+```{r data-prep}
+>>>>>>> 541345f767897c343a0f4a17c73fe0f1840962b3
 # if ds does not exist, then get it
 if (!exists("ds")) {
   ds <- get_datasets()
@@ -23,22 +27,30 @@ ds_fish <- search_dataset("Fisheries", ds)
 ds_mine <- search_dataset("Mine", ds)
 ds_gdp <- search_dataset("GDP", ds)
 
+<<<<<<< HEAD
 ds_fish_codes <- ds_fish[,1]
 ds_mine_codes <- ds_mine[,1]
 ds_gdp_codes <- ds_gdp[,1]
+=======
+>>>>>>> 541345f767897c343a0f4a17c73fe0f1840962b3
 
 fish_ind <- get_dataset("FISH_INDICATORS")
 fish_rnd <- get_dataset("FISH_PAT_RD")
 fish_trade <- get_dataset("FISH_TRADE")
 fish_empl <- get_dataset("FISH_EMPL")
 fish_patdev <- get_dataset("FISH_PAT_DEV")
+<<<<<<< HEAD
 ```
 
 ```{r fish data merging}
+=======
+
+>>>>>>> 541345f767897c343a0f4a17c73fe0f1840962b3
 # join the five datasets above into one using column merge by country and time
 fish_data <- merge(fish_ind, fish_rnd, by.x = c("COUNTRY", "Time"), by.y = c("COU", "Time"))
 fish_data <- merge(fish_data, fish_trade, by = c("COUNTRY", "Time"))
 fish_data <- merge(fish_data, fish_empl)
+<<<<<<< HEAD
 ```
 ```{r mining data}
 
@@ -63,6 +75,16 @@ head(gdp_data4)
 
 
 ```{r gdp data cleaning}
+=======
+
+ds_fish_codes <- ds_fish[,1]
+ds_mine_codes <- ds_mine[,1]
+ds_gdp_codes <- ds_gdp[,1]
+
+## get data
+
+
+>>>>>>> 541345f767897c343a0f4a17c73fe0f1840962b3
 ## load data
 ```
 
