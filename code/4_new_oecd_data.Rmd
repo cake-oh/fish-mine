@@ -13,6 +13,7 @@ p_load(tidyverse, RColorBrewer, ggplot2, OECD)
 
 ### [1] data
 
+<<<<<<< HEAD
 ```{r data finding}
 # if ds does not exist, then get it
 if (!exists("ds")) {
@@ -23,23 +24,29 @@ ds_fish <- search_dataset("Fisheries", ds)
 ds_mine <- search_dataset("Mine", ds)
 ds_gdp <- search_dataset("GDP", ds)
 
+
 ds_fish_codes <- ds_fish[,1]
 ds_mine_codes <- ds_mine[,1]
 ds_gdp_codes <- ds_gdp[,1]
+
 
 fish_ind <- get_dataset("FISH_INDICATORS")
 fish_rnd <- get_dataset("FISH_PAT_RD")
 fish_trade <- get_dataset("FISH_TRADE")
 fish_empl <- get_dataset("FISH_EMPL")
 fish_patdev <- get_dataset("FISH_PAT_DEV")
+
 ```
 
 ```{r fish data merging}
+
 # join the five datasets above into one using column merge by country and time
 fish_data <- merge(fish_ind, fish_rnd, by.x = c("COUNTRY", "Time"), by.y = c("COU", "Time"))
 fish_data <- merge(fish_data, fish_trade, by = c("COUNTRY", "Time"))
 fish_data <- merge(fish_data, fish_empl)
+
 ```
+
 ```{r mining data}
 
 ## get data
@@ -63,7 +70,7 @@ head(gdp_data4)
 
 
 ```{r gdp data cleaning}
-## load data
+
 ```
 
 ### [2] plots
