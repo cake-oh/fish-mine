@@ -47,10 +47,10 @@ fish_data <- merge(fish_data, fish_empl)
 ```
 
 ```{r mining data}
-
 ## get data
 mine_data <- get_dataset(ds_mine_codes)
 ```
+
 ```{r gdp data}
 ## need to look through and find which of the datasets we want to pull
 #lets use get_dataset() to grab each of the datasets in ds_gdp_codes one by one and show a tibble
@@ -63,18 +63,79 @@ mine_data <- get_dataset(ds_mine_codes)
 # head(gdp_data3)
 # gdp_data4 <- get_dataset(ds_gdp_codes[[1]][4])
 # head(gdp_data4)
+# List of countries in OECD data we want to use
 
-## given a link, access OECD API and save the table as a dataframe
-link <- "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1_EXPENDITURE,1.0/A...........?dimensionAtObservation=AllDimensions"
+##THIS WAS ALL USING OUTDATED API CALL
+# gdp_data <- get_dataset("SNA_TABLE1")
+# dim(gdp_data)
+# countries <- unique(gdp_data$LOCATION)
+# 
+# for (country in countries) {
+#   country_data <- get_dataset("SNA_TABLE1", filter = list(country))
+#   if (country == countries[1]) {
+#     df_gdp <- country_data
+#   } else {
+#     df_gdp <- rbind(df_gdp, country_data)
+#   }
+# }
+# 
+# dataset <- "OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1_EXPENDITURE,1.0"
+#  url <- paste0(
+#     "https://sdmx.oecd.org/public/rest/dataflow/", dataset, "?references=all"
+#   )
+#   data_structure <- rsdmx::readSDMX(url)
 
-# https://sdmx.oecd.org/public/dataflow/DF_TABLE1_EXPENDITURE/1.0/
-# https://sdmx.oecd.org/public/dataflow/DF_TABLE1_EXPENDITURE/1.0/A.AUS.......XDC.V..?startPeriod=2019&dimensionAtObservation=AllDimensions
-df <- readsdmx::read_sdmx((link))
-class(df) <- c("tbl_df", "tbl", "data.frame")
-df
+#setwd one level up and to Deepsea folder
+```
 
-na_data <- get_dataset("DSD_NAMAIN10")
+```{r gdp data v2}
+setwd("../../Deepsea")
+#data <- read.csv("OECD_SNA_Table14.csv") # nonfinancial accounts by sector, not useful
+gdp_data <- read.csv("OECD_SNA_Table1_new.csv") 
+```
+```{r gdp data v2 explore}
+#str(gdp_data)
+head(gdp_data)
+gdp_data <- gdp_data %>% filter(Economic.activity == "Total - All activities")
+#str_name_unique <- unique(australia_data$STRUCTURE_NAME)
+#str_unique <- unique(australia_data$STRUCTURE_ID)
+for (col in colnames(gdp_data)) {
+  #print(col)
+  uniq_entries <- unique(gdp_data[[col]])
+  #print(uniq_entries)
+  if (length(uniq_entries) > 1){
+    print(paste(col,length(uniq_entries), sep =":"))
+  }
+  else {
+    gdp_data <- gdp_data %>% select(-col)
+  }
+}
 
+```
+```{r sut import}
+setwd("../../Deepsea")
+#data <- read.csv("OECD_SNA_Table14.csv") # nonfinancial accounts by sector, not useful
+sut_data <- read.csv("SNA_Table43.csv") 
+tibble(sut_data)
+unique(sut_data$Unit.multiplier)
+head(sut_data)
+for (col in colnames(sut_data)) {
+  print(col)
+  uniq_entries <- unique(sut_data[[col]])
+  #print(uniq_entries)
+  if (length(uniq_entries) > 1){
+    print(paste(col,length(uniq_entries), sep =":"))
+  }
+  else {
+    sut_data <- sut_data %>% select(-col)
+  }
+}
+unique(sut_data$Economic.activity)
+```
+```{r visualise SUT}
+tibble(sut_data)
+```
+```{r gdp data cleaning})
 ```
 
 
