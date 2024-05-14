@@ -6,6 +6,7 @@ goal: get the OECD Data Explorer API to work and pull relevant fishing and minin
 ### [0] prep
 
 ```{r setup, echo=FALSE}
+knitr::opts_knit$set(root.dir = "../../Deepsea")
 if (!require(pacman)) install.packages('pacman')
 library(pacman)
 p_load(tidyverse, RColorBrewer, ggplot2, OECD)
@@ -52,66 +53,53 @@ mine_data <- get_dataset(ds_mine_codes)
 ```
 
 ```{r gdp data}
-## need to look through and find which of the datasets we want to pull
-#lets use get_dataset() to grab each of the datasets in ds_gdp_codes one by one and show a tibble
-# print(ds_gdp[,2], n=28)
-# gdp_data1 <- get_dataset(ds_gdp_codes[[1]][1])
-# head(gdp_data1)
-# gdp_data2 <- get_dataset(ds_gdp_codes[[1]][2])
-# head(gdp_data2)
-# gdp_data3 <- get_dataset(ds_gdp_codes[[1]][3])
-# head(gdp_data3)
-# gdp_data4 <- get_dataset(ds_gdp_codes[[1]][4])
-# head(gdp_data4)
-# List of countries in OECD data we want to use
-
-##THIS WAS ALL USING OUTDATED API CALL
-# gdp_data <- get_dataset("SNA_TABLE1")
-# dim(gdp_data)
-# countries <- unique(gdp_data$LOCATION)
-# 
-# for (country in countries) {
-#   country_data <- get_dataset("SNA_TABLE1", filter = list(country))
-#   if (country == countries[1]) {
-#     df_gdp <- country_data
-#   } else {
-#     df_gdp <- rbind(df_gdp, country_data)
-#   }
-# }
-# 
-# dataset <- "OECD.SDD.NAD,DSD_NAMAIN10@DF_TABLE1_EXPENDITURE,1.0"
-#  url <- paste0(
-#     "https://sdmx.oecd.org/public/rest/dataflow/", dataset, "?references=all"
-#   )
-#   data_structure <- rsdmx::readSDMX(url)
-
-#setwd one level up and to Deepsea folder
-```
-
-```{r gdp data v2}
 setwd("../../Deepsea")
-#data <- read.csv("OECD_SNA_Table14.csv") # nonfinancial accounts by sector, not useful
 gdp_data <- read.csv("OECD_SNA_Table1_new.csv") 
-```
-```{r gdp data v2 explore}
 #str(gdp_data)
 head(gdp_data)
 gdp_data <- gdp_data %>% filter(Economic.activity == "Total - All activities")
 #str_name_unique <- unique(australia_data$STRUCTURE_NAME)
 #str_unique <- unique(australia_data$STRUCTURE_ID)
 for (col in colnames(gdp_data)) {
-  #print(col)
   uniq_entries <- unique(gdp_data[[col]])
-  #print(uniq_entries)
+  #print(col)
   if (length(uniq_entries) > 1){
     print(paste(col,length(uniq_entries), sep =":"))
   }
   else {
+    
+    print(paste(col,uniq_entries))
     gdp_data <- gdp_data %>% select(-col)
   }
 }
-
 ```
+```{r valueadded}
+setwd("../../Deepsea")
+valueadded_data <- read.csv("detailed_valueadded_selectedactivities.csv")
+tibble(valueadded_data)
+for (col in colnames(valueadded_data)) {
+  uniq_entries <- unique(valueadded_data[[col]])
+  #print(col)
+  if (length(uniq_entries) > 1){
+    print(paste(col,length(uniq_entries), sep =":"))
+  }
+  else {
+    uniq_entries <- unique(valueadded_data[[col]])
+    print(paste(col,uniq_entries))
+    valueadded_data <- valueadded_data %>% select(-col)
+  }
+}
+```
+
+```{r extract_fishing_finalvals}
+print(unique(valueadded_data$Economic.activity))
+fish_finaladd <- valueadded_data %>% filter(Economic.activity == "Fishing and aquaculture")  %>% filter(Transaction =="Value added, gross") %>% select(-c(Economic.activity, TRANSACTION,ACTIVITY, Transaction))
+tibble(fish_finaladd)
+```
+
+```{r extract_mining_finalvals}
+
+
 ```{r sut import}
 setwd("../../Deepsea")
 #data <- read.csv("OECD_SNA_Table14.csv") # nonfinancial accounts by sector, not useful
