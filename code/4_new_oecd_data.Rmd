@@ -9,7 +9,7 @@ goal: get the OECD Data Explorer API to work and pull relevant fishing and minin
 knitr::opts_knit$set(root.dir = "../../Deepsea")
 if (!require(pacman)) install.packages('pacman')
 library(pacman)
-p_load(tidyverse, RColorBrewer, ggplot2, OECD)
+p_load(tidyverse, RColorBrewer, ggplot2, OEC, foreign)
 ```
 
 ### [1] data
@@ -89,17 +89,74 @@ for (col in colnames(valueadded_data)) {
     valueadded_data <- valueadded_data %>% select(-col)
   }
 }
+print(unique(valueadded_data$Transaction))
+print(unique(valueadded_data$Confidentiality.status))
+print(unique(valueadded_data$Observation.status))
+valueadded_data <- valueadded_data %>% select(-c(Confidentiality.status,CONF_STATUS))
 ```
 
 ```{r extract_fishing_finalvals}
-print(unique(valueadded_data$Economic.activity))
-fish_finaladd <- valueadded_data %>% filter(Economic.activity == "Fishing and aquaculture")  %>% filter(Transaction =="Value added, gross") %>% select(-c(Economic.activity, TRANSACTION,ACTIVITY, Transaction))
+sectors <- unique(valueadded_data$Economic.activity)
+print(sectors)
+
+fish_finaladd <- valueadded_data %>% filter(Economic.activity == sectors[c(5,6)])  %>% filter(Transaction =="Value added, gross") %>% select(-c(TRANSACTION, Transaction))
 tibble(fish_finaladd)
+#weird values
+fish_weird <- fish_finaladd %>% filter(OBS_STATUS != "A")
+tibble(fish_weird)
 ```
 
 ```{r extract_mining_finalvals}
+mining_finaladd <- valueadded_data %>% filter(Economic.activity == sectors[c(1,4,8,9,10,11)])  %>% filter(Transaction =="Value added, gross") %>% select(-c(TRANSACTION, Transaction))
+tibble(mining_finaladd)
+```
+```{r extract_transport_finalvals}
+watertransport_finaladd <- valueadded_data %>% filter(Economic.activity == sectors[c(3,7)])  %>% filter(Transaction =="Value added, gross") %>% select(-c(TRANSACTION, Transaction))
+tibble(watertransport_finaladd)
+```
+```{r extract_totalvaladd}
+total_finaladd <- valueadded_data %>% filter(Economic.activity == sectors[2])  %>% filter(Transaction =="Value added, gross") %>% select(-c(Economic.activity,TRANSACTION, Transaction))
 
+# sort by country and then year
+total_finaladd <- total_finaladd %>% arrange(REF_AREA, TIME_PERIOD)
+#generate percent change by country from year to year
+total_finaladd <- total_finaladd %>% group_by(REF_AREA) %>% mutate(percent_change = 100*(OBS_VALUE - lag(OBS_VALUE))/lag(OBS_VALUE))
+tibble(total_finaladd)
+```
 
+```{r pct_change_alldata}
+all_finaladd <- valueadded_data %>% filter(Transaction =="Value added, gross") %>% select(-c(TRANSACTION, Transaction))
+all_finaladd <- all_finaladd %>% arrange(REF_AREA,Economic.activity, TIME_PERIOD)
+all_finaladd <- all_finaladd %>% group_by(REF_AREA,Economic.activity) %>% mutate(pct_chg = 100*(OBS_VALUE - lag(OBS_VALUE))/lag(OBS_VALUE))
+tibble(all_finaladd)
+#replace Economic.activity values with friendlier strings
+uniq_activities<- unique(all_finaladd$Economic.activity)
+activities <- all_finaladd$Economic.activity
+activities <- gsub("Agriculture, forestry and fishing","AFF",activities)
+activities <- gsub("Mining and quarrying","MQ",activities)
+activities <- gsub("Total - All activities","Total",activities)
+activities <- gsub("Transportation and storage","Transport",activities)
+activities <- gsub("Water transport","Watertransport",activities)
+activities <- gsub("Fishing and aquaculture","Fishing",activities)
+activities <- gsub("Extraction of crude petroleum and natural gas","Petroleum",activities)
+activities <- gsub("Mining of coal and lignite","Coal",activities)
+activities <- gsub("Mining of metal ores","Metal",activities)
+activities <- gsub("Mining support service activities","Miningsupport",activities)
+activities <- gsub("Other mining and quarrying","Othermining",activities)
+
+all_finaladd$Economic.activity <- activities
+
+#rename OBS_VALUE value
+all_finaladd <- all_finaladd %>% rename(value = OBS_VALUE)
+tibble(all_finaladd)
+```
+
+```{r longwidetransform}
+#transform data from long to wide format with each row having a unique REF_AREA and TIME_PERIOD and values collapsed on Economic.activity
+all_finaladd_wide <- all_finaladd %>% pivot_wider(id_cols = c(REF_AREA,Reference.area,TIME_PERIOD),names_from = Economic.activity, values_from = c(value,pct_chg))
+tibble(all_finaladd_wide)
+#now can add an indicator if the country was, in that year, engaged in DSM contracts or not
+```
 ```{r sut import}
 setwd("../../Deepsea")
 #data <- read.csv("OECD_SNA_Table14.csv") # nonfinancial accounts by sector, not useful
@@ -119,17 +176,6 @@ for (col in colnames(sut_data)) {
   }
 }
 unique(sut_data$Economic.activity)
-```
-```{r visualise SUT}
-tibble(sut_data)
-```
-```{r gdp data cleaning})
-```
-
-
-
-```{r gdp data cleaning}
-
 ```
 
 ### [2] plots
