@@ -29,13 +29,11 @@ ds_fish_codes <- ds_fish[,1]
 ds_mine_codes <- ds_mine[,1]
 ds_gdp_codes <- ds_gdp[,1]
 
-
 fish_ind <- get_dataset("FISH_INDICATORS")
 fish_rnd <- get_dataset("FISH_PAT_RD")
 fish_trade <- get_dataset("FISH_TRADE")
 fish_empl <- get_dataset("FISH_EMPL")
 fish_patdev <- get_dataset("FISH_PAT_DEV")
-
 ```
 
 ```{r fish data merging}
@@ -44,7 +42,6 @@ fish_patdev <- get_dataset("FISH_PAT_DEV")
 fish_data <- merge(fish_ind, fish_rnd, by.x = c("COUNTRY", "Time"), by.y = c("COU", "Time"))
 fish_data <- merge(fish_data, fish_trade, by = c("COUNTRY", "Time"))
 fish_data <- merge(fish_data, fish_empl)
-
 ```
 
 ```{r mining data}
@@ -67,7 +64,6 @@ for (col in colnames(gdp_data)) {
     print(paste(col,length(uniq_entries), sep =":"))
   }
   else {
-    
     print(paste(col,uniq_entries))
     gdp_data <- gdp_data %>% select(-col)
   }
@@ -98,7 +94,6 @@ valueadded_data <- valueadded_data %>% select(-c(Confidentiality.status,CONF_STA
 ```{r extract_fishing_finalvals}
 sectors <- unique(valueadded_data$Economic.activity)
 print(sectors)
-
 fish_finaladd <- valueadded_data %>% filter(Economic.activity == sectors[c(5,6)])  %>% filter(Transaction =="Value added, gross") %>% select(-c(TRANSACTION, Transaction))
 tibble(fish_finaladd)
 #weird values
@@ -116,7 +111,6 @@ tibble(watertransport_finaladd)
 ```
 ```{r extract_totalvaladd}
 total_finaladd <- valueadded_data %>% filter(Economic.activity == sectors[2])  %>% filter(Transaction =="Value added, gross") %>% select(-c(Economic.activity,TRANSACTION, Transaction))
-
 # sort by country and then year
 total_finaladd <- total_finaladd %>% arrange(REF_AREA, TIME_PERIOD)
 #generate percent change by country from year to year
