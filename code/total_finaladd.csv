@@ -1,0 +1,1528 @@
+"","REF_AREA","Reference.area","ACTIVITY","TIME_PERIOD","OBS_VALUE","OBS_STATUS","Observation.status","CURRENCY","Currency","percent_change"
+"1","ALB","Albania","_T",1996,312817.275,"A","Normal value","ALL","Lek",NA
+"2","ALB","Albania","_T",1997,304714.179,"A","Normal value","ALL","Lek",-2.5903607785088
+"3","ALB","Albania","_T",1998,339154.282,"A","Normal value","ALL","Lek",11.3024287589847
+"4","ALB","Albania","_T",1999,396081.873,"A","Normal value","ALL","Lek",16.7851606249217
+"5","ALB","Albania","_T",2000,442126.723,"A","Normal value","ALL","Lek",11.6250838876436
+"6","ALB","Albania","_T",2001,503693.04,"A","Normal value","ALL","Lek",13.9250386364906
+"7","ALB","Albania","_T",2002,542777.55,"A","Normal value","ALL","Lek",7.75958905447653
+"8","ALB","Albania","_T",2003,596038.225,"A","Normal value","ALL","Lek",9.81261568390217
+"9","ALB","Albania","_T",2004,647538.548,"A","Normal value","ALL","Lek",8.64043962952208
+"10","ALB","Albania","_T",2005,703494.244,"A","Normal value","ALL","Lek",8.64129188491185
+"11","ALB","Albania","_T",2006,755264.834,"A","Normal value","ALL","Lek",7.35906376513296
+"12","ALB","Albania","_T",2007,841299.32,"A","Normal value","ALL","Lek",11.391300392519
+"13","ALB","Albania","_T",2008,936917.346,"A","Normal value","ALL","Lek",11.3655180417833
+"14","ALB","Albania","_T",2009,989796.273,"A","Normal value","ALL","Lek",5.64392656681586
+"15","ALB","Albania","_T",2010,1077484.546,"A","Normal value","ALL","Lek",8.85922440728366
+"16","ALB","Albania","_T",2011,1131120.799,"A","Normal value","ALL","Lek",4.97791390132848
+"17","ALB","Albania","_T",2012,1154746.558,"A","Normal value","ALL","Lek",2.08870343652834
+"18","ALB","Albania","_T",2013,1177698.413,"A","Normal value","ALL","Lek",1.98760973488002
+"19","ALB","Albania","_T",2014,1217843.175,"A","Normal value","ALL","Lek",3.40874722737697
+"20","ALB","Albania","_T",2015,1259726.07,"A","Normal value","ALL","Lek",3.43910413588351
+"21","ALB","Albania","_T",2016,1291203.203,"A","Normal value","ALL","Lek",2.49872839418175
+"22","ALB","Albania","_T",2017,1355126.08,"P","Provisional value","ALL","Lek",4.95064424030863
+"23","AUS","Australia","_T",1989,374400,"A","Normal value","AUD","Australian dollar",NA
+"24","AUS","Australia","_T",1990,382599,"A","Normal value","AUD","Australian dollar",2.18990384615385
+"25","AUS","Australia","_T",1991,388821,"A","Normal value","AUD","Australian dollar",1.62624575600041
+"26","AUS","Australia","_T",1992,411769,"A","Normal value","AUD","Australian dollar",5.90194459661387
+"27","AUS","Australia","_T",1993,432543,"A","Normal value","AUD","Australian dollar",5.04506167292827
+"28","AUS","Australia","_T",1994,455585,"A","Normal value","AUD","Australian dollar",5.32710042700957
+"29","AUS","Australia","_T",1995,485832,"A","Normal value","AUD","Australian dollar",6.63915624965703
+"30","AUS","Australia","_T",1996,511524,"A","Normal value","AUD","Australian dollar",5.28824778935928
+"31","AUS","Australia","_T",1997,542229,"A","Normal value","AUD","Australian dollar",6.00265090201046
+"32","AUS","Australia","_T",1998,572052,"A","Normal value","AUD","Australian dollar",5.5000746916893
+"33","AUS","Australia","_T",1999,609853,"A","Normal value","AUD","Australian dollar",6.60796570941103
+"34","AUS","Australia","_T",2000,645828,"A","Normal value","AUD","Australian dollar",5.89896253687364
+"35","AUS","Australia","_T",2001,692223,"A","Normal value","AUD","Australian dollar",7.18380125977815
+"36","AUS","Australia","_T",2002,732435,"A","Normal value","AUD","Australian dollar",5.80911064786926
+"37","AUS","Australia","_T",2003,788421,"A","Normal value","AUD","Australian dollar",7.64381822277745
+"38","AUS","Australia","_T",2004,849891,"A","Normal value","AUD","Australian dollar",7.79659598108117
+"39","AUS","Australia","_T",2005,919824,"A","Normal value","AUD","Australian dollar",8.22846694458466
+"40","AUS","Australia","_T",2006,1003629,"A","Normal value","AUD","Australian dollar",9.11098210092366
+"41","AUS","Australia","_T",2007,1089586,"A","Normal value","AUD","Australian dollar",8.5646189976575
+"42","AUS","Australia","_T",2008,1177789,"A","Normal value","AUD","Australian dollar",8.09509299862517
+"43","AUS","Australia","_T",2009,1213418,"A","Normal value","AUD","Australian dollar",3.02507494975755
+"44","AUS","Australia","_T",2010,1324652,"A","Normal value","AUD","Australian dollar",9.166997687524
+"45","AUS","Australia","_T",2011,1406934,"A","Normal value","AUD","Australian dollar",6.21159368649275
+"46","AUS","Australia","_T",2012,1439811,"A","Normal value","AUD","Australian dollar",2.3367833885598
+"47","AUS","Australia","_T",2013,1494119,"A","Normal value","AUD","Australian dollar",3.77188394865715
+"48","AUS","Australia","_T",2014,1514482,"A","Normal value","AUD","Australian dollar",1.36287671865494
+"49","AUS","Australia","_T",2015,1540448,"A","Normal value","AUD","Australian dollar",1.71451360927367
+"50","AUS","Australia","_T",2016,1637630,"A","Normal value","AUD","Australian dollar",6.30868422692619
+"51","AUS","Australia","_T",2017,1718288,"A","Normal value","AUD","Australian dollar",4.92528837405275
+"52","AUS","Australia","_T",2018,1821534,"A","Normal value","AUD","Australian dollar",6.008655126498
+"53","AUS","Australia","_T",2019,1858747,"A","Normal value","AUD","Australian dollar",2.04294841600541
+"54","AUS","Australia","_T",2020,1951756,"A","Normal value","AUD","Australian dollar",5.00385474731096
+"55","AUS","Australia","_T",2021,2180676,"A","Normal value","AUD","Australian dollar",11.7289251320349
+"56","AUS","Australia","_T",2022,2406811,"A","Normal value","AUD","Australian dollar",10.3699495018976
+"57","AUT","Austria","_T",1995,158820.63,"A","Normal value","EUR","Euro",NA
+"58","AUT","Austria","_T",1996,163219.61,"A","Normal value","EUR","Euro",2.76977871199729
+"59","AUT","Austria","_T",1997,168102.79,"A","Normal value","EUR","Euro",2.99178511699668
+"60","AUT","Austria","_T",1998,175075.99,"A","Normal value","EUR","Euro",4.14817624383271
+"61","AUT","Austria","_T",1999,181186.53,"A","Normal value","EUR","Euro",3.49022158892262
+"62","AUT","Austria","_T",2000,190624.81,"A","Normal value","EUR","Euro",5.20915103346811
+"63","AUT","Austria","_T",2001,197076.6,"A","Normal value","EUR","Euro",3.38454894722256
+"64","AUT","Austria","_T",2002,202353.36,"A","Normal value","EUR","Euro",2.67751726993462
+"65","AUT","Austria","_T",2003,207247.67,"A","Normal value","EUR","Euro",2.41869470316679
+"66","AUT","Austria","_T",2004,216098.33,"A","Normal value","EUR","Euro",4.27057153404908
+"67","AUT","Austria","_T",2005,225888.12,"A","Normal value","EUR","Euro",4.53024787373415
+"68","AUT","Austria","_T",2006,239076.01,"A","Normal value","EUR","Euro",5.83823974452486
+"69","AUT","Austria","_T",2007,253604.66,"A","Normal value","EUR","Euro",6.07700036486304
+"70","AUT","Austria","_T",2008,262414.78,"A","Normal value","EUR","Euro",3.4739582466663
+"71","AUT","Austria","_T",2009,256670.97,"A","Normal value","EUR","Euro",-2.18882869326188
+"72","AUT","Austria","_T",2010,263633.49,"A","Normal value","EUR","Euro",2.71262464937113
+"73","AUT","Austria","_T",2011,276404,"A","Normal value","EUR","Euro",4.84403935175308
+"74","AUT","Austria","_T",2012,283548.23,"A","Normal value","EUR","Euro",2.58470572061185
+"75","AUT","Austria","_T",2013,288624.22,"A","Normal value","EUR","Euro",1.79016811355161
+"76","AUT","Austria","_T",2014,297230.17,"A","Normal value","EUR","Euro",2.98171442438199
+"77","AUT","Austria","_T",2015,307037.68,"A","Normal value","EUR","Euro",3.29963475780403
+"78","AUT","Austria","_T",2016,318952.72,"A","Normal value","EUR","Euro",3.88064422581619
+"79","AUT","Austria","_T",2017,329416.81,"A","Normal value","EUR","Euro",3.28076524947021
+"80","AUT","Austria","_T",2018,344266.93,"A","Normal value","EUR","Euro",4.50800309795969
+"81","AUT","Austria","_T",2019,354912.53,"A","Normal value","EUR","Euro",3.09225170131794
+"82","AUT","Austria","_T",2020,341842.08,"A","Normal value","EUR","Euro",-3.6827243039292
+"83","AUT","Austria","_T",2021,362447.11,"A","Normal value","EUR","Euro",6.02764586501462
+"84","AUT","Austria","_T",2022,400849.77,"A","Normal value","EUR","Euro",10.5953831443159
+"85","BEL","Belgium","_T",1995,189742.8,"A","Normal value","EUR","Euro",NA
+"86","BEL","Belgium","_T",1996,192228.5,"A","Normal value","EUR","Euro",1.31003653366558
+"87","BEL","Belgium","_T",1997,200615.9,"A","Normal value","EUR","Euro",4.36324478420213
+"88","BEL","Belgium","_T",1998,208114.5,"A","Normal value","EUR","Euro",3.73778947730464
+"89","BEL","Belgium","_T",1999,216177.4,"A","Normal value","EUR","Euro",3.87426152430513
+"90","BEL","Belgium","_T",2000,228625.4,"A","Normal value","EUR","Euro",5.75823374691341
+"91","BEL","Belgium","_T",2001,236804.2,"A","Normal value","EUR","Euro",3.57738029107878
+"92","BEL","Belgium","_T",2002,244560.7,"A","Normal value","EUR","Euro",3.27549089078657
+"93","BEL","Belgium","_T",2003,251865.8,"A","Normal value","EUR","Euro",2.98702939597408
+"94","BEL","Belgium","_T",2004,264845.4,"A","Normal value","EUR","Euro",5.15337929961116
+"95","BEL","Belgium","_T",2005,276828.7,"A","Normal value","EUR","Euro",4.52463965770219
+"96","BEL","Belgium","_T",2006,290022.6,"A","Normal value","EUR","Euro",4.7660881982251
+"97","BEL","Belgium","_T",2007,306588.9,"A","Normal value","EUR","Euro",5.71207209369203
+"98","BEL","Belgium","_T",2008,313984,"A","Normal value","EUR","Euro",2.41205731844825
+"99","BEL","Belgium","_T",2009,309511.7,"A","Normal value","EUR","Euro",-1.42437194251936
+"100","BEL","Belgium","_T",2010,324347,"A","Normal value","EUR","Euro",4.7931305989402
+"101","BEL","Belgium","_T",2011,336110.2,"A","Normal value","EUR","Euro",3.6267330975776
+"102","BEL","Belgium","_T",2012,345068.6,"A","Normal value","EUR","Euro",2.66531631589876
+"103","BEL","Belgium","_T",2013,350968.6,"A","Normal value","EUR","Euro",1.709804948929
+"104","BEL","Belgium","_T",2014,360582.4,"A","Normal value","EUR","Euro",2.73921940595257
+"105","BEL","Belgium","_T",2015,373301.6,"A","Normal value","EUR","Euro",3.52740455440974
+"106","BEL","Belgium","_T",2016,384032.7,"A","Normal value","EUR","Euro",2.8746461306354
+"107","BEL","Belgium","_T",2017,397034.3,"A","Normal value","EUR","Euro",3.38554503301411
+"108","BEL","Belgium","_T",2018,410200.8,"A","Normal value","EUR","Euro",3.31621222650033
+"109","BEL","Belgium","_T",2019,427346.3,"A","Normal value","EUR","Euro",4.17978219447646
+"110","BEL","Belgium","_T",2020,413620.9,"A","Normal value","EUR","Euro",-3.21177461931927
+"111","BEL","Belgium","_T",2021,453019.9,"A","Normal value","EUR","Euro",9.52538907003974
+"112","BEL","Belgium","_T",2022,497016.1,"P","Provisional value","EUR","Euro",9.71175879911676
+"113","BGR","Bulgaria","_T",1995,1178.546,"A","Normal value","BGN","Bulgarian lev",NA
+"114","BGR","Bulgaria","_T",1996,2006.421,"A","Normal value","BGN","Bulgarian lev",70.2454549928471
+"115","BGR","Bulgaria","_T",1997,17384.687,"A","Normal value","BGN","Bulgarian lev",766.45260391513
+"116","BGR","Bulgaria","_T",1998,23585.464,"A","Normal value","BGN","Bulgarian lev",35.6680393498025
+"117","BGR","Bulgaria","_T",1999,22213.215,"A","Normal value","BGN","Bulgarian lev",-5.8181980223073
+"118","BGR","Bulgaria","_T",2000,24655.486,"A","Normal value","BGN","Bulgarian lev",10.9946759170161
+"119","BGR","Bulgaria","_T",2001,27291.589,"A","Normal value","BGN","Bulgarian lev",10.6917503066052
+"120","BGR","Bulgaria","_T",2002,30312.883,"A","Normal value","BGN","Bulgarian lev",11.0704217332307
+"121","BGR","Bulgaria","_T",2003,31973.045,"A","Normal value","BGN","Bulgarian lev",5.47675389371574
+"122","BGR","Bulgaria","_T",2004,35284.842,"A","Normal value","BGN","Bulgarian lev",10.3580906979614
+"123","BGR","Bulgaria","_T",2005,39985.885,"A","Normal value","BGN","Bulgarian lev",13.3231232833634
+"124","BGR","Bulgaria","_T",2006,45249.165,"A","Normal value","BGN","Bulgarian lev",13.1628448388725
+"125","BGR","Bulgaria","_T",2007,53865.637,"A","Normal value","BGN","Bulgarian lev",19.0422784597241
+"126","BGR","Bulgaria","_T",2008,61247.218,"A","Normal value","BGN","Bulgarian lev",13.7036920216872
+"127","BGR","Bulgaria","_T",2009,63592.188,"A","Normal value","BGN","Bulgarian lev",3.82869634993054
+"128","BGR","Bulgaria","_T",2010,65357.402,"A","Normal value","BGN","Bulgarian lev",2.77583466698771
+"129","BGR","Bulgaria","_T",2011,70806.783,"A","Normal value","BGN","Bulgarian lev",8.33781765070771
+"130","BGR","Bulgaria","_T",2012,71898.846,"A","Normal value","BGN","Bulgarian lev",1.54231410287346
+"131","BGR","Bulgaria","_T",2013,70901.647,"A","Normal value","BGN","Bulgarian lev",-1.38694715628678
+"132","BGR","Bulgaria","_T",2014,72984.821,"A","Normal value","BGN","Bulgarian lev",2.93811792552576
+"133","BGR","Bulgaria","_T",2015,77388.745,"A","Normal value","BGN","Bulgarian lev",6.03402726712175
+"134","BGR","Bulgaria","_T",2016,82144.296,"A","Normal value","BGN","Bulgarian lev",6.14501630695782
+"135","BGR","Bulgaria","_T",2017,88355.926,"A","Normal value","BGN","Bulgarian lev",7.56185189048306
+"136","BGR","Bulgaria","_T",2018,95278.007,"A","Normal value","BGN","Bulgarian lev",7.83431436166488
+"137","BGR","Bulgaria","_T",2019,103951.79,"A","Normal value","BGN","Bulgarian lev",9.10365704857785
+"138","BGR","Bulgaria","_T",2020,103976.657,"A","Normal value","BGN","Bulgarian lev",0.0239216659953743
+"139","BRA","Brazil","_T",1995,610785.367,"A","Normal value","BRL","Brazilian real",NA
+"140","BRA","Brazil","_T",1996,747297.646,"A","Normal value","BRL","Brazilian real",22.3502864304868
+"141","BRA","Brazil","_T",1997,836742.709,"A","Normal value","BRL","Brazilian real",11.9691348525939
+"142","BRA","Brazil","_T",1998,881942.883,"A","Normal value","BRL","Brazilian real",5.40192026937638
+"143","BRA","Brazil","_T",1999,941917.547,"A","Normal value","BRL","Brazilian real",6.80028890260913
+"144","BRA","Brazil","_T",2000,1031326.378,"A","Normal value","BRL","Brazilian real",9.49221418422095
+"145","BRA","Brazil","_T",2001,1120421.874,"A","Normal value","BRL","Brazilian real",8.63892341944928
+"146","BRA","Brazil","_T",2002,1270214.649,"A","Normal value","BRL","Brazilian real",13.3693190463363
+"147","BRA","Brazil","_T",2003,1470717.24,"A","Normal value","BRL","Brazilian real",15.7849376999273
+"148","BRA","Brazil","_T",2004,1661982.108,"A","Normal value","BRL","Brazilian real",13.0048701951709
+"149","BRA","Brazil","_T",2005,1842818.401,"A","Normal value","BRL","Brazilian real",10.8807605165867
+"150","BRA","Brazil","_T",2006,2049289.99,"A","Normal value","BRL","Brazilian real",11.2041202154243
+"151","BRA","Brazil","_T",2007,2319528.275,"A","Normal value","BRL","Brazilian real",13.1869226082542
+"152","BRA","Brazil","_T",2008,2626477.702,"A","Normal value","BRL","Brazilian real",13.2332694672584
+"153","BRA","Brazil","_T",2009,2849762.842,"A","Normal value","BRL","Brazilian real",8.50131489142184
+"154","BRA","Brazil","_T",2010,3302840,"A","Normal value","BRL","Brazilian real",15.8987671297596
+"155","BRA","Brazil","_T",2011,3720461,"A","Normal value","BRL","Brazilian real",12.6443000569207
+"156","BRA","Brazil","_T",2012,4094259,"A","Normal value","BRL","Brazilian real",10.0470882506227
+"157","BRA","Brazil","_T",2013,4553760,"A","Normal value","BRL","Brazilian real",11.2230564798172
+"158","BRA","Brazil","_T",2014,4972734,"A","Normal value","BRL","Brazilian real",9.20061663328766
+"159","BRA","Brazil","_T",2015,5155601,"A","Normal value","BRL","Brazilian real",3.67739356257544
+"160","BRA","Brazil","_T",2016,5417699,"A","Normal value","BRL","Brazilian real",5.08375260226693
+"161","CAN","Canada","_T",2007,1468926,"A","Normal value","CAD","Canadian dollar",NA
+"162","CAN","Canada","_T",2008,1550927,"A","Normal value","CAD","Canadian dollar",5.58237787335781
+"163","CAN","Canada","_T",2009,1465150,"A","Normal value","CAD","Canadian dollar",-5.53069228919221
+"164","CAN","Canada","_T",2010,1555133,"A","Normal value","CAD","Canadian dollar",6.14155547213596
+"165","CAN","Canada","_T",2011,1658213,"A","Normal value","CAD","Canadian dollar",6.62837197847387
+"166","CAN","Canada","_T",2012,1710433,"A","Normal value","CAD","Canadian dollar",3.14917323649013
+"167","CAN","Canada","_T",2013,1781930,"A","Normal value","CAD","Canadian dollar",4.18005265333398
+"168","CAN","Canada","_T",2014,1867752,"A","Normal value","CAD","Canadian dollar",4.81623857278344
+"169","CAN","Canada","_T",2015,1856814,"A","Normal value","CAD","Canadian dollar",-0.585623787312234
+"170","CAN","Canada","_T",2016,1886103,"A","Normal value","CAD","Canadian dollar",1.57737931747606
+"171","CAN","Canada","_T",2017,1991534,"A","Normal value","CAD","Canadian dollar",5.58988560009713
+"172","CAN","Canada","_T",2018,2083379,"A","Normal value","CAD","Canadian dollar",4.61177162930686
+"173","CAN","Canada","_T",2019,2161924,"A","Normal value","CAD","Canadian dollar",3.77007735990427
+"174","CAN","Canada","_T",2020,2083990,"A","Normal value","CAD","Canadian dollar",-3.60484457362979
+"175","CHE","Switzerland","_T",1995,404810.502,"A","Normal value","CHF","Swiss franc",NA
+"176","CHE","Switzerland","_T",1996,408171.656,"A","Normal value","CHF","Swiss franc",0.83030306362952
+"177","CHE","Switzerland","_T",1997,414722.96,"A","Normal value","CHF","Swiss franc",1.60503648494397
+"178","CHE","Switzerland","_T",1998,425675.404,"A","Normal value","CHF","Swiss franc",2.64090611235991
+"179","CHE","Switzerland","_T",1999,429458.899,"A","Normal value","CHF","Swiss franc",0.888821614884753
+"180","CHE","Switzerland","_T",2000,450789.701,"A","Normal value","CHF","Swiss franc",4.96690185013491
+"181","CHE","Switzerland","_T",2001,463790.407,"A","Normal value","CHF","Swiss franc",2.88398469866551
+"182","CHE","Switzerland","_T",2002,463910.645,"A","Normal value","CHF","Swiss franc",0.0259250726589548
+"183","CHE","Switzerland","_T",2003,469476.749,"A","Normal value","CHF","Swiss franc",1.19982243563305
+"184","CHE","Switzerland","_T",2004,483128.179,"A","Normal value","CHF","Swiss franc",2.90779682467299
+"185","CHE","Switzerland","_T",2005,501466.585,"A","Normal value","CHF","Swiss franc",3.79576410507821
+"186","CHE","Switzerland","_T",2006,532874.427,"A","Normal value","CHF","Swiss franc",6.26319737734868
+"187","CHE","Switzerland","_T",2007,566756.968,"A","Normal value","CHF","Swiss franc",6.35844755972873
+"188","CHE","Switzerland","_T",2008,591685.379,"A","Normal value","CHF","Swiss franc",4.39843043976479
+"189","CHE","Switzerland","_T",2009,581814.705,"A","Normal value","CHF","Swiss franc",-1.66823016933126
+"190","CHE","Switzerland","_T",2010,602043.653,"A","Normal value","CHF","Swiss franc",3.47687121452183
+"191","CHE","Switzerland","_T",2011,613407.168,"A","Normal value","CHF","Swiss franc",1.88749020828892
+"192","CHE","Switzerland","_T",2012,622570.345,"A","Normal value","CHF","Swiss franc",1.49381642048239
+"193","CHE","Switzerland","_T",2013,633350.527,"A","Normal value","CHF","Swiss franc",1.731560471291
+"194","CHE","Switzerland","_T",2014,644195.959,"A","Normal value","CHF","Swiss franc",1.71239014379158
+"195","CHE","Switzerland","_T",2015,647026.203,"A","Normal value","CHF","Swiss franc",0.439345196202938
+"196","CHE","Switzerland","_T",2016,657552.748,"A","Normal value","CHF","Swiss franc",1.62691170020514
+"197","CHE","Switzerland","_T",2017,663605.121,"A","Normal value","CHF","Swiss franc",0.92043916148306
+"198","CHE","Switzerland","_T",2018,689166.966,"A","Normal value","CHF","Swiss franc",3.85196620566766
+"199","CHE","Switzerland","_T",2019,697026.711,"A","Normal value","CHF","Swiss franc",1.14047036317176
+"200","CHE","Switzerland","_T",2020,677698.369,"P","Provisional value","CHF","Swiss franc",-2.77297005910582
+"201","CHE","Switzerland","_T",2021,722434.285,"P","Provisional value","CHF","Swiss franc",6.60115444368143
+"202","CHE","Switzerland","_T",2022,760191.856,"P","Provisional value","CHF","Swiss franc",5.22643675472849
+"203","CHL","Chile","_T",2018,170093998.143,"A","Normal value","CLP","Chilean peso",NA
+"204","CHL","Chile","_T",2019,175957882.257,"A","Normal value","CLP","Chilean peso",3.44743740403477
+"205","CHL","Chile","_T",2020,181573950.773,"A","Normal value","CLP","Chilean peso",3.19171181419273
+"206","CHL","Chile","_T",2021,214097570.407,"A","Normal value","CLP","Chilean peso",17.9120515335707
+"207","CHL","Chile","_T",2022,236562726.984,"A","Normal value","CLP","Chilean peso",10.4929525983381
+"208","CMR","Cameroon","_T",1993,4343119.633,"A","Normal value","XAF","CFA franc - BEAC",NA
+"209","CMR","Cameroon","_T",1994,4673013.101,"A","Normal value","XAF","CFA franc - BEAC",7.59577206884643
+"210","CMR","Cameroon","_T",1995,5094565.132,"A","Normal value","XAF","CFA franc - BEAC",9.02098971025334
+"211","CMR","Cameroon","_T",1996,5292243.503,"A","Normal value","XAF","CFA franc - BEAC",3.88018144587732
+"212","CMR","Cameroon","_T",1997,5836918.854,"A","Normal value","XAF","CFA franc - BEAC",10.2919555891796
+"213","CMR","Cameroon","_T",1998,6139763.054,"A","Normal value","XAF","CFA franc - BEAC",5.18842573582229
+"214","CMR","Cameroon","_T",1999,6557396.914,"A","Normal value","XAF","CFA franc - BEAC",6.80211689485176
+"215","CMR","Cameroon","_T",2000,6876337.063,"A","Normal value","XAF","CFA franc - BEAC",4.86382253785896
+"216","CMR","Cameroon","_T",2001,7319627.363,"A","Normal value","XAF","CFA franc - BEAC",6.44660516112923
+"217","CMR","Cameroon","_T",2002,7898875.648,"A","Normal value","XAF","CFA franc - BEAC",7.91363079393964
+"218","CMR","Cameroon","_T",2003,8501470.72,"A","Normal value","XAF","CFA franc - BEAC",7.62887148568516
+"219","CMR","Cameroon","_T",2004,9267406.712,"A","Normal value","XAF","CFA franc - BEAC",9.00945280206762
+"220","CMR","Cameroon","_T",2005,9552527.901,"A","Normal value","XAF","CFA franc - BEAC",3.07660166280184
+"221","CMR","Cameroon","_T",2006,10078575.662,"A","Normal value","XAF","CFA franc - BEAC",5.50689583377119
+"222","CMR","Cameroon","_T",2007,10546288.624,"A","Normal value","XAF","CFA franc - BEAC",4.64066528530864
+"223","CMR","Cameroon","_T",2008,11520500.914,"A","Normal value","XAF","CFA franc - BEAC",9.23748936458086
+"224","CMR","Cameroon","_T",2009,12285664.829,"A","Normal value","XAF","CFA franc - BEAC",6.64175907551166
+"225","CMR","Cameroon","_T",2010,12759479.386,"A","Normal value","XAF","CFA franc - BEAC",3.85664564022268
+"226","CMR","Cameroon","_T",2011,13603985.708,"A","Normal value","XAF","CFA franc - BEAC",6.61865814781293
+"227","CMR","Cameroon","_T",2012,14478850.769,"A","Normal value","XAF","CFA franc - BEAC",6.43094663415827
+"228","CMR","Cameroon","_T",2013,15622894.795,"A","Normal value","XAF","CFA franc - BEAC",7.90148364847755
+"229","CMR","Cameroon","_T",2014,16701570.596,"A","Normal value","XAF","CFA franc - BEAC",6.90445538521596
+"230","CMR","Cameroon","_T",2015,17493194.331,"A","Normal value","XAF","CFA franc - BEAC",4.73981611759071
+"231","CMR","Cameroon","_T",2016,18403673,"A","Normal value","XAF","CFA franc - BEAC",5.20475935825239
+"232","CMR","Cameroon","_T",2017,19141006,"A","Normal value","XAF","CFA franc - BEAC",4.00644480044826
+"233","CMR","Cameroon","_T",2018,20344351,"A","Normal value","XAF","CFA franc - BEAC",6.28673853401436
+"234","CMR","Cameroon","_T",2019,21304219,"A","Normal value","XAF","CFA franc - BEAC",4.71810577786433
+"235","CMR","Cameroon","_T",2020,21775143,"A","Normal value","XAF","CFA franc - BEAC",2.21047295843138
+"236","COL","Colombia","_T",2005,307697000,"A","Normal value","COP","Colombian peso",NA
+"237","COL","Colombia","_T",2006,345775000,"A","Normal value","COP","Colombian peso",12.3751612787905
+"238","COL","Colombia","_T",2007,387663000,"A","Normal value","COP","Colombian peso",12.1142361362157
+"239","COL","Colombia","_T",2008,432854000,"A","Normal value","COP","Colombian peso",11.6572899657692
+"240","COL","Colombia","_T",2009,458523000,"A","Normal value","COP","Colombian peso",5.93017507057807
+"241","COL","Colombia","_T",2010,495613000,"A","Normal value","COP","Colombian peso",8.08901625436456
+"242","COL","Colombia","_T",2011,562283000,"A","Normal value","COP","Colombian peso",13.4520280945012
+"243","COL","Colombia","_T",2012,606358000,"A","Normal value","COP","Colombian peso",7.83857950533806
+"244","COL","Colombia","_T",2013,653334000,"A","Normal value","COP","Colombian peso",7.74723843010235
+"245","COL","Colombia","_T",2014,694752000,"A","Normal value","COP","Colombian peso",6.33948332705783
+"246","COL","Colombia","_T",2015,730543000,"A","Normal value","COP","Colombian peso",5.15162244944959
+"247","COL","Colombia","_T",2016,787719000,"A","Normal value","COP","Colombian peso",7.82650713236592
+"248","COL","Colombia","_T",2017,835906000,"A","Normal value","COP","Colombian peso",6.11728293972851
+"249","COL","Colombia","_T",2018,896656000,"A","Normal value","COP","Colombian peso",7.26756357772285
+"250","COL","Colombia","_T",2019,959792000,"A","Normal value","COP","Colombian peso",7.04127335343766
+"251","COL","Colombia","_T",2020,909303000,"A","Normal value","COP","Colombian peso",-5.26041058896094
+"252","COL","Colombia","_T",2021,1079574000,"P","Provisional value","COP","Colombian peso",18.725441354532
+"253","COL","Colombia","_T",2022,1321264000,"P","Provisional value","COP","Colombian peso",22.3875343422498
+"254","CPV","Cabo Verde","_T",2007,116259.789,"A","Normal value","CVE","Cape Verde escudo",NA
+"255","CPV","Cabo Verde","_T",2008,128851.214,"A","Normal value","CVE","Cape Verde escudo",10.8304213419827
+"256","CPV","Cabo Verde","_T",2009,131508.947,"A","Normal value","CVE","Cape Verde escudo",2.06263714364381
+"257","CPV","Cabo Verde","_T",2010,134045.811,"A","Normal value","CVE","Cape Verde escudo",1.92904289622211
+"258","CPV","Cabo Verde","_T",2011,141529.137,"A","Normal value","CVE","Cape Verde escudo",5.58266307926624
+"259","CPV","Cabo Verde","_T",2012,146087.724,"A","Normal value","CVE","Cape Verde escudo",3.22095301125167
+"260","CPV","Cabo Verde","_T",2013,149068.009,"A","Normal value","CVE","Cape Verde escudo",2.04006532403777
+"261","CPV","Cabo Verde","_T",2014,150460.347,"A","Normal value","CVE","Cape Verde escudo",0.934028709003565
+"262","CPV","Cabo Verde","_T",2015,153348.765,"A","Normal value","CVE","Cape Verde escudo",1.91972041643637
+"263","CPV","Cabo Verde","_T",2016,162762.878,"A","Normal value","CVE","Cape Verde escudo",6.13902107395517
+"264","CPV","Cabo Verde","_T",2017,170885.7,"A","Normal value","CVE","Cape Verde escudo",4.99058636699703
+"265","CPV","Cabo Verde","_T",2018,178343.955,"A","Normal value","CVE","Cape Verde escudo",4.36446993516718
+"266","CPV","Cabo Verde","_T",2019,194207.152,"A","Normal value","CVE","Cape Verde escudo",8.89472087797987
+"267","CPV","Cabo Verde","_T",2020,153153.803,"A","Normal value","CVE","Cape Verde escudo",-21.1389480651052
+"268","CRI","Costa Rica","_T",1991,811544.131,"A","Normal value","CRC","Costa Rican colon",NA
+"269","CRI","Costa Rica","_T",1992,1050066.609,"A","Normal value","CRC","Costa Rican colon",29.391190064561
+"270","CRI","Costa Rica","_T",1993,1252733.321,"A","Normal value","CRC","Costa Rican colon",19.3003672588926
+"271","CRI","Costa Rica","_T",1994,1511708.496,"A","Normal value","CRC","Costa Rican colon",20.6728096601815
+"272","CRI","Costa Rica","_T",1995,1904817.934,"A","Normal value","CRC","Costa Rican colon",26.0043149218366
+"273","CRI","Costa Rica","_T",1996,2208915.296,"A","Normal value","CRC","Costa Rican colon",15.9646418994709
+"274","CRI","Costa Rica","_T",1997,2677100.038,"A","Normal value","CRC","Costa Rican colon",21.1952329203301
+"275","CRI","Costa Rica","_T",1998,3221767.112,"A","Normal value","CRC","Costa Rican colon",20.3454135545457
+"276","CRI","Costa Rica","_T",1999,3708075.465,"A","Normal value","CRC","Costa Rican colon",15.0944601547599
+"277","CRI","Costa Rica","_T",2000,4191052.552,"A","Normal value","CRC","Costa Rican colon",13.0250069492585
+"278","CRI","Costa Rica","_T",2001,4743750.182,"A","Normal value","CRC","Costa Rican colon",13.1875614333743
+"279","CRI","Costa Rica","_T",2002,5395717.447,"A","Normal value","CRC","Costa Rican colon",13.7437099338382
+"280","CRI","Costa Rica","_T",2003,6251567.948,"A","Normal value","CRC","Costa Rican colon",15.8616626872456
+"281","CRI","Costa Rica","_T",2004,7401978.47,"A","Normal value","CRC","Costa Rican colon",18.4019518234308
+"282","CRI","Costa Rica","_T",2005,8684770.782,"A","Normal value","CRC","Costa Rican colon",17.3303977740427
+"283","CRI","Costa Rica","_T",2006,10490019.078,"A","Normal value","CRC","Costa Rican colon",20.7863666332052
+"284","CRI","Costa Rica","_T",2007,12470286.319,"A","Normal value","CRC","Costa Rican colon",18.8776324072954
+"285","CRI","Costa Rica","_T",2008,14580940.747,"A","Normal value","CRC","Costa Rican colon",16.9254688626047
+"286","CRI","Costa Rica","_T",2009,16151214.734,"A","Normal value","CRC","Costa Rican colon",10.7693599078858
+"287","CRI","Costa Rica","_T",2010,18161593.754,"A","Normal value","CRC","Costa Rican colon",12.4472310789599
+"288","CRI","Costa Rica","_T",2011,19757809.843,"A","Normal value","CRC","Costa Rican colon",8.78896483767257
+"289","CRI","Costa Rica","_T",2012,21762808.587,"A","Normal value","CRC","Costa Rican colon",10.1478795470357
+"290","CRI","Costa Rica","_T",2013,23349213.836,"A","Normal value","CRC","Costa Rican colon",7.28952443182189
+"291","CRI","Costa Rica","_T",2014,25733979.096,"A","Normal value","CRC","Costa Rican colon",10.2134713260587
+"292","CRI","Costa Rica","_T",2015,27762675.444,"A","Normal value","CRC","Costa Rican colon",7.88333720343828
+"293","CRI","Costa Rica","_T",2016,29498060.197,"A","Normal value","CRC","Costa Rican colon",6.2507835619101
+"294","CRI","Costa Rica","_T",2017,31718871.592,"A","Normal value","CRC","Costa Rican colon",7.52866927577109
+"295","CRI","Costa Rica","_T",2018,33390175.698,"A","Normal value","CRC","Costa Rican colon",5.26911589888188
+"296","CRI","Costa Rica","_T",2019,35047969.186,"A","Normal value","CRC","Costa Rican colon",4.96491394053759
+"297","CRI","Costa Rica","_T",2020,33920318.147,"A","Normal value","CRC","Costa Rican colon",-3.21745044061052
+"298","CRI","Costa Rica","_T",2021,37121434.154,"E","Estimated value","CRC","Costa Rican colon",9.43716386481804
+"299","CRI","Costa Rica","_T",2022,41256416.789,"E","Estimated value","CRC","Costa Rican colon",11.1390702682602
+"300","CYP","Cyprus","_T",1995,7007.6,"A","Normal value","EUR","Euro",NA
+"301","CYP","Cyprus","_T",1996,7317.6,"A","Normal value","EUR","Euro",4.42376847993607
+"302","CYP","Cyprus","_T",1997,7723.6,"A","Normal value","EUR","Euro",5.54826719142888
+"303","CYP","Cyprus","_T",1998,8414,"A","Normal value","EUR","Euro",8.93883681184939
+"304","CYP","Cyprus","_T",1999,9013.5,"A","Normal value","EUR","Euro",7.12502971238412
+"305","CYP","Cyprus","_T",2000,9653.7,"A","Normal value","EUR","Euro",7.1026793143618
+"306","CYP","Cyprus","_T",2001,10342.6,"A","Normal value","EUR","Euro",7.13612397319162
+"307","CYP","Cyprus","_T",2002,10703.8,"A","Normal value","EUR","Euro",3.49235201980159
+"308","CYP","Cyprus","_T",2003,11396.6,"A","Normal value","EUR","Euro",6.47246772174369
+"309","CYP","Cyprus","_T",2004,12190.1,"A","Normal value","EUR","Euro",6.96260288156117
+"310","CYP","Cyprus","_T",2005,12949.7,"A","Normal value","EUR","Euro",6.23128604359275
+"311","CYP","Cyprus","_T",2006,13935.9,"A","Normal value","EUR","Euro",7.61562043908352
+"312","CYP","Cyprus","_T",2007,15116,"A","Normal value","EUR","Euro",8.46805731958467
+"313","CYP","Cyprus","_T",2008,16416.5,"A","Normal value","EUR","Euro",8.60346652553586
+"314","CYP","Cyprus","_T",2009,16419.5,"A","Normal value","EUR","Euro",0.0182742972009868
+"315","CYP","Cyprus","_T",2010,17109.3,"A","Normal value","EUR","Euro",4.20110234781814
+"316","CYP","Cyprus","_T",2011,17594.1,"A","Normal value","EUR","Euro",2.83354666760183
+"317","CYP","Cyprus","_T",2012,17239.3,"A","Normal value","EUR","Euro",-2.01658510523414
+"318","CYP","Cyprus","_T",2013,15992.4,"A","Normal value","EUR","Euro",-7.23289228680979
+"319","CYP","Cyprus","_T",2014,15270.2,"A","Normal value","EUR","Euro",-4.51589505014881
+"320","CYP","Cyprus","_T",2015,15654.7,"A","Normal value","EUR","Euro",2.51797618891698
+"321","CYP","Cyprus","_T",2016,16562,"A","Normal value","EUR","Euro",5.79570352673638
+"322","CYP","Cyprus","_T",2017,17673.3,"A","Normal value","EUR","Euro",6.70993841323511
+"323","CYP","Cyprus","_T",2018,18829.4,"A","Normal value","EUR","Euro",6.54150611374221
+"324","CYP","Cyprus","_T",2019,20160.1,"A","Normal value","EUR","Euro",7.06713968581047
+"325","CYP","Cyprus","_T",2020,19201.9,"P","Provisional value","EUR","Euro",-4.75295261432234
+"326","CZE","Czechia","_T",1995,1450345,"A","Normal value","CZK","Czech koruna",NA
+"327","CZE","Czechia","_T",1996,1660069,"A","Normal value","CZK","Czech koruna",14.4602835876981
+"328","CZE","Czechia","_T",1997,1795740,"A","Normal value","CZK","Czech koruna",8.17261210226804
+"329","CZE","Czechia","_T",1998,1967504,"A","Normal value","CZK","Czech koruna",9.56508180471561
+"330","CZE","Czechia","_T",1999,2046075,"A","Normal value","CZK","Czech koruna",3.99343533736145
+"331","CZE","Czechia","_T",2000,2173796,"A","Normal value","CZK","Czech koruna",6.24224429700769
+"332","CZE","Czechia","_T",2001,2353831,"A","Normal value","CZK","Czech koruna",8.28205590588997
+"333","CZE","Czechia","_T",2002,2460702,"A","Normal value","CZK","Czech koruna",4.54030047186905
+"334","CZE","Czechia","_T",2003,2581146,"A","Normal value","CZK","Czech koruna",4.89470078050898
+"335","CZE","Czechia","_T",2004,2787943,"A","Normal value","CZK","Czech koruna",8.0118288543151
+"336","CZE","Czechia","_T",2005,2971553,"A","Normal value","CZK","Czech koruna",6.5858591800478
+"337","CZE","Czechia","_T",2006,3209206,"A","Normal value","CZK","Czech koruna",7.99760260039111
+"338","CZE","Czechia","_T",2007,3495330,"A","Normal value","CZK","Czech koruna",8.91572557199507
+"339","CZE","Czechia","_T",2008,3667964,"A","Normal value","CZK","Czech koruna",4.9389900238318
+"340","CZE","Czechia","_T",2009,3578059,"A","Normal value","CZK","Czech koruna",-2.45108730620039
+"341","CZE","Czechia","_T",2010,3613528,"A","Normal value","CZK","Czech koruna",0.991291647231083
+"342","CZE","Czechia","_T",2011,3668903,"A","Normal value","CZK","Czech koruna",1.53243589090772
+"343","CZE","Czechia","_T",2012,3677512,"A","Normal value","CZK","Czech koruna",0.234647795267414
+"344","CZE","Czechia","_T",2013,3713015,"A","Normal value","CZK","Czech koruna",0.965408134630152
+"345","CZE","Czechia","_T",2014,3930576,"A","Normal value","CZK","Czech koruna",5.85941613486614
+"346","CZE","Czechia","_T",2015,4165174,"A","Normal value","CZK","Czech koruna",5.96853997989099
+"347","CZE","Czechia","_T",2016,4314719,"A","Normal value","CZK","Czech koruna",3.59036621279207
+"348","CZE","Czechia","_T",2017,4592620,"A","Normal value","CZK","Czech koruna",6.44076705806334
+"349","CZE","Czechia","_T",2018,4876115,"A","Normal value","CZK","Czech koruna",6.17283816209484
+"350","CZE","Czechia","_T",2019,5232889,"A","Normal value","CZK","Czech koruna",7.31676754957584
+"351","CZE","Czechia","_T",2020,5196179,"A","Normal value","CZK","Czech koruna",-0.70152453071334
+"352","CZE","Czechia","_T",2021,5550848,"A","Normal value","CZK","Czech koruna",6.82557317598181
+"353","CZE","Czechia","_T",2022,6154993,"A","Normal value","CZK","Czech koruna",10.8838325243278
+"354","DEU","Germany","_T",1995,1716521,"A","Normal value","EUR","Euro",NA
+"355","DEU","Germany","_T",1996,1741658,"A","Normal value","EUR","Euro",1.46441552419108
+"356","DEU","Germany","_T",1997,1779073,"A","Normal value","EUR","Euro",2.14824035488023
+"357","DEU","Germany","_T",1998,1825860,"A","Normal value","EUR","Euro",2.62985273791463
+"358","DEU","Germany","_T",1999,1856619,"A","Normal value","EUR","Euro",1.68463080411423
+"359","DEU","Germany","_T",2000,1901809,"A","Normal value","EUR","Euro",2.43399426592101
+"360","DEU","Germany","_T",2001,1962576,"A","Normal value","EUR","Euro",3.19522097119111
+"361","DEU","Germany","_T",2002,1987125,"A","Normal value","EUR","Euro",1.25085601780517
+"362","DEU","Germany","_T",2003,1996524,"A","Normal value","EUR","Euro",0.472994904699
+"363","DEU","Germany","_T",2004,2049674,"A","Normal value","EUR","Euro",2.66212677633727
+"364","DEU","Germany","_T",2005,2069658,"A","Normal value","EUR","Euro",0.974984314578806
+"365","DEU","Germany","_T",2006,2156957,"A","Normal value","EUR","Euro",4.21803988871591
+"366","DEU","Germany","_T",2007,2247830,"A","Normal value","EUR","Euro",4.21301861835911
+"367","DEU","Germany","_T",2008,2289553,"A","Normal value","EUR","Euro",1.85614570496879
+"368","DEU","Germany","_T",2009,2192834,"A","Normal value","EUR","Euro",-4.22436169854989
+"369","DEU","Germany","_T",2010,2305684,"A","Normal value","EUR","Euro",5.1463083844924
+"370","DEU","Germany","_T",2011,2418099,"A","Normal value","EUR","Euro",4.87555970375819
+"371","DEU","Germany","_T",2012,2465800,"A","Normal value","EUR","Euro",1.97266530443956
+"372","DEU","Germany","_T",2013,2527883,"A","Normal value","EUR","Euro",2.51776299781004
+"373","DEU","Germany","_T",2014,2635393,"A","Normal value","EUR","Euro",4.25296582159855
+"374","DEU","Germany","_T",2015,2722020,"A","Normal value","EUR","Euro",3.28706192966286
+"375","DEU","Germany","_T",2016,2822443,"A","Normal value","EUR","Euro",3.68928222423053
+"376","DEU","Germany","_T",2017,2944074,"A","Normal value","EUR","Euro",4.30942272350584
+"377","DEU","Germany","_T",2018,3032736,"A","Normal value","EUR","Euro",3.01154115012055
+"378","DEU","Germany","_T",2019,3130567,"A","Normal value","EUR","Euro",3.2258330431663
+"379","DEU","Germany","_T",2020,3086377,"P","Provisional value","EUR","Euro",-1.41156538096773
+"380","DEU","Germany","_T",2021,3276377,"P","Provisional value","EUR","Euro",6.15608527409322
+"381","DEU","Germany","_T",2022,3509628,"P","Provisional value","EUR","Euro",7.11917462489817
+"382","DNK","Denmark","_T",1966,73555,"A","Normal value","DKK","Danish krone",NA
+"383","DNK","Denmark","_T",1967,80538,"A","Normal value","DKK","Danish krone",9.49357623547006
+"384","DNK","Denmark","_T",1968,88782,"A","Normal value","DKK","Danish krone",10.2361618118155
+"385","DNK","Denmark","_T",1969,101289,"A","Normal value","DKK","Danish krone",14.087314996283
+"386","DNK","Denmark","_T",1970,112399,"A","Normal value","DKK","Danish krone",10.968614558343
+"387","DNK","Denmark","_T",1971,125050,"A","Normal value","DKK","Danish krone",11.2554382156425
+"388","DNK","Denmark","_T",1972,142119,"A","Normal value","DKK","Danish krone",13.6497401039584
+"389","DNK","Denmark","_T",1973,165043,"A","Normal value","DKK","Danish krone",16.1301444564063
+"390","DNK","Denmark","_T",1974,185957,"A","Normal value","DKK","Danish krone",12.6718491544628
+"391","DNK","Denmark","_T",1975,208105,"A","Normal value","DKK","Danish krone",11.9102803336255
+"392","DNK","Denmark","_T",1976,238885,"A","Normal value","DKK","Danish krone",14.790610509118
+"393","DNK","Denmark","_T",1977,263241,"A","Normal value","DKK","Danish krone",10.1957008602466
+"394","DNK","Denmark","_T",1978,290632,"A","Normal value","DKK","Danish krone",10.4052940081522
+"395","DNK","Denmark","_T",1979,319747,"A","Normal value","DKK","Danish krone",10.0178232266234
+"396","DNK","Denmark","_T",1980,346702,"A","Normal value","DKK","Danish krone",8.43010254982846
+"397","DNK","Denmark","_T",1981,381089,"A","Normal value","DKK","Danish krone",9.9183160177905
+"398","DNK","Denmark","_T",1982,438077,"A","Normal value","DKK","Danish krone",14.9539871263668
+"399","DNK","Denmark","_T",1983,480317,"A","Normal value","DKK","Danish krone",9.64214053693757
+"400","DNK","Denmark","_T",1984,529531,"A","Normal value","DKK","Danish krone",10.2461499384781
+"401","DNK","Denmark","_T",1985,571842,"A","Normal value","DKK","Danish krone",7.99027818956775
+"402","DNK","Denmark","_T",1986,605132,"A","Normal value","DKK","Danish krone",5.82153811717223
+"403","DNK","Denmark","_T",1987,639561,"A","Normal value","DKK","Danish krone",5.68950245566257
+"404","DNK","Denmark","_T",1988,666051,"A","Normal value","DKK","Danish krone",4.1419035869917
+"405","DNK","Denmark","_T",1989,709047,"A","Normal value","DKK","Danish krone",6.4553615263696
+"406","DNK","Denmark","_T",1990,742721,"A","Normal value","DKK","Danish krone",4.74919152044928
+"407","DNK","Denmark","_T",1991,774617,"A","Normal value","DKK","Danish krone",4.29447935362
+"408","DNK","Denmark","_T",1992,804261,"A","Normal value","DKK","Danish krone",3.82692349896788
+"409","DNK","Denmark","_T",1993,811417,"A","Normal value","DKK","Danish krone",0.889760910948063
+"410","DNK","Denmark","_T",1994,861684,"A","Normal value","DKK","Danish krone",6.19496510425589
+"411","DNK","Denmark","_T",1995,897370,"A","Normal value","DKK","Danish krone",4.14142539492436
+"412","DNK","Denmark","_T",1996,936510,"A","Normal value","DKK","Danish krone",4.3616345543087
+"413","DNK","Denmark","_T",1997,984056,"A","Normal value","DKK","Danish krone",5.07693457624585
+"414","DNK","Denmark","_T",1998,1010575,"A","Normal value","DKK","Danish krone",2.69486695879096
+"415","DNK","Denmark","_T",1999,1059211,"A","Normal value","DKK","Danish krone",4.81270563787943
+"416","DNK","Denmark","_T",2000,1143123,"A","Normal value","DKK","Danish krone",7.92212316526169
+"417","DNK","Denmark","_T",2001,1181118,"A","Normal value","DKK","Danish krone",3.32378930351327
+"418","DNK","Denmark","_T",2002,1211617,"A","Normal value","DKK","Danish krone",2.58221447814698
+"419","DNK","Denmark","_T",2003,1235824,"A","Normal value","DKK","Danish krone",1.99790858002157
+"420","DNK","Denmark","_T",2004,1291322,"A","Normal value","DKK","Danish krone",4.49076891207809
+"421","DNK","Denmark","_T",2005,1347650,"A","Normal value","DKK","Danish krone",4.36204138084846
+"422","DNK","Denmark","_T",2006,1428654,"A","Normal value","DKK","Danish krone",6.01075947018885
+"423","DNK","Denmark","_T",2007,1475015,"A","Normal value","DKK","Danish krone",3.2450824342353
+"424","DNK","Denmark","_T",2008,1545452,"A","Normal value","DKK","Danish krone",4.77534126771592
+"425","DNK","Denmark","_T",2009,1484941,"A","Normal value","DKK","Danish krone",-3.91542409599263
+"426","DNK","Denmark","_T",2010,1562743,"A","Normal value","DKK","Danish krone",5.23940008390906
+"427","DNK","Denmark","_T",2011,1593742,"A","Normal value","DKK","Danish krone",1.98362750625023
+"428","DNK","Denmark","_T",2012,1636086,"A","Normal value","DKK","Danish krone",2.65689176792731
+"429","DNK","Denmark","_T",2013,1669456,"A","Normal value","DKK","Danish krone",2.03962383395494
+"430","DNK","Denmark","_T",2014,1718979,"A","Normal value","DKK","Danish krone",2.96641540717455
+"431","DNK","Denmark","_T",2015,1767126,"A","Normal value","DKK","Danish krone",2.80090681736077
+"432","DNK","Denmark","_T",2016,1829138,"A","Normal value","DKK","Danish krone",3.50920081533518
+"433","DNK","Denmark","_T",2017,1906874,"A","Normal value","DKK","Danish krone",4.24987070412402
+"434","DNK","Denmark","_T",2018,1955159,"A","Normal value","DKK","Danish krone",2.53215472023846
+"435","DNK","Denmark","_T",2019,2011579,"A","Normal value","DKK","Danish krone",2.8856988101735
+"436","DNK","Denmark","_T",2020,2015951,"A","Normal value","DKK","Danish krone",0.217341700226538
+"437","DNK","Denmark","_T",2021,2221043,"A","Normal value","DKK","Danish krone",10.1734615573494
+"438","DNK","Denmark","_T",2022,2494524,"A","Normal value","DKK","Danish krone",12.3131789884302
+"439","EA20","Euro area (20 countries)","_T",NA,NA,"","","_Z","Not applicable",NA
+"440","ESP","Spain","_T",1995,426438,"A","Normal value","EUR","Euro",NA
+"441","ESP","Spain","_T",1996,451897,"A","Normal value","EUR","Euro",5.97015275374146
+"442","ESP","Spain","_T",1997,477499,"A","Normal value","EUR","Euro",5.66545031279252
+"443","ESP","Spain","_T",1998,507777,"A","Normal value","EUR","Euro",6.34095568786532
+"444","ESP","Spain","_T",1999,541434,"A","Normal value","EUR","Euro",6.62830336939247
+"445","ESP","Spain","_T",2000,588988,"A","Normal value","EUR","Euro",8.78297262454888
+"446","ESP","Spain","_T",2001,639118,"A","Normal value","EUR","Euro",8.5112090568908
+"447","ESP","Spain","_T",2002,683263,"A","Normal value","EUR","Euro",6.90717520082363
+"448","ESP","Spain","_T",2003,727883,"A","Normal value","EUR","Euro",6.53042825383491
+"449","ESP","Spain","_T",2004,775375,"A","Normal value","EUR","Euro",6.52467498210564
+"450","ESP","Spain","_T",2005,832410,"A","Normal value","EUR","Euro",7.35579558278252
+"451","ESP","Spain","_T",2006,897257,"A","Normal value","EUR","Euro",7.79027162095602
+"452","ESP","Spain","_T",2007,969173,"A","Normal value","EUR","Euro",8.01509489477374
+"453","ESP","Spain","_T",2008,1022552,"A","Normal value","EUR","Euro",5.50768541839279
+"454","ESP","Spain","_T",2009,1002045,"A","Normal value","EUR","Euro",-2.00547258232344
+"455","ESP","Spain","_T",2010,985479,"A","Normal value","EUR","Euro",-1.65321916680389
+"456","ESP","Spain","_T",2011,980239,"A","Normal value","EUR","Euro",-0.531721122418641
+"457","ESP","Spain","_T",2012,948344,"A","Normal value","EUR","Euro",-3.25379830837173
+"458","ESP","Spain","_T",2013,932777,"A","Normal value","EUR","Euro",-1.64149296036038
+"459","ESP","Spain","_T",2014,940399,"A","Normal value","EUR","Euro",0.817129924944547
+"460","ESP","Spain","_T",2015,978971,"A","Normal value","EUR","Euro",4.10166323018208
+"461","ESP","Spain","_T",2016,1011268,"A","Normal value","EUR","Euro",3.2990762749867
+"462","ESP","Spain","_T",2017,1053805,"A","Normal value","EUR","Euro",4.20630337358643
+"463","ESP","Spain","_T",2018,1089420,"A","Normal value","EUR","Euro",3.37965752677203
+"464","ESP","Spain","_T",2019,1129619,"A","Normal value","EUR","Euro",3.68994510840631
+"465","ESP","Spain","_T",2020,1021086,"A","Normal value","EUR","Euro",-9.6079297533062
+"466","ESP","Spain","_T",2021,1105853,"P","Provisional value","EUR","Euro",8.30165137902194
+"467","ESP","Spain","_T",2022,1225632,"P","Provisional value","EUR","Euro",10.8313672793762
+"468","EST","Estonia","_T",1995,2534.19,"A","Normal value","EUR","Euro",NA
+"469","EST","Estonia","_T",1996,3237.98,"A","Normal value","EUR","Euro",27.7717929594861
+"470","EST","Estonia","_T",1997,4011.58,"A","Normal value","EUR","Euro",23.8914384894286
+"471","EST","Estonia","_T",1998,4544.72,"A","Normal value","EUR","Euro",13.2900253765349
+"472","EST","Estonia","_T",1999,4863.39,"A","Normal value","EUR","Euro",7.01187311869598
+"473","EST","Estonia","_T",2000,5512.85,"A","Normal value","EUR","Euro",13.3540596168516
+"474","EST","Estonia","_T",2001,6236.92,"A","Normal value","EUR","Euro",13.1342227704363
+"475","EST","Estonia","_T",2002,6962.57,"A","Normal value","EUR","Euro",11.6347492031323
+"476","EST","Estonia","_T",2003,7807.64,"A","Normal value","EUR","Euro",12.1373286013642
+"477","EST","Estonia","_T",2004,8664.68,"A","Normal value","EUR","Euro",10.9769405351681
+"478","EST","Estonia","_T",2005,10052.72,"A","Normal value","EUR","Euro",16.0195183203534
+"479","EST","Estonia","_T",2006,11935.22,"A","Normal value","EUR","Euro",18.7262750777899
+"480","EST","Estonia","_T",2007,14412.14,"A","Normal value","EUR","Euro",20.7530317832432
+"481","EST","Estonia","_T",2008,14818.68,"A","Normal value","EUR","Euro",2.82081633955818
+"482","EST","Estonia","_T",2009,12265.68,"A","Normal value","EUR","Euro",-17.2282551482318
+"483","EST","Estonia","_T",2010,12897.63,"A","Normal value","EUR","Euro",5.1521807188839
+"484","EST","Estonia","_T",2011,14624.73,"A","Normal value","EUR","Euro",13.3908322691843
+"485","EST","Estonia","_T",2012,15656.52,"A","Normal value","EUR","Euro",7.05510460705942
+"486","EST","Estonia","_T",2013,16568.12,"A","Normal value","EUR","Euro",5.82249439849979
+"487","EST","Estonia","_T",2014,17482.47,"A","Normal value","EUR","Euro",5.51873115356481
+"488","EST","Estonia","_T",2015,17890.69,"A","Normal value","EUR","Euro",2.33502474192718
+"489","EST","Estonia","_T",2016,18745.69,"A","Normal value","EUR","Euro",4.77902193822597
+"490","EST","Estonia","_T",2017,20676.22,"A","Normal value","EUR","Euro",10.2985272881393
+"491","EST","Estonia","_T",2018,22558.34,"A","Normal value","EUR","Euro",9.10282440407385
+"492","EST","Estonia","_T",2019,24306.42,"A","Normal value","EUR","Euro",7.74915175496069
+"493","EST","Estonia","_T",2020,24080.65,"A","Normal value","EUR","Euro",-0.928849250527214
+"494","EST","Estonia","_T",2021,27321.33,"A","Normal value","EUR","Euro",13.457610155872
+"495","EST","Estonia","_T",2022,31798.35,"A","Normal value","EUR","Euro",16.3865375514296
+"496","EU27_2020","European Union (27 countries from 01/02/2020)","_T",1995,5711588.076,"A","Normal value","EUR","Euro",NA
+"497","EU27_2020","European Union (27 countries from 01/02/2020)","_T",1996,5974467.732,"A","Normal value","EUR","Euro",4.60256679056768
+"498","EU27_2020","European Union (27 countries from 01/02/2020)","_T",1997,6130909.362,"A","Normal value","EUR","Euro",2.61850322099957
+"499","EU27_2020","European Union (27 countries from 01/02/2020)","_T",1998,6380993.129,"A","Normal value","EUR","Euro",4.07906482111846
+"500","EU27_2020","European Union (27 countries from 01/02/2020)","_T",1999,6647146.919,"A","Normal value","EUR","Euro",4.171040222413
+"501","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2000,7052104.497,"A","Normal value","EUR","Euro",6.09220140512439
+"502","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2001,7404555.156,"A","Normal value","EUR","Euro",4.99780823086122
+"503","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2002,7672237.435,"A","Normal value","EUR","Euro",3.61510277606742
+"504","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2003,7875043.083,"A","Normal value","EUR","Euro",2.64337032994861
+"505","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2004,8228681.394,"A","Normal value","EUR","Euro",4.49062065150356
+"506","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2005,8559036.072,"A","Normal value","EUR","Euro",4.01467333807432
+"507","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2006,9030886.512,"A","Normal value","EUR","Euro",5.51289229336945
+"508","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2007,9592332.027,"A","Normal value","EUR","Euro",6.21694796246157
+"509","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2008,9942913.338,"A","Normal value","EUR","Euro",3.65480792379998
+"510","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2009,9534381.698,"A","Normal value","EUR","Euro",-4.10877200788491
+"511","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2010,9851274.982,"A","Normal value","EUR","Euro",3.32368992597049
+"512","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2011,10152349.375,"A","Normal value","EUR","Euro",3.05619722878627
+"513","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2012,10213208.56,"A","Normal value","EUR","Euro",0.599459127656356
+"514","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2013,10318983.073,"A","Normal value","EUR","Euro",1.03566388935076
+"515","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2014,10554793.437,"A","Normal value","EUR","Euro",2.28520933052993
+"516","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2015,10939261.972,"A","Normal value","EUR","Euro",3.64259648750906
+"517","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2016,11227133.147,"A","Normal value","EUR","Euro",2.63154110155541
+"518","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2017,11692289.85,"A","Normal value","EUR","Euro",4.14314764873252
+"519","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2018,12095442.71,"A","Normal value","EUR","Euro",3.44802314321691
+"520","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2019,12534891.052,"A","Normal value","EUR","Euro",3.63317286135117
+"521","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2020,12105315.183,"A","Normal value","EUR","Euro",-3.42704110644391
+"522","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2021,13099745.976,"A","Normal value","EUR","Euro",8.2148277675291
+"523","EU27_2020","European Union (27 countries from 01/02/2020)","_T",2022,14302524.999,"A","Normal value","EUR","Euro",9.18169730316609
+"524","FIN","Finland","_T",1980,30084,"A","Normal value","EUR","Euro",NA
+"525","FIN","Finland","_T",1981,33915,"A","Normal value","EUR","Euro",12.7343438372557
+"526","FIN","Finland","_T",1982,38067,"A","Normal value","EUR","Euro",12.2423706324635
+"527","FIN","Finland","_T",1983,42547,"A","Normal value","EUR","Euro",11.7687235663436
+"528","FIN","Finland","_T",1984,47249,"A","Normal value","EUR","Euro",11.051307965309
+"529","FIN","Finland","_T",1985,51312,"A","Normal value","EUR","Euro",8.5991237909797
+"530","FIN","Finland","_T",1986,55047,"A","Normal value","EUR","Euro",7.2789990645463
+"531","FIN","Finland","_T",1987,59212,"A","Normal value","EUR","Euro",7.56626155830472
+"532","FIN","Finland","_T",1988,65862,"A","Normal value","EUR","Euro",11.2308315881916
+"533","FIN","Finland","_T",1989,73949,"A","Normal value","EUR","Euro",12.2787039567581
+"534","FIN","Finland","_T",1990,79033,"A","Normal value","EUR","Euro",6.87500845177081
+"535","FIN","Finland","_T",1991,75596,"A","Normal value","EUR","Euro",-4.34881631723457
+"536","FIN","Finland","_T",1992,73925,"A","Normal value","EUR","Euro",-2.21043441451929
+"537","FIN","Finland","_T",1993,74933,"A","Normal value","EUR","Euro",1.36354413256679
+"538","FIN","Finland","_T",1994,79423,"A","Normal value","EUR","Euro",5.99201953745346
+"539","FIN","Finland","_T",1995,86345,"A","Normal value","EUR","Euro",8.71535953061456
+"540","FIN","Finland","_T",1996,89194,"A","Normal value","EUR","Euro",3.29955411430888
+"541","FIN","Finland","_T",1997,96133,"A","Normal value","EUR","Euro",7.77967127833711
+"542","FIN","Finland","_T",1998,104771,"A","Normal value","EUR","Euro",8.98546804947313
+"543","FIN","Finland","_T",1999,110428,"A","Normal value","EUR","Euro",5.39939487071804
+"544","FIN","Finland","_T",2000,119381,"A","Normal value","EUR","Euro",8.10754518781468
+"545","FIN","Finland","_T",2001,127302,"A","Normal value","EUR","Euro",6.63505918027157
+"546","FIN","Finland","_T",2002,130218,"A","Normal value","EUR","Euro",2.2906160154593
+"547","FIN","Finland","_T",2003,132423,"A","Normal value","EUR","Euro",1.69331428834723
+"548","FIN","Finland","_T",2004,139033,"A","Normal value","EUR","Euro",4.99158001253559
+"549","FIN","Finland","_T",2005,143921,"A","Normal value","EUR","Euro",3.51571209712802
+"550","FIN","Finland","_T",2006,150758,"A","Normal value","EUR","Euro",4.75052285628921
+"551","FIN","Finland","_T",2007,164142,"A","Normal value","EUR","Euro",8.87780416296316
+"552","FIN","Finland","_T",2008,170940,"A","Normal value","EUR","Euro",4.14153598713309
+"553","FIN","Finland","_T",2009,159066,"A","Normal value","EUR","Euro",-6.94629694629695
+"554","FIN","Finland","_T",2010,164663,"A","Normal value","EUR","Euro",3.51866520815259
+"555","FIN","Finland","_T",2011,171583,"A","Normal value","EUR","Euro",4.20252272823889
+"556","FIN","Finland","_T",2012,173661,"A","Normal value","EUR","Euro",1.21107568931654
+"557","FIN","Finland","_T",2013,175985,"A","Normal value","EUR","Euro",1.33823944351351
+"558","FIN","Finland","_T",2014,178410,"A","Normal value","EUR","Euro",1.3779583487229
+"559","FIN","Finland","_T",2015,182599,"A","Normal value","EUR","Euro",2.34796255815257
+"560","FIN","Finland","_T",2016,187394,"A","Normal value","EUR","Euro",2.62597275998226
+"561","FIN","Finland","_T",2017,195707,"A","Normal value","EUR","Euro",4.43610787965463
+"562","FIN","Finland","_T",2018,201308,"A","Normal value","EUR","Euro",2.86193135656875
+"563","FIN","Finland","_T",2019,207291,"A","Normal value","EUR","Euro",2.9720627098774
+"564","FIN","Finland","_T",2020,206158,"A","Normal value","EUR","Euro",-0.546574622149539
+"565","FIN","Finland","_T",2021,217207,"A","Normal value","EUR","Euro",5.35948156268493
+"566","FIN","Finland","_T",2022,232691,"A","Normal value","EUR","Euro",7.1286836980392
+"567","FRA","France","_T",1950,13716,"A","Normal value","EUR","Euro",NA
+"568","FRA","France","_T",1951,17187,"A","Normal value","EUR","Euro",25.3062117235346
+"569","FRA","France","_T",1952,19937,"A","Normal value","EUR","Euro",16.0004654680863
+"570","FRA","France","_T",1953,20663,"A","Normal value","EUR","Euro",3.64147063249235
+"571","FRA","France","_T",1954,22007,"A","Normal value","EUR","Euro",6.50437980932101
+"572","FRA","France","_T",1955,23745,"A","Normal value","EUR","Euro",7.89748716317535
+"573","FRA","France","_T",1956,26240,"A","Normal value","EUR","Euro",10.507475257949
+"574","FRA","France","_T",1957,29552,"A","Normal value","EUR","Euro",12.6219512195122
+"575","FRA","France","_T",1958,34100,"A","Normal value","EUR","Euro",15.3898213318896
+"576","FRA","France","_T",1959,36989,"A","Normal value","EUR","Euro",8.47214076246334
+"577","FRA","France","_T",1960,41191,"A","Normal value","EUR","Euro",11.3601340939198
+"578","FRA","France","_T",1961,44658,"A","Normal value","EUR","Euro",8.41688718409361
+"579","FRA","France","_T",1962,50060,"A","Normal value","EUR","Euro",12.0963769089525
+"580","FRA","France","_T",1963,55984,"A","Normal value","EUR","Euro",11.8337994406712
+"581","FRA","France","_T",1964,61965,"A","Normal value","EUR","Euro",10.6834095455845
+"582","FRA","France","_T",1965,67107,"A","Normal value","EUR","Euro",8.29823287339627
+"583","FRA","France","_T",1966,72782,"A","Normal value","EUR","Euro",8.45664386725677
+"584","FRA","France","_T",1967,78991,"A","Normal value","EUR","Euro",8.53095545601935
+"585","FRA","France","_T",1968,87128,"A","Normal value","EUR","Euro",10.3011735514172
+"586","FRA","France","_T",1969,98864,"A","Normal value","EUR","Euro",13.4698374804885
+"587","FRA","France","_T",1970,111374,"A","Normal value","EUR","Euro",12.6537465609322
+"588","FRA","France","_T",1971,124421,"A","Normal value","EUR","Euro",11.7145832959218
+"589","FRA","France","_T",1972,138733,"A","Normal value","EUR","Euro",11.5028813463965
+"590","FRA","France","_T",1973,160328,"A","Normal value","EUR","Euro",15.5658711337605
+"591","FRA","France","_T",1974,187182,"A","Normal value","EUR","Euro",16.7494137019111
+"592","FRA","France","_T",1975,211381,"A","Normal value","EUR","Euro",12.9280593219433
+"593","FRA","France","_T",1976,243202,"A","Normal value","EUR","Euro",15.0538600914936
+"594","FRA","France","_T",1977,276043,"A","Normal value","EUR","Euro",13.5035896086381
+"595","FRA","France","_T",1978,311234,"A","Normal value","EUR","Euro",12.7483761587869
+"596","FRA","France","_T",1979,353322,"A","Normal value","EUR","Euro",13.5229441513459
+"597","FRA","France","_T",1980,403015,"A","Normal value","EUR","Euro",14.0645077294932
+"598","FRA","France","_T",1981,455642,"A","Normal value","EUR","Euro",13.0583228912075
+"599","FRA","France","_T",1982,522807,"A","Normal value","EUR","Euro",14.7407394401745
+"600","FRA","France","_T",1983,580338,"A","Normal value","EUR","Euro",11.0042520471226
+"601","FRA","France","_T",1984,630704,"A","Normal value","EUR","Euro",8.67873549552158
+"602","FRA","France","_T",1985,674600,"A","Normal value","EUR","Euro",6.95984170070271
+"603","FRA","France","_T",1986,727086,"A","Normal value","EUR","Euro",7.7803142603024
+"604","FRA","France","_T",1987,763587,"A","Normal value","EUR","Euro",5.02017643029848
+"605","FRA","France","_T",1988,824624,"A","Normal value","EUR","Euro",7.99345719610208
+"606","FRA","France","_T",1989,890915,"A","Normal value","EUR","Euro",8.0389365334989
+"607","FRA","France","_T",1990,943853,"A","Normal value","EUR","Euro",5.94198099706482
+"608","FRA","France","_T",1991,979623,"A","Normal value","EUR","Euro",3.78978506186874
+"609","FRA","France","_T",1992,1019900,"A","Normal value","EUR","Euro",4.11147962022125
+"610","FRA","France","_T",1993,1030121,"A","Normal value","EUR","Euro",1.00215707422296
+"611","FRA","France","_T",1994,1057108,"A","Normal value","EUR","Euro",2.61978932571999
+"612","FRA","France","_T",1995,1090700,"A","Normal value","EUR","Euro",3.17772640070835
+"613","FRA","France","_T",1996,1116862,"A","Normal value","EUR","Euro",2.39864307325571
+"614","FRA","France","_T",1997,1154044,"A","Normal value","EUR","Euro",3.32914899065417
+"615","FRA","France","_T",1998,1207167,"A","Normal value","EUR","Euro",4.60320403728107
+"616","FRA","France","_T",1999,1251478,"A","Normal value","EUR","Euro",3.67066031460436
+"617","FRA","France","_T",2000,1326341,"A","Normal value","EUR","Euro",5.98196692231106
+"618","FRA","France","_T",2001,1384016,"A","Normal value","EUR","Euro",4.34842925009481
+"619","FRA","France","_T",2002,1430220,"A","Normal value","EUR","Euro",3.3384007121305
+"620","FRA","France","_T",2003,1469233,"A","Normal value","EUR","Euro",2.72776216246452
+"621","FRA","France","_T",2004,1532690,"A","Normal value","EUR","Euro",4.31905626949572
+"622","FRA","France","_T",2005,1586085,"A","Normal value","EUR","Euro",3.48374426661621
+"623","FRA","France","_T",2006,1654464,"A","Normal value","EUR","Euro",4.31118130491115
+"624","FRA","France","_T",2007,1742511,"A","Normal value","EUR","Euro",5.32178397354068
+"625","FRA","France","_T",2008,1792805,"A","Normal value","EUR","Euro",2.88629454849926
+"626","FRA","France","_T",2009,1750127,"A","Normal value","EUR","Euro",-2.3805154492541
+"627","FRA","France","_T",2010,1797790,"A","Normal value","EUR","Euro",2.72340235880025
+"628","FRA","France","_T",2011,1848583,"A","Normal value","EUR","Euro",2.82530217656122
+"629","FRA","France","_T",2012,1875325,"A","Normal value","EUR","Euro",1.44662154742308
+"630","FRA","France","_T",2013,1899841,"A","Normal value","EUR","Euro",1.3072934024769
+"631","FRA","France","_T",2014,1927230,"A","Normal value","EUR","Euro",1.44164695887709
+"632","FRA","France","_T",2015,1967466,"A","Normal value","EUR","Euro",2.08776326644977
+"633","FRA","France","_T",2016,1996790,"A","Normal value","EUR","Euro",1.49044506995292
+"634","FRA","France","_T",2017,2046129,"A","Normal value","EUR","Euro",2.47091581989093
+"635","FRA","France","_T",2018,2101770,"A","Normal value","EUR","Euro",2.71933001291707
+"636","FRA","France","_T",2019,2169269,"A","Normal value","EUR","Euro",3.21153123319868
+"637","FRA","France","_T",2020,2068844,"A","Normal value","EUR","Euro",-4.62943968682538
+"638","FRA","France","_T",2021,2217805,"P","Provisional value","EUR","Euro",7.20020455868108
+"639","FRA","France","_T",2022,2361180,"P","Provisional value","EUR","Euro",6.46472525763086
+"640","GBR","United Kingdom","_T",1995,772514,"A","Normal value","GBP","Pound sterling",NA
+"641","GBR","United Kingdom","_T",1996,826677,"A","Normal value","GBP","Pound sterling",7.01126452077244
+"642","GBR","United Kingdom","_T",1997,861895,"A","Normal value","GBP","Pound sterling",4.26018868312533
+"643","GBR","United Kingdom","_T",1998,899791,"A","Normal value","GBP","Pound sterling",4.39682327893769
+"644","GBR","United Kingdom","_T",1999,936185,"A","Normal value","GBP","Pound sterling",4.04471705095961
+"645","GBR","United Kingdom","_T",2000,987515,"A","Normal value","GBP","Pound sterling",5.48289066797695
+"646","GBR","United Kingdom","_T",2001,1031117,"A","Normal value","GBP","Pound sterling",4.41532533683033
+"647","GBR","United Kingdom","_T",2002,1072157,"A","Normal value","GBP","Pound sterling",3.98014968233479
+"648","GBR","United Kingdom","_T",2003,1132892,"A","Normal value","GBP","Pound sterling",5.66474872616604
+"649","GBR","United Kingdom","_T",2004,1189413,"A","Normal value","GBP","Pound sterling",4.98908986911374
+"650","GBR","United Kingdom","_T",2005,1259906,"A","Normal value","GBP","Pound sterling",5.9267050217208
+"651","GBR","United Kingdom","_T",2006,1325927,"A","Normal value","GBP","Pound sterling",5.24015283679894
+"652","GBR","United Kingdom","_T",2007,1390158,"A","Normal value","GBP","Pound sterling",4.84423350606783
+"653","GBR","United Kingdom","_T",2008,1442023,"A","Normal value","GBP","Pound sterling",3.73087087942522
+"654","GBR","United Kingdom","_T",2009,1410178,"A","Normal value","GBP","Pound sterling",-2.20835590000992
+"655","GBR","United Kingdom","_T",2010,1449003,"A","Normal value","GBP","Pound sterling",2.75319853238386
+"656","GBR","United Kingdom","_T",2011,1484323,"A","Normal value","GBP","Pound sterling",2.4375380865326
+"657","GBR","United Kingdom","_T",2012,1531610,"A","Normal value","GBP","Pound sterling",3.1857621285933
+"658","GBR","United Kingdom","_T",2013,1589831,"A","Normal value","GBP","Pound sterling",3.80129406311006
+"659","GBR","United Kingdom","_T",2014,1660753,"A","Normal value","GBP","Pound sterling",4.46097729884497
+"660","GBR","United Kingdom","_T",2015,1709030,"A","Normal value","GBP","Pound sterling",2.90693438458338
+"661","GBR","United Kingdom","_T",2016,1774630,"A","Normal value","GBP","Pound sterling",3.83843466761847
+"662","GBR","United Kingdom","_T",2017,1856764,"A","Normal value","GBP","Pound sterling",4.62823236392938
+"663","GBR","United Kingdom","_T",2018,1920289,"A","Normal value","GBP","Pound sterling",3.42127486314901
+"664","GBR","United Kingdom","_T",2019,1995708,"A","Normal value","GBP","Pound sterling",3.92748174884093
+"665","GBR","United Kingdom","_T",2020,1897957,"A","Normal value","GBP","Pound sterling",-4.8980612394198
+"666","GBR","United Kingdom","_T",2021,2046636,"A","Normal value","GBP","Pound sterling",7.83363374407323
+"667","GEO","Georgia","_T",2010,19286.354,"A","Normal value","GEL","Lari",NA
+"668","GEO","Georgia","_T",2011,22622.173,"A","Normal value","GEL","Lari",17.2962655357254
+"669","GEO","Georgia","_T",2012,24251.609,"A","Normal value","GEL","Lari",7.20282706705497
+"670","GEO","Georgia","_T",2013,25538.193,"A","Normal value","GEL","Lari",5.30514903155497
+"671","GEO","Georgia","_T",2014,27661.322,"A","Normal value","GEL","Lari",8.31354434513045
+"672","GEO","Georgia","_T",2015,30197.141,"A","Normal value","GEL","Lari",9.16738180481757
+"673","GEO","Georgia","_T",2016,31555.848,"A","Normal value","GEL","Lari",4.49945575973567
+"674","GEO","Georgia","_T",2017,35347.647,"A","Normal value","GEL","Lari",12.0161530756518
+"675","GEO","Georgia","_T",2018,38778.513,"A","Normal value","GEL","Lari",9.70606614918385
+"676","GEO","Georgia","_T",2019,43137.77,"A","Normal value","GEL","Lari",11.2414238266434
+"677","GEO","Georgia","_T",2020,43136.605,"A","Normal value","GEL","Lari",-0.00270064956995597
+"678","GEO","Georgia","_T",2021,52412.375,"A","Normal value","GEL","Lari",21.5032453295756
+"679","GEO","Georgia","_T",2022,62805.396,"A","Normal value","GEL","Lari",19.8293265664836
+"680","GRC","Greece","_T",1995,84679.248,"A","Normal value","EUR","Euro",NA
+"681","GRC","Greece","_T",1996,93276.001,"A","Normal value","EUR","Euro",10.1521366840669
+"682","GRC","Greece","_T",1997,103437.165,"A","Normal value","EUR","Euro",10.8936531273462
+"683","GRC","Greece","_T",1998,113423.706,"A","Normal value","EUR","Euro",9.65469326232985
+"684","GRC","Greece","_T",1999,119960.847,"A","Normal value","EUR","Euro",5.76346976354307
+"685","GRC","Greece","_T",2000,126181.398,"A","Normal value","EUR","Euro",5.18548439392063
+"686","GRC","Greece","_T",2001,135470.294,"A","Normal value","EUR","Euro",7.36154151660294
+"687","GRC","Greece","_T",2002,145797.387,"A","Normal value","EUR","Euro",7.62314208899554
+"688","GRC","Greece","_T",2003,160513.369,"A","Normal value","EUR","Euro",10.0934470108165
+"689","GRC","Greece","_T",2004,174773.029,"A","Normal value","EUR","Euro",8.88378338130826
+"690","GRC","Greece","_T",2005,178820.508,"A","Normal value","EUR","Euro",2.31584874574669
+"691","GRC","Greece","_T",2006,193047.129,"A","Normal value","EUR","Euro",7.95581063890054
+"692","GRC","Greece","_T",2007,205266.96,"A","Normal value","EUR","Euro",6.32997292593769
+"693","GRC","Greece","_T",2008,213818.862,"A","Normal value","EUR","Euro",4.16623405929527
+"694","GRC","Greece","_T",2009,212390.866,"A","Normal value","EUR","Euro",-0.667853147586196
+"695","GRC","Greece","_T",2010,197729.154,"B","Time series break","EUR","Euro",-6.90317445195595
+"696","GRC","Greece","_T",2011,178180.536,"A","Normal value","EUR","Euro",-9.88656331377416
+"697","GRC","Greece","_T",2012,166150.664,"A","Normal value","EUR","Euro",-6.75150735880602
+"698","GRC","Greece","_T",2013,159466.766,"A","Normal value","EUR","Euro",-4.02279343283274
+"699","GRC","Greece","_T",2014,156492.498,"A","Normal value","EUR","Euro",-1.8651334535749
+"700","GRC","Greece","_T",2015,155835.609,"A","Normal value","EUR","Euro",-0.419757501730208
+"701","GRC","Greece","_T",2016,152196.602,"A","Normal value","EUR","Euro",-2.33515755696118
+"702","GRC","Greece","_T",2017,154344.208,"A","Normal value","EUR","Euro",1.41107355340299
+"703","GRC","Greece","_T",2018,155610.938,"A","Normal value","EUR","Euro",0.82071754840323
+"704","GRC","Greece","_T",2019,158898.83,"A","Normal value","EUR","Euro",2.11289260398905
+"705","GRC","Greece","_T",2020,144712.487,"A","Normal value","EUR","Euro",-8.9279090349501
+"706","GRC","Greece","_T",2021,158159.814,"P","Provisional value","EUR","Euro",9.29244412750644
+"707","GRC","Greece","_T",2022,181706.016,"P","Provisional value","EUR","Euro",14.8876009679677
+"708","HKG","Hong Kong (China)","_T",2000,1283035,"A","Normal value","HKD","Hong Kong dollar",NA
+"709","HKG","Hong Kong (China)","_T",2001,1269989,"A","Normal value","HKD","Hong Kong dollar",-1.01680780337247
+"710","HKG","Hong Kong (China)","_T",2002,1249781,"A","Normal value","HKD","Hong Kong dollar",-1.59119488436514
+"711","HKG","Hong Kong (China)","_T",2003,1227056,"A","Normal value","HKD","Hong Kong dollar",-1.81831856941336
+"712","HKG","Hong Kong (China)","_T",2004,1285324,"A","Normal value","HKD","Hong Kong dollar",4.74860153081848
+"713","HKG","Hong Kong (China)","_T",2005,1378002,"A","Normal value","HKD","Hong Kong dollar",7.21047766944366
+"714","HKG","Hong Kong (China)","_T",2006,1473535,"A","Normal value","HKD","Hong Kong dollar",6.93271853016179
+"715","HKG","Hong Kong (China)","_T",2007,1605245,"A","Normal value","HKD","Hong Kong dollar",8.93836929560547
+"716","HKG","Hong Kong (China)","_T",2008,1620013,"A","Normal value","HKD","Hong Kong dollar",0.919984176870197
+"717","HKG","Hong Kong (China)","_T",2009,1581824,"A","Normal value","HKD","Hong Kong dollar",-2.35732676219265
+"718","HKG","Hong Kong (China)","_T",2010,1737298,"A","Normal value","HKD","Hong Kong dollar",9.82877994011976
+"719","HKG","Hong Kong (China)","_T",2011,1901049,"A","Normal value","HKD","Hong Kong dollar",9.42561379797824
+"720","HKG","Hong Kong (China)","_T",2012,2013038,"A","Normal value","HKD","Hong Kong dollar",5.89090549480839
+"721","HKG","Hong Kong (China)","_T",2013,2098080,"A","Normal value","HKD","Hong Kong dollar",4.22456009275533
+"722","HKG","Hong Kong (China)","_T",2014,2205972,"A","Normal value","HKD","Hong Kong dollar",5.14241592312972
+"723","HKG","Hong Kong (China)","_T",2015,2325443,"A","Normal value","HKD","Hong Kong dollar",5.41579856861284
+"724","HKG","Hong Kong (China)","_T",2016,2417849,"A","Normal value","HKD","Hong Kong dollar",3.97369447455818
+"725","HKG","Hong Kong (China)","_T",2017,2551086,"A","Normal value","HKD","Hong Kong dollar",5.51055917884037
+"726","HKG","Hong Kong (China)","_T",2018,2700413,"A","Normal value","HKD","Hong Kong dollar",5.85346789563347
+"727","HKG","Hong Kong (China)","_T",2019,2740721,"A","Normal value","HKD","Hong Kong dollar",1.49266056710585
+"728","HKG","Hong Kong (China)","_T",2020,2560655,"A","Normal value","HKD","Hong Kong dollar",-6.57002299759808
+"729","HKG","Hong Kong (China)","_T",2021,2745846,"A","Normal value","HKD","Hong Kong dollar",7.23217301823166
+"730","HKG","Hong Kong (China)","_T",2022,2735415,"A","Normal value","HKD","Hong Kong dollar",-0.379882921329164
+"731","HRV","Croatia","_T",1995,12985.559,"A","Normal value","EUR","Euro",NA
+"732","HRV","Croatia","_T",1996,14486.405,"A","Normal value","EUR","Euro",11.5578081775301
+"733","HRV","Croatia","_T",1997,16510.063,"A","Normal value","EUR","Euro",13.9693595477967
+"734","HRV","Croatia","_T",1998,17966.916,"A","Normal value","EUR","Euro",8.82403053216698
+"735","HRV","Croatia","_T",1999,18558.345,"A","Normal value","EUR","Euro",3.2917669342919
+"736","HRV","Croatia","_T",2000,19822.707,"A","Normal value","EUR","Euro",6.81290276692236
+"737","HRV","Croatia","_T",2001,21386.611,"A","Normal value","EUR","Euro",7.8894572774546
+"738","HRV","Croatia","_T",2002,23456.774,"A","Normal value","EUR","Euro",9.67971503292411
+"739","HRV","Croatia","_T",2003,26042.521,"A","Normal value","EUR","Euro",11.0234553140172
+"740","HRV","Croatia","_T",2004,28332.522,"A","Normal value","EUR","Euro",8.79331536297888
+"741","HRV","Croatia","_T",2005,30502.123,"A","Normal value","EUR","Euro",7.65763457273588
+"742","HRV","Croatia","_T",2006,33187.522,"A","Normal value","EUR","Euro",8.80397407091958
+"743","HRV","Croatia","_T",2007,36533.502,"A","Normal value","EUR","Euro",10.0820422808307
+"744","HRV","Croatia","_T",2008,39341.766,"A","Normal value","EUR","Euro",7.68681852618455
+"745","HRV","Croatia","_T",2009,38005.171,"A","Normal value","EUR","Euro",-3.3973945145218
+"746","HRV","Croatia","_T",2010,37641.134,"A","Normal value","EUR","Euro",-0.957861760443083
+"747","HRV","Croatia","_T",2011,38464.401,"A","Normal value","EUR","Euro",2.18714717787195
+"748","HRV","Croatia","_T",2012,37582.915,"A","Normal value","EUR","Euro",-2.29169303845391
+"749","HRV","Croatia","_T",2013,37353.321,"A","Normal value","EUR","Euro",-0.610899926203163
+"750","HRV","Croatia","_T",2014,37205.071,"A","Normal value","EUR","Euro",-0.396885728045439
+"751","HRV","Croatia","_T",2015,37992.378,"A","Normal value","EUR","Euro",2.11612820198621
+"752","HRV","Croatia","_T",2016,39332.019,"A","Normal value","EUR","Euro",3.52607830970729
+"753","HRV","Croatia","_T",2017,41042.689,"A","Normal value","EUR","Euro",4.34930635012659
+"754","HRV","Croatia","_T",2018,42816.706,"A","Normal value","EUR","Euro",4.32237030083482
+"755","HRV","Croatia","_T",2019,45117.833,"A","Normal value","EUR","Euro",5.37436719209554
+"756","HRV","Croatia","_T",2020,42195.913,"A","Normal value","EUR","Euro",-6.47619756028619
+"757","HRV","Croatia","_T",2021,48298.123,"A","Normal value","EUR","Euro",14.4616138534554
+"758","HRV","Croatia","_T",2022,57037.269,"P","Provisional value","EUR","Euro",18.0941731420908
+"759","HUN","Hungary","_T",1995,4942722,"A","Normal value","HUF","Forint",NA
+"760","HUN","Hungary","_T",1996,6076238,"A","Normal value","HUF","Forint",22.9330316372234
+"761","HUN","Hungary","_T",1997,7629846,"A","Normal value","HUF","Forint",25.5685837190709
+"762","HUN","Hungary","_T",1998,9009577,"A","Normal value","HUF","Forint",18.0833400831419
+"763","HUN","Hungary","_T",1999,9984353,"A","Normal value","HUF","Forint",10.8193314736086
+"764","HUN","Hungary","_T",2000,11357758,"A","Normal value","HUF","Forint",13.7555733456139
+"765","HUN","Hungary","_T",2001,13307856,"A","Normal value","HUF","Forint",17.1697442400164
+"766","HUN","Hungary","_T",2002,15134489,"A","Normal value","HUF","Forint",13.7259750932081
+"767","HUN","Hungary","_T",2003,16442337,"A","Normal value","HUF","Forint",8.64150748664193
+"768","HUN","Hungary","_T",2004,18071239,"A","Normal value","HUF","Forint",9.906754739305
+"769","HUN","Hungary","_T",2005,19473280,"A","Normal value","HUF","Forint",7.75841103092046
+"770","HUN","Hungary","_T",2006,21140813,"A","Normal value","HUF","Forint",8.56318504124626
+"771","HUN","Hungary","_T",2007,22142363,"A","Normal value","HUF","Forint",4.7375188456565
+"772","HUN","Hungary","_T",2008,23346169,"A","Normal value","HUF","Forint",5.43666455111408
+"773","HUN","Hungary","_T",2009,22548144,"A","Normal value","HUF","Forint",-3.4182267763075
+"774","HUN","Hungary","_T",2010,23332783,"A","Normal value","HUF","Forint",3.47983851797292
+"775","HUN","Hungary","_T",2011,24285160,"A","Normal value","HUF","Forint",4.08171198437837
+"776","HUN","Hungary","_T",2012,24409415,"A","Normal value","HUF","Forint",0.511649912950954
+"777","HUN","Hungary","_T",2013,25632129,"A","Normal value","HUF","Forint",5.00919010144241
+"778","HUN","Hungary","_T",2014,27718713,"A","Normal value","HUF","Forint",8.14050210187379
+"779","HUN","Hungary","_T",2015,29459765,"A","Normal value","HUF","Forint",6.28114299534758
+"780","HUN","Hungary","_T",2016,30714361,"A","Normal value","HUF","Forint",4.25867619785833
+"781","HUN","Hungary","_T",2017,33309001,"A","Normal value","HUF","Forint",8.44764440972742
+"782","HUN","Hungary","_T",2018,36642166,"A","Normal value","HUF","Forint",10.0067996635504
+"783","HUN","Hungary","_T",2019,40267050,"A","Normal value","HUF","Forint",9.89265754649984
+"784","HUN","Hungary","_T",2020,40886413,"A","Normal value","HUF","Forint",1.53813850282054
+"785","HUN","Hungary","_T",2021,46716869,"A","Normal value","HUF","Forint",14.2601308654785
+"786","HUN","Hungary","_T",2022,56053756,"A","Normal value","HUF","Forint",19.9861146516476
+"787","IRL","Ireland","_T",1995,49450.811,"A","Normal value","EUR","Euro",NA
+"788","IRL","Ireland","_T",1996,53516.197,"A","Normal value","EUR","Euro",8.22107042895616
+"789","IRL","Ireland","_T",1997,61844.904,"A","Normal value","EUR","Euro",15.5629649842271
+"790","IRL","Ireland","_T",1998,72754.141,"A","Normal value","EUR","Euro",17.6396700365159
+"791","IRL","Ireland","_T",1999,82670.786,"A","Normal value","EUR","Euro",13.6303512950555
+"792","IRL","Ireland","_T",2000,96721.759,"A","Normal value","EUR","Euro",16.9962978215787
+"793","IRL","Ireland","_T",2001,108813.82,"A","Normal value","EUR","Euro",12.5019035272094
+"794","IRL","Ireland","_T",2002,120604.618,"A","Normal value","EUR","Euro",10.8357541349068
+"795","IRL","Ireland","_T",2003,128986.895,"A","Normal value","EUR","Euro",6.95021230447411
+"796","IRL","Ireland","_T",2004,137429.175,"A","Normal value","EUR","Euro",6.54506800865311
+"797","IRL","Ireland","_T",2005,149522.682,"A","Normal value","EUR","Euro",8.7998105205827
+"798","IRL","Ireland","_T",2006,162578.076,"A","Normal value","EUR","Euro",8.73138029987985
+"799","IRL","Ireland","_T",2007,175065.933,"A","Normal value","EUR","Euro",7.68114453513399
+"800","IRL","Ireland","_T",2008,167334.953,"A","Normal value","EUR","Euro",-4.41603907026273
+"801","IRL","Ireland","_T",2009,152335.859,"A","Normal value","EUR","Euro",-8.96351523163246
+"802","IRL","Ireland","_T",2010,152323.745,"A","Normal value","EUR","Euro",-0.00795216574713469
+"803","IRL","Ireland","_T",2011,155174.676,"A","Normal value","EUR","Euro",1.87162612106209
+"804","IRL","Ireland","_T",2012,158691.251,"A","Normal value","EUR","Euro",2.26620418398681
+"805","IRL","Ireland","_T",2013,164131.598,"A","Normal value","EUR","Euro",3.42825894037473
+"806","IRL","Ireland","_T",2014,178525.655,"A","Normal value","EUR","Euro",8.76982688001368
+"807","IRL","Ireland","_T",2015,244180.639,"A","Normal value","EUR","Euro",36.7762179615025
+"808","IRL","Ireland","_T",2016,250893.735,"A","Normal value","EUR","Euro",2.74923352952647
+"809","IRL","Ireland","_T",2017,274823.182,"A","Normal value","EUR","Euro",9.53768215854413
+"810","IRL","Ireland","_T",2018,306261.192,"A","Normal value","EUR","Euro",11.4393588529224
+"811","IRL","Ireland","_T",2019,334579.04,"A","Normal value","EUR","Euro",9.24630633580242
+"812","IRL","Ireland","_T",2020,352055.314,"A","Normal value","EUR","Euro",5.22336186988881
+"813","IRL","Ireland","_T",2021,401447.507,"A","Normal value","EUR","Euro",14.0296683605804
+"814","ISL","Iceland","_T",1995,377738.997,"A","Normal value","ISK","Iceland krona",NA
+"815","ISL","Iceland","_T",1996,402997.13,"A","Normal value","ISK","Iceland krona",6.68666280172286
+"816","ISL","Iceland","_T",1997,463988.122,"A","Normal value","ISK","Iceland krona",15.1343489716664
+"817","ISL","Iceland","_T",1998,523616.124,"A","Normal value","ISK","Iceland krona",12.8511914794233
+"818","ISL","Iceland","_T",1999,556524.656,"A","Normal value","ISK","Iceland krona",6.28485840898206
+"819","ISL","Iceland","_T",2000,614067.939,"A","Normal value","ISK","Iceland krona",10.3397544708244
+"820","ISL","Iceland","_T",2001,710572.633,"A","Normal value","ISK","Iceland krona",15.7156379401856
+"821","ISL","Iceland","_T",2002,755784.793,"A","Normal value","ISK","Iceland krona",6.36277811729345
+"822","ISL","Iceland","_T",2003,768813.885,"A","Normal value","ISK","Iceland krona",1.72391560675395
+"823","ISL","Iceland","_T",2004,840891.423,"A","Normal value","ISK","Iceland krona",9.37516080370998
+"824","ISL","Iceland","_T",2005,904946.622,"A","Normal value","ISK","Iceland krona",7.61753506433375
+"825","ISL","Iceland","_T",2006,1046628.844,"A","Normal value","ISK","Iceland krona",15.6564175781851
+"826","ISL","Iceland","_T",2007,1197381.534,"A","Normal value","ISK","Iceland krona",14.4036437428816
+"827","ISL","Iceland","_T",2008,1413719.473,"A","Normal value","ISK","Iceland krona",18.0675860498113
+"828","ISL","Iceland","_T",2009,1469049.733,"A","Normal value","ISK","Iceland krona",3.91380758748309
+"829","ISL","Iceland","_T",2010,1514177.063,"A","Normal value","ISK","Iceland krona",3.07187217602524
+"830","ISL","Iceland","_T",2011,1586747.795,"A","Normal value","ISK","Iceland krona",4.79275071412172
+"831","ISL","Iceland","_T",2012,1651238.938,"A","Normal value","ISK","Iceland krona",4.06436002011272
+"832","ISL","Iceland","_T",2013,1767569.682,"A","Normal value","ISK","Iceland krona",7.04505818769639
+"833","ISL","Iceland","_T",2014,1871009.66,"A","Normal value","ISK","Iceland krona",5.85210184658507
+"834","ISL","Iceland","_T",2015,2073631.662,"A","Normal value","ISK","Iceland krona",10.8295540280642
+"835","ISL","Iceland","_T",2016,2248396.222,"A","Normal value","ISK","Iceland krona",8.42794615854974
+"836","ISL","Iceland","_T",2017,2344447.334,"A","Normal value","ISK","Iceland krona",4.27198333906468
+"837","ISL","Iceland","_T",2018,2532865.11,"A","Normal value","ISK","Iceland krona",8.03676726994457
+"838","ISL","Iceland","_T",2019,2717784.44,"A","Normal value","ISK","Iceland krona",7.30079660657492
+"839","ISL","Iceland","_T",2020,2625953.168,"A","Normal value","ISK","Iceland krona",-3.37890197060661
+"840","ISL","Iceland","_T",2021,2904485.46,"A","Normal value","ISK","Iceland krona",10.6069024914156
+"841","ISL","Iceland","_T",2022,3382518.719,"A","Normal value","ISK","Iceland krona",16.4584490293851
+"842","ITA","Italy","_T",1995,893037.2,"A","Normal value","EUR","Euro",NA
+"843","ITA","Italy","_T",1996,947689.7,"A","Normal value","EUR","Euro",6.11984584740703
+"844","ITA","Italy","_T",1997,984597.3,"A","Normal value","EUR","Euro",3.89448149536711
+"845","ITA","Italy","_T",1998,1021600.1,"A","Normal value","EUR","Euro",3.75816590193777
+"846","ITA","Italy","_T",1999,1051978.5,"A","Normal value","EUR","Euro",2.97360973241878
+"847","ITA","Italy","_T",2000,1112455.9,"A","Normal value","EUR","Euro",5.7489197735505
+"848","ITA","Italy","_T",2001,1175476.8,"A","Normal value","EUR","Euro",5.66502456411981
+"849","ITA","Italy","_T",2002,1217299.9,"A","Normal value","EUR","Euro",3.55796898756316
+"850","ITA","Italy","_T",2003,1261478.2,"A","Normal value","EUR","Euro",3.62920427414806
+"851","ITA","Italy","_T",2004,1310293,"A","Normal value","EUR","Euro",3.86965070026577
+"852","ITA","Italy","_T",2005,1346105.3,"A","Normal value","EUR","Euro",2.73315205072454
+"853","ITA","Italy","_T",2006,1391185.8,"A","Normal value","EUR","Euro",3.34895791584804
+"854","ITA","Italy","_T",2007,1449716.8,"A","Normal value","EUR","Euro",4.20727411104972
+"855","ITA","Italy","_T",2008,1477269.4,"A","Normal value","EUR","Euro",1.9005505075198
+"856","ITA","Italy","_T",2009,1425156.9,"A","Normal value","EUR","Euro",-3.52762332990855
+"857","ITA","Italy","_T",2010,1449430.4,"A","Normal value","EUR","Euro",1.70321597572871
+"858","ITA","Italy","_T",2011,1480874.8,"A","Normal value","EUR","Euro",2.16943152289342
+"859","ITA","Italy","_T",2012,1458006.7,"A","Normal value","EUR","Euro",-1.54422912726991
+"860","ITA","Italy","_T",2013,1451514.3,"A","Normal value","EUR","Euro",-0.445292878283749
+"861","ITA","Italy","_T",2014,1462744.6,"A","Normal value","EUR","Euro",0.77369544344138
+"862","ITA","Italy","_T",2015,1488049,"A","Normal value","EUR","Euro",1.72992605817857
+"863","ITA","Italy","_T",2016,1522753.8,"A","Normal value","EUR","Euro",2.33223502720677
+"864","ITA","Italy","_T",2017,1557795.8,"A","Normal value","EUR","Euro",2.30122558223135
+"865","ITA","Italy","_T",2018,1589576.2,"A","Normal value","EUR","Euro",2.04008766745936
+"866","ITA","Italy","_T",2019,1611368.5,"A","Normal value","EUR","Euro",1.37095031996579
+"867","ITA","Italy","_T",2020,1502654.9,"A","Normal value","EUR","Euro",-6.74666285210367
+"868","ITA","Italy","_T",2021,1602253.4,"A","Normal value","EUR","Euro",6.62816858348514
+"869","ITA","Italy","_T",2022,1714141.5,"A","Normal value","EUR","Euro",6.98317132608363
+"870","JPN","Japan","_T",1994,507736800,"A","Normal value","JPY","Yen",NA
+"871","JPN","Japan","_T",1995,517306700,"A","Normal value","JPY","Yen",1.88481512468665
+"872","JPN","Japan","_T",1996,530834900,"A","Normal value","JPY","Yen",2.6151217449919
+"873","JPN","Japan","_T",1997,541529300,"A","Normal value","JPY","Yen",2.01463769620272
+"874","JPN","Japan","_T",1998,535877000,"A","Normal value","JPY","Yen",-1.04376623757939
+"875","JPN","Japan","_T",1999,529448900,"A","Normal value","JPY","Yen",-1.19954765739153
+"876","JPN","Japan","_T",2000,535696700,"A","Normal value","JPY","Yen",1.1800572255415
+"877","JPN","Japan","_T",2001,528543800,"A","Normal value","JPY","Yen",-1.3352518318668
+"878","JPN","Japan","_T",2002,524121800,"A","Normal value","JPY","Yen",-0.836638325906008
+"879","JPN","Japan","_T",2003,524457500,"A","Normal value","JPY","Yen",0.06404999753874
+"880","JPN","Japan","_T",2004,530393900,"A","Normal value","JPY","Yen",1.13191250005959
+"881","JPN","Japan","_T",2005,534950800,"A","Normal value","JPY","Yen",0.859153923150323
+"882","JPN","Japan","_T",2006,536229100,"A","Normal value","JPY","Yen",0.238956554509312
+"883","JPN","Japan","_T",2007,540420000,"A","Normal value","JPY","Yen",0.781550273940747
+"884","JPN","Japan","_T",2008,528343900,"A","Normal value","JPY","Yen",-2.23457681062877
+"885","JPN","Japan","_T",2009,495454300,"A","Normal value","JPY","Yen",-6.22503638255311
+"886","JPN","Japan","_T",2010,505472200,"A","Normal value","JPY","Yen",2.02196246959609
+"887","JPN","Japan","_T",2011,494826500,"A","Normal value","JPY","Yen",-2.10609010742826
+"888","JPN","Japan","_T",2012,497635100,"A","Normal value","JPY","Yen",0.56759288356626
+"889","JPN","Japan","_T",2013,505334200,"A","Normal value","JPY","Yen",1.54713765166484
+"890","JPN","Japan","_T",2014,514630700,"A","Normal value","JPY","Yen",1.83967362588956
+"891","JPN","Japan","_T",2015,534876000,"A","Normal value","JPY","Yen",3.93394719747578
+"892","JPN","Japan","_T",2016,542415700,"A","Normal value","JPY","Yen",1.40961643446331
+"893","JPN","Japan","_T",2017,550565600,"A","Normal value","JPY","Yen",1.50251919330506
+"894","JPN","Japan","_T",2018,553632000,"A","Normal value","JPY","Yen",0.556954520950819
+"895","JPN","Japan","_T",2019,554957800,"A","Normal value","JPY","Yen",0.239473151840934
+"896","JPN","Japan","_T",2020,537656200,"A","Normal value","JPY","Yen",-3.11764245857973
+"897","JPN","Japan","_T",2021,549288600,"A","Normal value","JPY","Yen",2.16353870744911
+"898","JPN","Japan","_T",2022,555918300,"A","Normal value","JPY","Yen",1.20696114938486
+"899","KOR","Korea","_T",1970,2550900,"A","Normal value","KRW","Won",NA
+"900","KOR","Korea","_T",1971,3148500,"A","Normal value","KRW","Won",23.4270257556157
+"901","KOR","Korea","_T",1972,3956600,"A","Normal value","KRW","Won",25.6661902493251
+"902","KOR","Korea","_T",1973,5120300,"A","Normal value","KRW","Won",29.4116160339686
+"903","KOR","Korea","_T",1974,7244200,"A","Normal value","KRW","Won",41.4799914067535
+"904","KOR","Korea","_T",1975,9568600,"A","Normal value","KRW","Won",32.0863587421661
+"905","KOR","Korea","_T",1976,13007200,"A","Normal value","KRW","Won",35.9362916205087
+"906","KOR","Korea","_T",1977,16670900,"A","Normal value","KRW","Won",28.1667076695984
+"907","KOR","Korea","_T",1978,22431700,"A","Normal value","KRW","Won",34.5560227702164
+"908","KOR","Korea","_T",1979,28933500,"A","Normal value","KRW","Won",28.984874084443
+"909","KOR","Korea","_T",1980,35431300,"A","Normal value","KRW","Won",22.4577047367239
+"910","KOR","Korea","_T",1981,44372200,"A","Normal value","KRW","Won",25.2344678292922
+"911","KOR","Korea","_T",1982,51165600,"A","Normal value","KRW","Won",15.3100364642727
+"912","KOR","Korea","_T",1983,60346500,"A","Normal value","KRW","Won",17.9435011023031
+"913","KOR","Korea","_T",1984,70292700,"A","Normal value","KRW","Won",16.4818175039149
+"914","KOR","Korea","_T",1985,79238600,"A","Normal value","KRW","Won",12.7266416000524
+"915","KOR","Korea","_T",1986,92799700,"A","Normal value","KRW","Won",17.1142599692574
+"916","KOR","Korea","_T",1987,109868500,"A","Normal value","KRW","Won",18.3931629089318
+"917","KOR","Korea","_T",1988,132242500,"A","Normal value","KRW","Won",20.3643446483751
+"918","KOR","Korea","_T",1989,150917000,"A","Normal value","KRW","Won",14.1214057507987
+"919","KOR","Korea","_T",1990,181332400,"A","Normal value","KRW","Won",20.1537268829887
+"920","KOR","Korea","_T",1991,220950900,"A","Normal value","KRW","Won",21.8485499557718
+"921","KOR","Korea","_T",1992,252554800,"A","Normal value","KRW","Won",14.3035850951501
+"922","KOR","Korea","_T",1993,287606900,"A","Normal value","KRW","Won",13.8790076450735
+"923","KOR","Korea","_T",1994,339177900,"A","Normal value","KRW","Won",17.9310718901389
+"924","KOR","Korea","_T",1995,398011500,"A","Normal value","KRW","Won",17.3459414661156
+"925","KOR","Korea","_T",1996,445138900,"A","Normal value","KRW","Won",11.8407131452232
+"926","KOR","Korea","_T",1997,491217200,"A","Normal value","KRW","Won",10.3514431113524
+"927","KOR","Korea","_T",1998,492794700,"A","Normal value","KRW","Won",0.321141034963759
+"928","KOR","Korea","_T",1999,535655200,"A","Normal value","KRW","Won",8.69743526056591
+"929","KOR","Korea","_T",2000,587980000,"A","Normal value","KRW","Won",9.76837338646204
+"930","KOR","Korea","_T",2001,635405100,"A","Normal value","KRW","Won",8.06576754311371
+"931","KOR","Korea","_T",2002,703338300,"A","Normal value","KRW","Won",10.6913211744759
+"932","KOR","Korea","_T",2003,753185800,"A","Normal value","KRW","Won",7.08727222731934
+"933","KOR","Korea","_T",2004,824770400,"A","Normal value","KRW","Won",9.50424184842571
+"934","KOR","Korea","_T",2005,867919000,"A","Normal value","KRW","Won",5.23158930048896
+"935","KOR","Korea","_T",2006,912220600,"A","Normal value","KRW","Won",5.10434729508168
+"936","KOR","Korea","_T",2007,989584200,"A","Normal value","KRW","Won",8.48079949082492
+"937","KOR","Korea","_T",2008,1048487000,"A","Normal value","KRW","Won",5.95227773442624
+"938","KOR","Korea","_T",2009,1098608000,"A","Normal value","KRW","Won",4.78031678027482
+"939","KOR","Korea","_T",2010,1203035900,"A","Normal value","KRW","Won",9.50547420007864
+"940","KOR","Korea","_T",2011,1268238800,"A","Normal value","KRW","Won",5.41986319776492
+"941","KOR","Korea","_T",2012,1316176600,"A","Normal value","KRW","Won",3.77987174024324
+"942","KOR","Korea","_T",2013,1377158700,"A","Normal value","KRW","Won",4.63327641594601
+"943","KOR","Korea","_T",2014,1434664600,"A","Normal value","KRW","Won",4.17569158877622
+"944","KOR","Korea","_T",2015,1520907900,"A","Normal value","KRW","Won",6.01139109447602
+"945","KOR","Korea","_T",2016,1593082800,"A","Normal value","KRW","Won",4.74551417610494
+"946","KOR","Korea","_T",2017,1679018700,"A","Normal value","KRW","Won",5.39431472111807
+"947","KOR","Korea","_T",2018,1736540600,"A","Normal value","KRW","Won",3.42592372556661
+"948","KOR","Korea","_T",2019,1762633000,"A","Normal value","KRW","Won",1.50255053063545
+"949","KOR","Korea","_T",2020,1772104300,"A","Normal value","KRW","Won",0.537338175332018
+"950","KOR","Korea","_T",2021,1895260100,"A","Normal value","KRW","Won",6.9496925209199
+"951","LTU","Lithuania","_T",1995,6932.25,"A","Normal value","EUR","Euro",NA
+"952","LTU","Lithuania","_T",1996,8730.813,"A","Normal value","EUR","Euro",25.9448663853727
+"953","LTU","Lithuania","_T",1997,10273.249,"A","Normal value","EUR","Euro",17.6665792750343
+"954","LTU","Lithuania","_T",1998,11412.184,"A","Normal value","EUR","Euro",11.086414823587
+"955","LTU","Lithuania","_T",1999,11172.213,"A","Normal value","EUR","Euro",-2.10276139957084
+"956","LTU","Lithuania","_T",2000,11864.163,"A","Normal value","EUR","Euro",6.19349094042515
+"957","LTU","Lithuania","_T",2001,12617.004,"A","Normal value","EUR","Euro",6.34550452484512
+"958","LTU","Lithuania","_T",2002,13504.141,"A","Normal value","EUR","Euro",7.03128096020259
+"959","LTU","Lithuania","_T",2003,14918.572,"A","Normal value","EUR","Euro",10.4740538476309
+"960","LTU","Lithuania","_T",2004,16481.546,"A","Normal value","EUR","Euro",10.4766997806492
+"961","LTU","Lithuania","_T",2005,18987.281,"A","Normal value","EUR","Euro",15.2032764402077
+"962","LTU","Lithuania","_T",2006,21707.791,"A","Normal value","EUR","Euro",14.328065192694
+"963","LTU","Lithuania","_T",2007,26047.055,"A","Normal value","EUR","Euro",19.989431444222
+"964","LTU","Lithuania","_T",2008,29312.997,"A","Normal value","EUR","Euro",12.5386228884609
+"965","LTU","Lithuania","_T",2009,24262.555,"A","Normal value","EUR","Euro",-17.229360750796
+"966","LTU","Lithuania","_T",2010,25215.926,"A","Normal value","EUR","Euro",3.9293924320831
+"967","LTU","Lithuania","_T",2011,28201.91,"A","Normal value","EUR","Euro",11.841659116544
+"968","LTU","Lithuania","_T",2012,30226.851,"A","Normal value","EUR","Euro",7.18015552847307
+"969","LTU","Lithuania","_T",2013,31769.972,"A","Normal value","EUR","Euro",5.10513318109122
+"970","LTU","Lithuania","_T",2014,33080.707,"A","Normal value","EUR","Euro",4.12570398236423
+"971","LTU","Lithuania","_T",2015,33627.468,"A","Normal value","EUR","Euro",1.65280929455346
+"972","LTU","Lithuania","_T",2016,34997.019,"A","Normal value","EUR","Euro",4.07271519818263
+"973","LTU","Lithuania","_T",2017,37981.863,"A","Normal value","EUR","Euro",8.52885212880559
+"974","LTU","Lithuania","_T",2018,40928.144,"A","Normal value","EUR","Euro",7.75707342212256
+"975","LTU","Lithuania","_T",2019,43994.773,"A","Normal value","EUR","Euro",7.49271454869784
+"976","LTU","Lithuania","_T",2020,44708.598,"A","Normal value","EUR","Euro",1.62252229372793
+"977","LTU","Lithuania","_T",2021,50526.076,"A","Normal value","EUR","Euro",13.0119893269747
+"978","LTU","Lithuania","_T",2022,61303.008,"A","Normal value","EUR","Euro",21.3294458093282
+"979","LUX","Luxembourg","_T",1995,13722.304,"A","Normal value","EUR","Euro",NA
+"980","LUX","Luxembourg","_T",1996,14470.954,"A","Normal value","EUR","Euro",5.45571647443461
+"981","LUX","Luxembourg","_T",1997,15592.672,"A","Normal value","EUR","Euro",7.75151382555705
+"982","LUX","Luxembourg","_T",1998,16229.234,"A","Normal value","EUR","Euro",4.08244334261633
+"983","LUX","Luxembourg","_T",1999,18373.944,"A","Normal value","EUR","Euro",13.2151030664787
+"984","LUX","Luxembourg","_T",2000,20502.108,"A","Normal value","EUR","Euro",11.5825105377485
+"985","LUX","Luxembourg","_T",2001,21424.213,"A","Normal value","EUR","Euro",4.49761068471593
+"986","LUX","Luxembourg","_T",2002,22423.919,"A","Normal value","EUR","Euro",4.66624374953704
+"987","LUX","Luxembourg","_T",2003,23474.634,"A","Normal value","EUR","Euro",4.68568852750492
+"988","LUX","Luxembourg","_T",2004,25053.304,"A","Normal value","EUR","Euro",6.72500367843862
+"989","LUX","Luxembourg","_T",2005,26894.032,"A","Normal value","EUR","Euro",7.3472464949134
+"990","LUX","Luxembourg","_T",2006,30683.877,"A","Normal value","EUR","Euro",14.0917695048478
+"991","LUX","Luxembourg","_T",2007,33658.394,"A","Normal value","EUR","Euro",9.69407158032865
+"992","LUX","Luxembourg","_T",2008,35998.314,"A","Normal value","EUR","Euro",6.95196568202273
+"993","LUX","Luxembourg","_T",2009,35116.859,"A","Normal value","EUR","Euro",-2.44860078724799
+"994","LUX","Luxembourg","_T",2010,38235.934,"A","Normal value","EUR","Euro",8.88198742376135
+"995","LUX","Luxembourg","_T",2011,39801.076,"A","Normal value","EUR","Euro",4.09337980340692
+"996","LUX","Luxembourg","_T",2012,41682.682,"A","Normal value","EUR","Euro",4.72752545684946
+"997","LUX","Luxembourg","_T",2013,44019.418,"A","Normal value","EUR","Euro",5.60601162852236
+"998","LUX","Luxembourg","_T",2014,46254.988,"A","Normal value","EUR","Euro",5.07859963073569
+"999","LUX","Luxembourg","_T",2015,49537.301,"A","Normal value","EUR","Euro",7.09612766519365
+"1000","LUX","Luxembourg","_T",2016,51386.241,"A","Normal value","EUR","Euro",3.73241973760339
+"1001","LUX","Luxembourg","_T",2017,53011.49,"A","Normal value","EUR","Euro",3.16280967117248
+"1002","LUX","Luxembourg","_T",2018,54631.805,"A","Normal value","EUR","Euro",3.05653547938381
+"1003","LUX","Luxembourg","_T",2019,56770.978,"A","Normal value","EUR","Euro",3.91561838383338
+"1004","LUX","Luxembourg","_T",2020,58889.388,"A","Normal value","EUR","Euro",3.7315016838357
+"1005","LUX","Luxembourg","_T",2021,65870.384,"A","Normal value","EUR","Euro",11.854421037624
+"1006","LUX","Luxembourg","_T",2022,70568.038,"A","Normal value","EUR","Euro",7.13166329803086
+"1007","LVA","Latvia","_T",1995,3606.456,"A","Normal value","EUR","Euro",NA
+"1008","LVA","Latvia","_T",1996,4165.029,"A","Normal value","EUR","Euro",15.4881412666618
+"1009","LVA","Latvia","_T",1997,4793.481,"A","Normal value","EUR","Euro",15.0887784934991
+"1010","LVA","Latvia","_T",1998,5308.165,"A","Normal value","EUR","Euro",10.7371657465629
+"1011","LVA","Latvia","_T",1999,5595.474,"A","Normal value","EUR","Euro",5.41258608200763
+"1012","LVA","Latvia","_T",2000,6147.418,"A","Normal value","EUR","Euro",9.86411517594398
+"1013","LVA","Latvia","_T",2001,6720.614,"A","Normal value","EUR","Euro",9.3241747998916
+"1014","LVA","Latvia","_T",2002,7579.25,"A","Normal value","EUR","Euro",12.7761540835406
+"1015","LVA","Latvia","_T",2003,8584.272,"A","Normal value","EUR","Euro",13.2601774581918
+"1016","LVA","Latvia","_T",2004,9965.177,"A","Normal value","EUR","Euro",16.0864543900752
+"1017","LVA","Latvia","_T",2005,12149.758,"A","Normal value","EUR","Euro",21.9221495012081
+"1018","LVA","Latvia","_T",2006,15229.107,"A","Normal value","EUR","Euro",25.3449410268089
+"1019","LVA","Latvia","_T",2007,20181.641,"A","Normal value","EUR","Euro",32.5201865086377
+"1020","LVA","Latvia","_T",2008,22088.35,"A","Normal value","EUR","Euro",9.44774015155655
+"1021","LVA","Latvia","_T",2009,17103.944,"A","Normal value","EUR","Euro",-22.5657688328915
+"1022","LVA","Latvia","_T",2010,16096.741,"A","Normal value","EUR","Euro",-5.88871783022676
+"1023","LVA","Latvia","_T",2011,17498.875,"A","Normal value","EUR","Euro",8.71067006669238
+"1024","LVA","Latvia","_T",2012,19402.67,"A","Normal value","EUR","Euro",10.8795279696552
+"1025","LVA","Latvia","_T",2013,20035.007,"A","Normal value","EUR","Euro",3.25902053686427
+"1026","LVA","Latvia","_T",2014,20802.872,"A","Normal value","EUR","Euro",3.83261657956994
+"1027","LVA","Latvia","_T",2015,21613.408,"A","Normal value","EUR","Euro",3.89626970737502
+"1028","LVA","Latvia","_T",2016,22166.9,"A","Normal value","EUR","Euro",2.56087332455854
+"1029","LVA","Latvia","_T",2017,23574.402,"A","Normal value","EUR","Euro",6.34956624516733
+"1030","LVA","Latvia","_T",2018,25307.377,"A","Normal value","EUR","Euro",7.35108784519753
+"1031","LVA","Latvia","_T",2019,26617.197,"A","Normal value","EUR","Euro",5.17564503030085
+"1032","LVA","Latvia","_T",2020,26280.96,"A","Normal value","EUR","Euro",-1.26323218782203
+"1033","LVA","Latvia","_T",2021,29147.098,"A","Normal value","EUR","Euro",10.9057583893435
+"1034","LVA","Latvia","_T",2022,34306.562,"A","Normal value","EUR","Euro",17.7014672266858
+"1035","MEX","Mexico","_T",2004,8858030.5,"A","Normal value","MXN","Mexican peso",NA
+"1036","MEX","Mexico","_T",2005,9603894.589,"A","Normal value","MXN","Mexican peso",8.42020231246663
+"1037","MEX","Mexico","_T",2006,10719324.856,"A","Normal value","MXN","Mexican peso",11.614353496524
+"1038","MEX","Mexico","_T",2007,11609423.452,"A","Normal value","MXN","Mexican peso",8.30368150939822
+"1039","MEX","Mexico","_T",2008,12612095.832,"A","Normal value","MXN","Mexican peso",8.63671123846608
+"1040","MEX","Mexico","_T",2009,12245032.57,"A","Normal value","MXN","Mexican peso",-2.91040654058995
+"1041","MEX","Mexico","_T",2010,13424766.786,"A","Normal value","MXN","Mexican peso",9.63439018439458
+"1042","MEX","Mexico","_T",2011,14762356.071,"A","Normal value","MXN","Mexican peso",9.96359420109185
+"1043","MEX","Mexico","_T",2012,16046850.324,"A","Normal value","MXN","Mexican peso",8.70114666535738
+"1044","MEX","Mexico","_T",2013,16319823.4,"A","Normal value","MXN","Mexican peso",1.70110065519672
+"1045","MEX","Mexico","_T",2014,17234932.702,"A","Normal value","MXN","Mexican peso",5.60734806725911
+"1046","MEX","Mexico","_T",2015,18157883.864,"A","Normal value","MXN","Mexican peso",5.35511903619385
+"1047","MEX","Mexico","_T",2016,19500423.526,"A","Normal value","MXN","Mexican peso",7.39370111658073
+"1048","MEX","Mexico","_T",2017,21324106.38,"A","Normal value","MXN","Mexican peso",9.3520166450153
+"1049","MEX","Mexico","_T",2018,22873645.541,"A","Normal value","MXN","Mexican peso",7.26660772267261
+"1050","MEX","Mexico","_T",2019,23713406.136,"A","Normal value","MXN","Mexican peso",3.67130195094947
+"1051","MEX","Mexico","_T",2020,22612661.27,"A","Normal value","MXN","Mexican peso",-4.64186738795372
+"1052","MEX","Mexico","_T",2021,25038473.862,"P","Provisional value","MXN","Mexican peso",10.7276740363962
+"1053","MEX","Mexico","_T",2022,28034783.448,"P","Provisional value","MXN","Mexican peso",11.9668219497491
+"1054","MKD","North Macedonia","_T",2000,209601,"A","Normal value","MKD","Denar",NA
+"1055","MKD","North Macedonia","_T",2001,213782,"A","Normal value","MKD","Denar",1.99474239149622
+"1056","MKD","North Macedonia","_T",2002,213203,"A","Normal value","MKD","Denar",-0.270836646677456
+"1057","MKD","North Macedonia","_T",2003,232178,"A","Normal value","MKD","Denar",8.89996857455101
+"1058","MKD","North Macedonia","_T",2004,243685,"A","Normal value","MKD","Denar",4.95611125946472
+"1059","MKD","North Macedonia","_T",2005,264847,"A","Normal value","MKD","Denar",8.68416193036092
+"1060","MKD","North Macedonia","_T",2006,291105,"A","Normal value","MKD","Denar",9.91440341027084
+"1061","MKD","North Macedonia","_T",2007,321378,"A","Normal value","MKD","Denar",10.3993404441696
+"1062","MKD","North Macedonia","_T",2008,357150,"A","Normal value","MKD","Denar",11.130817915352
+"1063","MKD","North Macedonia","_T",2009,358369,"A","Normal value","MKD","Denar",0.341313173736525
+"1064","MKD","North Macedonia","_T",2010,377201,"A","Normal value","MKD","Denar",5.25491881273213
+"1065","MKD","North Macedonia","_T",2011,399376,"A","Normal value","MKD","Denar",5.87882852908661
+"1066","MKD","North Macedonia","_T",2012,403684,"A","Normal value","MKD","Denar",1.07868274508233
+"1067","MKD","North Macedonia","_T",2013,436706,"A","Normal value","MKD","Denar",8.18016071977091
+"1068","MKD","North Macedonia","_T",2014,458128,"A","Normal value","MKD","Denar",4.90535966989233
+"1069","MKD","North Macedonia","_T",2015,488407.615,"A","Normal value","MKD","Denar",6.60942247581462
+"1070","MKD","North Macedonia","_T",2016,515600.663,"A","Normal value","MKD","Denar",5.56769533579037
+"1071","MKD","North Macedonia","_T",2017,535726.218,"A","Normal value","MKD","Denar",3.90332217241544
+"1072","MKD","North Macedonia","_T",2018,573921.98,"A","Normal value","MKD","Denar",7.12971676887391
+"1073","MKD","North Macedonia","_T",2019,601462.498,"A","Normal value","MKD","Denar",4.79865190038549
+"1074","MLT","Malta","_T",1995,2724.786,"A","Normal value","EUR","Euro",NA
+"1075","MLT","Malta","_T",1996,2901.299,"A","Normal value","EUR","Euro",6.47805001934096
+"1076","MLT","Malta","_T",1997,3060.361,"A","Normal value","EUR","Euro",5.48244079634674
+"1077","MLT","Malta","_T",1998,3295.553,"A","Normal value","EUR","Euro",7.68510643025447
+"1078","MLT","Malta","_T",1999,3426.064,"A","Normal value","EUR","Euro",3.96021547825206
+"1079","MLT","Malta","_T",2000,3702.707,"A","Normal value","EUR","Euro",8.07465943426626
+"1080","MLT","Malta","_T",2001,3802.274,"A","Normal value","EUR","Euro",2.68903264557525
+"1081","MLT","Malta","_T",2002,3997.199,"A","Normal value","EUR","Euro",5.12653743522955
+"1082","MLT","Malta","_T",2003,4251.178,"A","Normal value","EUR","Euro",6.35392433551594
+"1083","MLT","Malta","_T",2004,4289.121,"A","Normal value","EUR","Euro",0.892529082527248
+"1084","MLT","Malta","_T",2005,4481.539,"A","Normal value","EUR","Euro",4.4861872630779
+"1085","MLT","Malta","_T",2006,4698.44,"A","Normal value","EUR","Euro",4.83987755099308
+"1086","MLT","Malta","_T",2007,5052.126,"A","Normal value","EUR","Euro",7.52773260912134
+"1087","MLT","Malta","_T",2008,5461.786,"A","Normal value","EUR","Euro",8.10866554001226
+"1088","MLT","Malta","_T",2009,5477.892,"A","Normal value","EUR","Euro",0.294885226187913
+"1089","MLT","Malta","_T",2010,6007.037,"A","Normal value","EUR","Euro",9.6596464479402
+"1090","MLT","Malta","_T",2011,6042.91,"A","Normal value","EUR","Euro",0.597182937278389
+"1091","MLT","Malta","_T",2012,6477.59,"A","Normal value","EUR","Euro",7.19322313256362
+"1092","MLT","Malta","_T",2013,7019.237,"A","Normal value","EUR","Euro",8.36185988924893
+"1093","MLT","Malta","_T",2014,7716.193,"A","Normal value","EUR","Euro",9.92922735049408
+"1094","MLT","Malta","_T",2015,8888.82,"A","Normal value","EUR","Euro",15.1969630619659
+"1095","MLT","Malta","_T",2016,9355.729,"A","Normal value","EUR","Euro",5.25276695894393
+"1096","MLT","Malta","_T",2017,10633.344,"A","Normal value","EUR","Euro",13.6559641691203
+"1097","MLT","Malta","_T",2018,11485.751,"A","Normal value","EUR","Euro",8.0163587296715
+"1098","MLT","Malta","_T",2019,12550.952,"A","Normal value","EUR","Euro",9.27410841485245
+"1099","MLT","Malta","_T",2020,11852.525,"A","Normal value","EUR","Euro",-5.5647332568876
+"1100","MLT","Malta","_T",2021,13351.874,"A","Normal value","EUR","Euro",12.6500387048329
+"1101","NLD","Netherlands","_T",1995,299274,"A","Normal value","EUR","Euro",NA
+"1102","NLD","Netherlands","_T",1996,311336,"A","Normal value","EUR","Euro",4.03042028375335
+"1103","NLD","Netherlands","_T",1997,332931,"A","Normal value","EUR","Euro",6.93623609219621
+"1104","NLD","Netherlands","_T",1998,355365,"A","Normal value","EUR","Euro",6.73833316813394
+"1105","NLD","Netherlands","_T",1999,375889,"A","Normal value","EUR","Euro",5.77547029110914
+"1106","NLD","Netherlands","_T",2000,405832,"A","Normal value","EUR","Euro",7.96591546972644
+"1107","NLD","Netherlands","_T",2001,430408,"A","Normal value","EUR","Euro",6.05570778055944
+"1108","NLD","Netherlands","_T",2002,448394,"A","Normal value","EUR","Euro",4.17882567238527
+"1109","NLD","Netherlands","_T",2003,458616,"A","Normal value","EUR","Euro",2.279691521296
+"1110","NLD","Netherlands","_T",2004,472578,"A","Normal value","EUR","Euro",3.04437699513318
+"1111","NLD","Netherlands","_T",2005,491394,"A","Normal value","EUR","Euro",3.98156494800858
+"1112","NLD","Netherlands","_T",2006,520586,"A","Normal value","EUR","Euro",5.94065047599279
+"1113","NLD","Netherlands","_T",2007,552505,"A","Normal value","EUR","Euro",6.13135966007538
+"1114","NLD","Netherlands","_T",2008,578387,"A","Normal value","EUR","Euro",4.6844824933711
+"1115","NLD","Netherlands","_T",2009,561185,"A","Normal value","EUR","Euro",-2.97413323605129
+"1116","NLD","Netherlands","_T",2010,574280,"A","Normal value","EUR","Euro",2.333455099477
+"1117","NLD","Netherlands","_T",2011,585953,"A","Normal value","EUR","Euro",2.03263216549418
+"1118","NLD","Netherlands","_T",2012,590316,"A","Normal value","EUR","Euro",0.744598969541926
+"1119","NLD","Netherlands","_T",2013,595709,"A","Normal value","EUR","Euro",0.91357849016459
+"1120","NLD","Netherlands","_T",2014,604814,"A","Normal value","EUR","Euro",1.52843082780351
+"1121","NLD","Netherlands","_T",2015,620835,"A","Normal value","EUR","Euro",2.64891355028157
+"1122","NLD","Netherlands","_T",2016,634824,"A","Normal value","EUR","Euro",2.25325569595786
+"1123","NLD","Netherlands","_T",2017,661566,"A","Normal value","EUR","Euro",4.21250614343503
+"1124","NLD","Netherlands","_T",2018,692632,"A","Normal value","EUR","Euro",4.69582777833202
+"1125","NLD","Netherlands","_T",2019,724960,"A","Normal value","EUR","Euro",4.66741357604038
+"1126","NLD","Netherlands","_T",2020,709628,"A","Normal value","EUR","Euro",-2.11487530346502
+"1127","NLD","Netherlands","_T",2021,774497,"A","Normal value","EUR","Euro",9.14126838287103
+"1128","NLD","Netherlands","_T",2022,859803,"A","Normal value","EUR","Euro",11.0143744907985
+"1129","NOR","Norway","_T",1970,79884,"A","Normal value","NOK","Norwegian krone",NA
+"1130","NOR","Norway","_T",1971,88795,"A","Normal value","NOK","Norwegian krone",11.1549246407291
+"1131","NOR","Norway","_T",1972,98964,"A","Normal value","NOK","Norwegian krone",11.4522214088631
+"1132","NOR","Norway","_T",1973,112745,"A","Normal value","NOK","Norwegian krone",13.9252657532032
+"1133","NOR","Norway","_T",1974,132150,"A","Normal value","NOK","Norwegian krone",17.2114062707881
+"1134","NOR","Norway","_T",1975,151295,"A","Normal value","NOK","Norwegian krone",14.4873250094589
+"1135","NOR","Norway","_T",1976,172665,"A","Normal value","NOK","Norwegian krone",14.1247232228428
+"1136","NOR","Norway","_T",1977,194179,"A","Normal value","NOK","Norwegian krone",12.459965829786
+"1137","NOR","Norway","_T",1978,216033,"A","Normal value","NOK","Norwegian krone",11.2545640877747
+"1138","NOR","Norway","_T",1979,238761,"A","Normal value","NOK","Norwegian krone",10.520614906056
+"1139","NOR","Norway","_T",1980,284568,"A","Normal value","NOK","Norwegian krone",19.1852940806916
+"1140","NOR","Norway","_T",1981,324382,"A","Normal value","NOK","Norwegian krone",13.9910320204661
+"1141","NOR","Norway","_T",1982,360138,"A","Normal value","NOK","Norwegian krone",11.022806444254
+"1142","NOR","Norway","_T",1983,399409,"A","Normal value","NOK","Norwegian krone",10.9044310791974
+"1143","NOR","Norway","_T",1984,451033,"A","Normal value","NOK","Norwegian krone",12.9250968305672
+"1144","NOR","Norway","_T",1985,494928,"A","Normal value","NOK","Norwegian krone",9.73210385936284
+"1145","NOR","Norway","_T",1986,501204,"A","Normal value","NOK","Norwegian krone",1.26806323344002
+"1146","NOR","Norway","_T",1987,550697,"A","Normal value","NOK","Norwegian krone",9.87482142999657
+"1147","NOR","Norway","_T",1988,581505,"A","Normal value","NOK","Norwegian krone",5.59436495931519
+"1148","NOR","Norway","_T",1989,627760,"A","Normal value","NOK","Norwegian krone",7.95435980774026
+"1149","NOR","Norway","_T",1990,666421,"A","Normal value","NOK","Norwegian krone",6.1585637823372
+"1150","NOR","Norway","_T",1991,700973,"A","Normal value","NOK","Norwegian krone",5.18471056584351
+"1151","NOR","Norway","_T",1992,718406,"A","Normal value","NOK","Norwegian krone",2.48697168079227
+"1152","NOR","Norway","_T",1993,751561,"A","Normal value","NOK","Norwegian krone",4.61507838186207
+"1153","NOR","Norway","_T",1994,782439,"A","Normal value","NOK","Norwegian krone",4.108515476455
+"1154","NOR","Norway","_T",1995,835217,"A","Normal value","NOK","Norwegian krone",6.74531816537775
+"1155","NOR","Norway","_T",1996,915029,"A","Normal value","NOK","Norwegian krone",9.55583997931077
+"1156","NOR","Norway","_T",1997,990121,"A","Normal value","NOK","Norwegian krone",8.2065158590602
+"1157","NOR","Norway","_T",1998,1005787,"A","Normal value","NOK","Norwegian krone",1.58223085865263
+"1158","NOR","Norway","_T",1999,1099101,"A","Normal value","NOK","Norwegian krone",9.27770989285008
+"1159","NOR","Norway","_T",2000,1331283,"A","Normal value","NOK","Norwegian krone",21.1247192023299
+"1160","NOR","Norway","_T",2001,1384313,"A","Normal value","NOK","Norwegian krone",3.98337543557606
+"1161","NOR","Norway","_T",2002,1380592,"A","Normal value","NOK","Norwegian krone",-0.268797591296188
+"1162","NOR","Norway","_T",2003,1439673,"A","Normal value","NOK","Norwegian krone",4.27939608515767
+"1163","NOR","Norway","_T",2004,1588547,"A","Normal value","NOK","Norwegian krone",10.3408204501995
+"1164","NOR","Norway","_T",2005,1782652,"A","Normal value","NOK","Norwegian krone",12.2190278285754
+"1165","NOR","Norway","_T",2006,1986103,"A","Normal value","NOK","Norwegian krone",11.4128276298459
+"1166","NOR","Norway","_T",2007,2095519,"A","Normal value","NOK","Norwegian krone",5.50907984127711
+"1167","NOR","Norway","_T",2008,2361687,"A","Normal value","NOK","Norwegian krone",12.7017698240865
+"1168","NOR","Norway","_T",2009,2178622,"A","Normal value","NOK","Norwegian krone",-7.75145055208417
+"1169","NOR","Norway","_T",2010,2321905,"A","Normal value","NOK","Norwegian krone",6.57677192280258
+"1170","NOR","Norway","_T",2011,2515074,"A","Normal value","NOK","Norwegian krone",8.3194187531359
+"1171","NOR","Norway","_T",2012,2674361,"A","Normal value","NOK","Norwegian krone",6.33329277786658
+"1172","NOR","Norway","_T",2013,2768461,"A","Normal value","NOK","Norwegian krone",3.51859752666151
+"1173","NOR","Norway","_T",2014,2829537,"A","Normal value","NOK","Norwegian krone",2.2061354666004
+"1174","NOR","Norway","_T",2015,2787861,"A","Normal value","NOK","Norwegian krone",-1.47289114791572
+"1175","NOR","Norway","_T",2016,2757573,"A","Normal value","NOK","Norwegian krone",-1.08642432316389
+"1176","NOR","Norway","_T",2017,2947535,"A","Normal value","NOK","Norwegian krone",6.88873875687062
+"1177","NOR","Norway","_T",2018,3184225,"A","Normal value","NOK","Norwegian krone",8.03009972739934
+"1178","NOR","Norway","_T",2019,3198296,"A","Normal value","NOK","Norwegian krone",0.441897164930242
+"1179","NOR","Norway","_T",2020,3057651,"A","Normal value","NOK","Norwegian krone",-4.39749791764114
+"1180","NOR","Norway","_T",2021,3894480,"A","Normal value","NOK","Norwegian krone",27.3683621839118
+"1181","NOR","Norway","_T",2022,5280691,"A","Normal value","NOK","Norwegian krone",35.5942513506296
+"1182","NZL","New Zealand","_T",1971,6769,"A","Normal value","NZD","New Zealand dollar",NA
+"1183","NZL","New Zealand","_T",1972,7770,"A","Normal value","NZD","New Zealand dollar",14.7880041365047
+"1184","NZL","New Zealand","_T",1973,9058,"A","Normal value","NZD","New Zealand dollar",16.5765765765766
+"1185","NZL","New Zealand","_T",1974,9949,"A","Normal value","NZD","New Zealand dollar",9.83660852285273
+"1186","NZL","New Zealand","_T",1975,11245,"A","Normal value","NZD","New Zealand dollar",13.0264348175696
+"1187","NZL","New Zealand","_T",1976,13790,"A","Normal value","NZD","New Zealand dollar",22.6322810137839
+"1188","NZL","New Zealand","_T",1977,15469,"A","Normal value","NZD","New Zealand dollar",12.1754894851342
+"1189","NZL","New Zealand","_T",1978,17540,"A","Normal value","NZD","New Zealand dollar",13.3880664554916
+"1190","NZL","New Zealand","_T",1979,20455,"A","Normal value","NZD","New Zealand dollar",16.6191562143672
+"1191","NZL","New Zealand","_T",1980,23818,"A","Normal value","NZD","New Zealand dollar",16.4409679784894
+"1192","NZL","New Zealand","_T",1981,28935,"A","Normal value","NZD","New Zealand dollar",21.4837517843648
+"1193","NZL","New Zealand","_T",1982,32765,"A","Normal value","NZD","New Zealand dollar",13.2365647140142
+"1194","NZL","New Zealand","_T",1983,36495,"A","Normal value","NZD","New Zealand dollar",11.3840988860064
+"1195","NZL","New Zealand","_T",1984,41100,"A","Normal value","NZD","New Zealand dollar",12.6181668721743
+"1196","NZL","New Zealand","_T",1985,47612,"A","Normal value","NZD","New Zealand dollar",15.8442822384428
+"1197","NZL","New Zealand","_T",1986,55714,"A","Normal value","NZD","New Zealand dollar",17.0167184743342
+"1198","NZL","New Zealand","_T",1987,57529,"A","Normal value","NZD","New Zealand dollar",3.25770901389238
+"1199","NZL","New Zealand","_T",1988,62419,"A","Normal value","NZD","New Zealand dollar",8.50006083888126
+"1200","NZL","New Zealand","_T",1989,65099,"A","Normal value","NZD","New Zealand dollar",4.29356445953956
+"1201","NZL","New Zealand","_T",1990,70692,"A","Normal value","NZD","New Zealand dollar",8.59152982380682
+"1202","NZL","New Zealand","_T",1991,70604,"A","Normal value","NZD","New Zealand dollar",-0.124483675663441
+"1203","NZL","New Zealand","_T",1992,72795,"A","Normal value","NZD","New Zealand dollar",3.10322361339301
+"1204","NZL","New Zealand","_T",1993,78608,"A","Normal value","NZD","New Zealand dollar",7.98543856034068
+"1205","NZL","New Zealand","_T",1994,83909,"A","Normal value","NZD","New Zealand dollar",6.74358843883574
+"1206","NZL","New Zealand","_T",1995,89120,"A","Normal value","NZD","New Zealand dollar",6.21029925276192
+"1207","NZL","New Zealand","_T",1996,93560,"A","Normal value","NZD","New Zealand dollar",4.98204667863555
+"1208","NZL","New Zealand","_T",1997,97132,"A","Normal value","NZD","New Zealand dollar",3.81787088499359
+"1209","NZL","New Zealand","_T",1998,99374,"A","Normal value","NZD","New Zealand dollar",2.30819915166989
+"1210","NZL","New Zealand","_T",1999,105345,"A","Normal value","NZD","New Zealand dollar",6.00861392315898
+"1211","NZL","New Zealand","_T",2000,111635,"A","Normal value","NZD","New Zealand dollar",5.97085765817077
+"1212","NZL","New Zealand","_T",2001,119973,"A","Normal value","NZD","New Zealand dollar",7.46898374165808
+"1213","NZL","New Zealand","_T",2002,125607,"A","Normal value","NZD","New Zealand dollar",4.69605661273787
+"1214","NZL","New Zealand","_T",2003,134231,"A","Normal value","NZD","New Zealand dollar",6.86585938681761
+"1215","NZL","New Zealand","_T",2004,143444,"A","Normal value","NZD","New Zealand dollar",6.86354120881168
+"1216","NZL","New Zealand","_T",2005,151152,"A","Normal value","NZD","New Zealand dollar",5.3735255570118
+"1217","NZL","New Zealand","_T",2006,158778,"A","Normal value","NZD","New Zealand dollar",5.04525246109876
+"1218","NZL","New Zealand","_T",2007,172564,"A","Normal value","NZD","New Zealand dollar",8.68256307548905
+"1219","NZL","New Zealand","_T",2008,175363,"A","Normal value","NZD","New Zealand dollar",1.62200690758211
+"1220","NZL","New Zealand","_T",2009,180120,"A","Normal value","NZD","New Zealand dollar",2.71265888471342
+"1221","NZL","New Zealand","_T",2010,187405,"A","Normal value","NZD","New Zealand dollar",4.04452587164113
+"1222","NZL","New Zealand","_T",2011,195205,"A","Normal value","NZD","New Zealand dollar",4.16210880179291
+"1223","NZL","New Zealand","_T",2012,199100,"A","Normal value","NZD","New Zealand dollar",1.99533823416408
+"1224","NZL","New Zealand","_T",2013,213598,"A","Normal value","NZD","New Zealand dollar",7.28176795580111
+"1225","NZL","New Zealand","_T",2014,222506,"A","Normal value","NZD","New Zealand dollar",4.17045103418571
+"1226","NZL","New Zealand","_T",2015,233863,"A","Normal value","NZD","New Zealand dollar",5.10413202340611
+"1227","NZL","New Zealand","_T",2016,247783,"A","Normal value","NZD","New Zealand dollar",5.95220278539145
+"1228","NZL","New Zealand","_T",2017,265911,"A","Normal value","NZD","New Zealand dollar",7.31607898846975
+"1229","NZL","New Zealand","_T",2018,280361,"A","Normal value","NZD","New Zealand dollar",5.43414901978482
+"1230","NZL","New Zealand","_T",2019,295780,"A","Normal value","NZD","New Zealand dollar",5.49969503604282
+"1231","NZL","New Zealand","_T",2020,301605,"A","Normal value","NZD","New Zealand dollar",1.96936912570153
+"1232","NZL","New Zealand","_T",2021,658816,"A","Normal value","NZD","New Zealand dollar",118.43669700436
+"1233","POL","Poland","_T",1995,304362,"A","Normal value","PLN","Zloty",NA
+"1234","POL","Poland","_T",1996,379943,"A","Normal value","PLN","Zloty",24.8326006531696
+"1235","POL","Poland","_T",1997,460948,"A","Normal value","PLN","Zloty",21.3203033086542
+"1236","POL","Poland","_T",1998,538540,"A","Normal value","PLN","Zloty",16.8331351909543
+"1237","POL","Poland","_T",1999,593321,"A","Normal value","PLN","Zloty",10.1721320607569
+"1238","POL","Poland","_T",2000,664322,"A","Normal value","PLN","Zloty",11.9667094203644
+"1239","POL","Poland","_T",2001,694819,"A","Normal value","PLN","Zloty",4.59069547598905
+"1240","POL","Poland","_T",2002,716566,"A","Normal value","PLN","Zloty",3.1298798679944
+"1241","POL","Poland","_T",2003,746437,"A","Normal value","PLN","Zloty",4.1686320590148
+"1242","POL","Poland","_T",2004,825318,"A","Normal value","PLN","Zloty",10.5676701449687
+"1243","POL","Poland","_T",2005,870463,"A","Normal value","PLN","Zloty",5.470012770835
+"1244","POL","Poland","_T",2006,937279,"A","Normal value","PLN","Zloty",7.67591500155664
+"1245","POL","Poland","_T",2007,1036439,"A","Normal value","PLN","Zloty",10.5795606217572
+"1246","POL","Poland","_T",2008,1121553,"A","Normal value","PLN","Zloty",8.21215720365598
+"1247","POL","Poland","_T",2009,1217842,"A","Normal value","PLN","Zloty",8.58532766619143
+"1248","POL","Poland","_T",2010,1260546,"A","Normal value","PLN","Zloty",3.5065304037798
+"1249","POL","Poland","_T",2011,1363784,"A","Normal value","PLN","Zloty",8.18994308815386
+"1250","POL","Poland","_T",2012,1426971,"A","Normal value","PLN","Zloty",4.63321171094543
+"1251","POL","Poland","_T",2013,1444148,"A","Normal value","PLN","Zloty",1.20373854829566
+"1252","POL","Poland","_T",2014,1505789,"A","Normal value","PLN","Zloty",4.26832983876999
+"1253","POL","Poland","_T",2015,1595387,"A","Normal value","PLN","Zloty",5.95023605564923
+"1254","POL","Poland","_T",2016,1636005,"A","Normal value","PLN","Zloty",2.54596533631025
+"1255","POL","Poland","_T",2017,1740484,"A","Normal value","PLN","Zloty",6.3862274259553
+"1256","POL","Poland","_T",2018,1862434,"A","Normal value","PLN","Zloty",7.00667170741012
+"1257","POL","Poland","_T",2019,2011356,"A","Normal value","PLN","Zloty",7.99609543210659
+"1258","POL","Poland","_T",2020,2059056,"A","Normal value","PLN","Zloty",2.37153442752054
+"1259","POL","Poland","_T",2021,2289681,"A","Normal value","PLN","Zloty",11.2005210154556
+"1260","POL","Poland","_T",2022,2732891,"A","Normal value","PLN","Zloty",19.3568449054694
+"1261","PRT","Portugal","_T",1995,78452.644,"A","Normal value","EUR","Euro",NA
+"1262","PRT","Portugal","_T",1996,82876.807,"A","Normal value","EUR","Euro",5.63927839066839
+"1263","PRT","Portugal","_T",1997,90046.335,"A","Normal value","EUR","Euro",8.65082555605696
+"1264","PRT","Portugal","_T",1998,97354.454,"A","Normal value","EUR","Euro",8.11595385864399
+"1265","PRT","Portugal","_T",1999,104225.139,"A","Normal value","EUR","Euro",7.05739153957969
+"1266","PRT","Portugal","_T",2000,112521.661,"A","Normal value","EUR","Euro",7.96019278995636
+"1267","PRT","Portugal","_T",2001,119098.175,"A","Normal value","EUR","Euro",5.84466487745858
+"1268","PRT","Portugal","_T",2002,124721.52,"A","Normal value","EUR","Euro",4.72160467614218
+"1269","PRT","Portugal","_T",2003,127734.25,"A","Normal value","EUR","Euro",2.41556549342888
+"1270","PRT","Portugal","_T",2004,133144.794,"A","Normal value","EUR","Euro",4.23578171085672
+"1271","PRT","Portugal","_T",2005,137485.715,"A","Normal value","EUR","Euro",3.2603009622742
+"1272","PRT","Portugal","_T",2006,143562.095,"A","Normal value","EUR","Euro",4.41964461544242
+"1273","PRT","Portugal","_T",2007,152165.963,"A","Normal value","EUR","Euro",5.99313349390728
+"1274","PRT","Portugal","_T",2008,156158.229,"A","Normal value","EUR","Euro",2.62362615219016
+"1275","PRT","Portugal","_T",2009,155546.506,"A","Normal value","EUR","Euro",-0.391732798147959
+"1276","PRT","Portugal","_T",2010,157970.796,"A","Normal value","EUR","Euro",1.55856281336207
+"1277","PRT","Portugal","_T",2011,154128.223,"A","Normal value","EUR","Euro",-2.4324578322692
+"1278","PRT","Portugal","_T",2012,147214.826,"A","Normal value","EUR","Euro",-4.48548414134379
+"1279","PRT","Portugal","_T",2013,149802.347,"A","Normal value","EUR","Euro",1.75764973563193
+"1280","PRT","Portugal","_T",2014,151135.832,"A","Normal value","EUR","Euro",0.890162955858085
+"1281","PRT","Portugal","_T",2015,156517.314,"A","Normal value","EUR","Euro",3.56069234461886
+"1282","PRT","Portugal","_T",2016,161993.327,"A","Normal value","EUR","Euro",3.49866277413883
+"1283","PRT","Portugal","_T",2017,169642.25,"A","Normal value","EUR","Euro",4.72175190278054
+"1284","PRT","Portugal","_T",2018,177465.917,"A","Normal value","EUR","Euro",4.61186231613881
+"1285","PRT","Portugal","_T",2019,185536.277,"A","Normal value","EUR","Euro",4.54755489754126
+"1286","PRT","Portugal","_T",2020,174768.004,"A","Normal value","EUR","Euro",-5.80386389881048
+"1287","PRT","Portugal","_T",2021,187070.098,"A","Normal value","EUR","Euro",7.03909967410283
+"1288","PRT","Portugal","_T",2022,209790.746,"P","Provisional value","EUR","Euro",12.1455263256451
+"1289","ROU","Romania","_T",1995,7216.6,"A","Normal value","RON","Romanian leu",NA
+"1290","ROU","Romania","_T",1996,10838.2,"A","Normal value","RON","Romanian leu",50.1842973145248
+"1291","ROU","Romania","_T",1997,23850.6,"A","Normal value","RON","Romanian leu",120.060526655718
+"1292","ROU","Romania","_T",1998,33374.5,"A","Normal value","RON","Romanian leu",39.9314901931188
+"1293","ROU","Romania","_T",1999,49415.8,"A","Normal value","RON","Romanian leu",48.0645402927385
+"1294","ROU","Romania","_T",2000,73027,"A","Normal value","RON","Romanian leu",47.7806693405753
+"1295","ROU","Romania","_T",2001,106501.2,"A","Normal value","RON","Romanian leu",45.8381146699166
+"1296","ROU","Romania","_T",2002,137534.2,"A","Normal value","RON","Romanian leu",29.1386388134594
+"1297","ROU","Romania","_T",2003,171229.7,"A","Normal value","RON","Romanian leu",24.4997244321776
+"1298","ROU","Romania","_T",2004,219488.8,"A","Normal value","RON","Romanian leu",28.183837266549
+"1299","ROU","Romania","_T",2005,254390.8,"A","Normal value","RON","Romanian leu",15.9014947459734
+"1300","ROU","Romania","_T",2006,305239,"A","Normal value","RON","Romanian leu",19.9882228445368
+"1301","ROU","Romania","_T",2007,379419.2,"A","Normal value","RON","Romanian leu",24.3023335812265
+"1302","ROU","Romania","_T",2008,484248.8,"A","Normal value","RON","Romanian leu",27.6289655346909
+"1303","ROU","Romania","_T",2009,482693.5,"A","Normal value","RON","Romanian leu",-0.321177873853273
+"1304","ROU","Romania","_T",2010,483485.4,"A","Normal value","RON","Romanian leu",0.164058558899182
+"1305","ROU","Romania","_T",2011,519643.8,"A","Normal value","RON","Romanian leu",7.47869532358163
+"1306","ROU","Romania","_T",2012,549135.5,"A","Normal value","RON","Romanian leu",5.67536839658243
+"1307","ROU","Romania","_T",2013,556662.2,"A","Normal value","RON","Romanian leu",1.37064531431677
+"1308","ROU","Romania","_T",2014,591513.9,"A","Normal value","RON","Romanian leu",6.26083466777519
+"1309","ROU","Romania","_T",2015,625899.1,"A","Normal value","RON","Romanian leu",5.81308402051075
+"1310","ROU","Romania","_T",2016,673343,"A","Normal value","RON","Romanian leu",7.58011954322989
+"1311","ROU","Romania","_T",2017,770366.8,"A","Normal value","RON","Romanian leu",14.4092683817906
+"1312","ROU","Romania","_T",2018,867424.4,"A","Normal value","RON","Romanian leu",12.598881467893
+"1313","ROU","Romania","_T",2019,962376.7,"A","Normal value","RON","Romanian leu",10.9464640376729
+"1314","ROU","Romania","_T",2020,967600,"A","Normal value","RON","Romanian leu",0.542750047876268
+"1315","ROU","Romania","_T",2021,1074748.2,"A","Normal value","RON","Romanian leu",11.07360479537
+"1316","ROU","Romania","_T",2022,1285754.4,"P","Provisional value","RON","Romanian leu",19.6330824280515
+"1317","RUS","Russia","_T",2011,51915591.8,"E","Estimated value","RUB","Russian ruble",NA
+"1318","RUS","Russia","_T",2012,58935692.2,"E","Estimated value","RUB","Russian ruble",13.5221426870068
+"1319","RUS","Russia","_T",2013,63721255.8,"E","Estimated value","RUB","Russian ruble",8.11997521596937
+"1320","RUS","Russia","_T",2014,68737893.9,"E","Estimated value","RUB","Russian ruble",7.87278599113863
+"1321","RUS","Russia","_T",2015,74620507.3,"E","Estimated value","RUB","Russian ruble",8.55803555540707
+"1322","RUS","Russia","_T",2016,77077133.6,"E","Estimated value","RUB","Russian ruble",3.29215974118685
+"1323","RUS","Russia","_T",2017,82897394.3,"E","Estimated value","RUB","Russian ruble",7.55121581220815
+"1324","RUS","Russia","_T",2018,92828842.2,"E","Estimated value","RUB","Russian ruble",11.9804102214103
+"1325","RUS","Russia","_T",2019,98026288.1,"E","Estimated value","RUB","Russian ruble",5.59895585986312
+"1326","RUS","Russia","_T",2020,96221698,"E","Estimated value","RUB","Russian ruble",-1.84092464886467
+"1327","SEN","Senegal","_T",1999,3689530.408,"A","Normal value","XOF","CFA Franc - BCEAO",NA
+"1328","SEN","Senegal","_T",2000,3886582.749,"A","Normal value","XOF","CFA Franc - BCEAO",5.34085152334649
+"1329","SEN","Senegal","_T",2001,4260002.177,"A","Normal value","XOF","CFA Franc - BCEAO",9.60791142543098
+"1330","SEN","Senegal","_T",2002,4307722.142,"A","Normal value","XOF","CFA Franc - BCEAO",1.12018639937892
+"1331","SEN","Senegal","_T",2003,4601333.249,"A","Normal value","XOF","CFA Franc - BCEAO",6.81592492090684
+"1332","SEN","Senegal","_T",2004,4779214.317,"A","Normal value","XOF","CFA Franc - BCEAO",3.86585927108537
+"1333","SEN","Senegal","_T",2005,5139888.697,"A","Normal value","XOF","CFA Franc - BCEAO",7.54672956843672
+"1334","SEN","Senegal","_T",2006,5422281.938,"A","Normal value","XOF","CFA Franc - BCEAO",5.49415089795281
+"1335","SEN","Senegal","_T",2007,5968156.15,"A","Normal value","XOF","CFA Franc - BCEAO",10.0672413983944
+"1336","SEN","Senegal","_T",2008,6789308.138,"A","Normal value","XOF","CFA Franc - BCEAO",13.7588891336229
+"1337","SEN","Senegal","_T",2009,6870369.196,"A","Normal value","XOF","CFA Franc - BCEAO",1.19395167154512
+"1338","SEN","Senegal","_T",2010,7190906.595,"A","Normal value","XOF","CFA Franc - BCEAO",4.66550471824163
+"1339","SEN","Senegal","_T",2011,7556878.799,"A","Normal value","XOF","CFA Franc - BCEAO",5.08937502059154
+"1340","SEN","Senegal","_T",2012,8200433.932,"A","Normal value","XOF","CFA Franc - BCEAO",8.51614998887056
+"1341","SEN","Senegal","_T",2013,8476091.154,"A","Normal value","XOF","CFA Franc - BCEAO",3.36149555359895
+"1342","SEN","Senegal","_T",2014,8810233,"A","Normal value","XOF","CFA Franc - BCEAO",3.94216909574308
+"1343","SEN","Senegal","_T",2015,9384867,"A","Normal value","XOF","CFA Franc - BCEAO",6.52234736584152
+"1344","SEN","Senegal","_T",2016,10124160,"A","Normal value","XOF","CFA Franc - BCEAO",7.87750108765526
+"1345","SEN","Senegal","_T",2017,11025109,"A","Normal value","XOF","CFA Franc - BCEAO",8.89900001580378
+"1346","SEN","Senegal","_T",2018,11706792,"A","Normal value","XOF","CFA Franc - BCEAO",6.18300463061182
+"1347","SEN","Senegal","_T",2019,12262391,"A","Normal value","XOF","CFA Franc - BCEAO",4.74595431438433
+"1348","SEN","Senegal","_T",2020,12690904,"A","Normal value","XOF","CFA Franc - BCEAO",3.49453055280981
+"1349","SEN","Senegal","_T",2021,13733123,"A","Normal value","XOF","CFA Franc - BCEAO",8.21233065824152
+"1350","SEN","Senegal","_T",2022,15654946,"A","Normal value","XOF","CFA Franc - BCEAO",13.9940711227883
+"1351","SRB","Serbia","_T",1995,55843.045,"A","Normal value","RSD","Serbian dinar",NA
+"1352","SRB","Serbia","_T",1996,108814.627,"A","Normal value","RSD","Serbian dinar",94.857975599289
+"1353","SRB","Serbia","_T",1997,140704.405,"A","Normal value","RSD","Serbian dinar",29.306517771733
+"1354","SRB","Serbia","_T",1998,178801.788,"A","Normal value","RSD","Serbian dinar",27.0761835779058
+"1355","SRB","Serbia","_T",1999,208656.948,"A","Normal value","RSD","Serbian dinar",16.6973498050254
+"1356","SRB","Serbia","_T",2000,402361.558,"A","Normal value","RSD","Serbian dinar",92.834009054901
+"1357","SRB","Serbia","_T",2001,771513.737,"A","Normal value","RSD","Serbian dinar",91.7463837338059
+"1358","SRB","Serbia","_T",2002,932883.177,"A","Normal value","RSD","Serbian dinar",20.9159516235548
+"1359","SRB","Serbia","_T",2003,1098478.914,"A","Normal value","RSD","Serbian dinar",17.7509618656142
+"1360","SRB","Serbia","_T",2004,1286435.406,"A","Normal value","RSD","Serbian dinar",17.1106144692004
+"1361","SRB","Serbia","_T",2005,1533638.919,"A","Normal value","RSD","Serbian dinar",19.2161621055383
+"1362","SRB","Serbia","_T",2006,1813646.17,"A","Normal value","RSD","Serbian dinar",18.2577037874454
+"1363","SRB","Serbia","_T",2007,2092801.329,"A","Normal value","RSD","Serbian dinar",15.3919305550101
+"1364","SRB","Serbia","_T",2008,2431807.854,"A","Normal value","RSD","Serbian dinar",16.1986959919405
+"1365","SRB","Serbia","_T",2009,2555322.462,"A","Normal value","RSD","Serbian dinar",5.07912694651573
+"1366","SRB","Serbia","_T",2010,2716989.776,"A","Normal value","RSD","Serbian dinar",6.32668934759281
+"1367","SRB","Serbia","_T",2011,3047677.479,"A","Normal value","RSD","Serbian dinar",12.1711059026083
+"1368","SRB","Serbia","_T",2012,3215813.28,"A","Normal value","RSD","Serbian dinar",5.51685019686429
+"1369","SRB","Serbia","_T",2013,3487377.16,"A","Normal value","RSD","Serbian dinar",8.44464079083598
+"1370","SRB","Serbia","_T",2014,3494671.615,"A","Normal value","RSD","Serbian dinar",0.209167367489442
+"1371","SRB","Serbia","_T",2015,3597767.281,"A","Normal value","RSD","Serbian dinar",2.95008164880178
+"1372","SRB","Serbia","_T",2016,3755978.314,"A","Normal value","RSD","Serbian dinar",4.39747823144428
+"1373","SRB","Serbia","_T",2017,3952669.83,"A","Normal value","RSD","Serbian dinar",5.23675856345747
+"1374","SRB","Serbia","_T",2018,4202926.256,"A","Normal value","RSD","Serbian dinar",6.33132633797546
+"1375","SRB","Serbia","_T",2019,4484953.211,"A","Normal value","RSD","Serbian dinar",6.71025228190442
+"1376","SRB","Serbia","_T",2020,4574270.091,"A","Normal value","RSD","Serbian dinar",1.99147852381018
+"1377","SRB","Serbia","_T",2021,5185968.634,"A","Normal value","RSD","Serbian dinar",13.3725934593048
+"1378","SRB","Serbia","_T",2022,5963658.664,"P","Provisional value","RSD","Serbian dinar",14.9960419139704
+"1379","SVK","Slovak Republic","_T",1995,17117.38,"A","Normal value","EUR","Euro",NA
+"1380","SVK","Slovak Republic","_T",1996,19293.779,"A","Normal value","EUR","Euro",12.7145567838069
+"1381","SVK","Slovak Republic","_T",1997,21504.295,"A","Normal value","EUR","Euro",11.4571437767583
+"1382","SVK","Slovak Republic","_T",1998,23497.986,"A","Normal value","EUR","Euro",9.27112932556033
+"1383","SVK","Slovak Republic","_T",1999,25280.593,"A","Normal value","EUR","Euro",7.58621185662465
+"1384","SVK","Slovak Republic","_T",2000,27967.037,"A","Normal value","EUR","Euro",10.6265070601785
+"1385","SVK","Slovak Republic","_T",2001,30735.672,"A","Normal value","EUR","Euro",9.89963648991489
+"1386","SVK","Slovak Republic","_T",2002,33385.179,"A","Normal value","EUR","Euro",8.62029956592457
+"1387","SVK","Slovak Republic","_T",2003,36881.485,"A","Normal value","EUR","Euro",10.4726291867418
+"1388","SVK","Slovak Republic","_T",2004,40910.969,"A","Normal value","EUR","Euro",10.9254928319725
+"1389","SVK","Slovak Republic","_T",2005,44621.292,"A","Normal value","EUR","Euro",9.0692620846991
+"1390","SVK","Slovak Republic","_T",2006,50466.113,"A","Normal value","EUR","Euro",13.0987265003443
+"1391","SVK","Slovak Republic","_T",2007,56567.395,"A","Normal value","EUR","Euro",12.0898591892742
+"1392","SVK","Slovak Republic","_T",2008,61813.488,"A","Normal value","EUR","Euro",9.27405796218829
+"1393","SVK","Slovak Republic","_T",2009,57993.535,"A","Normal value","EUR","Euro",-6.17980496424986
+"1394","SVK","Slovak Republic","_T",2010,62331.297,"A","Normal value","EUR","Euro",7.4797337323893
+"1395","SVK","Slovak Republic","_T",2011,64659.738,"A","Normal value","EUR","Euro",3.73558888081536
+"1396","SVK","Slovak Republic","_T",2012,66940.498,"A","Normal value","EUR","Euro",3.52732638663029
+"1397","SVK","Slovak Republic","_T",2013,67402.661,"A","Normal value","EUR","Euro",0.690408667112076
+"1398","SVK","Slovak Republic","_T",2014,68941.835,"A","Normal value","EUR","Euro",2.28355079334333
+"1399","SVK","Slovak Republic","_T",2015,72144.658,"A","Normal value","EUR","Euro",4.64568864463789
+"1400","SVK","Slovak Republic","_T",2016,73235.73,"A","Normal value","EUR","Euro",1.51233927812091
+"1401","SVK","Slovak Republic","_T",2017,75861.912,"A","Normal value","EUR","Euro",3.58592998253721
+"1402","SVK","Slovak Republic","_T",2018,80517.348,"A","Normal value","EUR","Euro",6.13672378834849
+"1403","SVK","Slovak Republic","_T",2019,84425.832,"A","Normal value","EUR","Euro",4.85421352923844
+"1404","SVK","Slovak Republic","_T",2020,83784.038,"A","Normal value","EUR","Euro",-0.760186763690993
+"1405","SVK","Slovak Republic","_T",2021,89454.248,"A","Normal value","EUR","Euro",6.76764946564166
+"1406","SVK","Slovak Republic","_T",2022,97892.365,"A","Normal value","EUR","Euro",9.43288573618102
+"1407","SVK","Slovak Republic","_T",2023,112015.667,"A","Normal value","EUR","Euro",14.4273784783931
+"1408","SVN","Slovenia","_T",1995,9069.445,"A","Normal value","EUR","Euro",NA
+"1409","SVN","Slovenia","_T",1996,10455.945,"A","Normal value","EUR","Euro",15.287594775645
+"1410","SVN","Slovenia","_T",1997,12052.687,"A","Normal value","EUR","Euro",15.271140006953
+"1411","SVN","Slovenia","_T",1998,13312.955,"A","Normal value","EUR","Euro",10.4563239715758
+"1412","SVN","Slovenia","_T",1999,14863.771,"A","Normal value","EUR","Euro",11.6489239241025
+"1413","SVN","Slovenia","_T",2000,16464.202,"A","Normal value","EUR","Euro",10.7673281564954
+"1414","SVN","Slovenia","_T",2001,18555.797,"A","Normal value","EUR","Euro",12.703895396813
+"1415","SVN","Slovenia","_T",2002,20566.068,"A","Normal value","EUR","Euro",10.8336548411259
+"1416","SVN","Slovenia","_T",2003,22419.073,"A","Normal value","EUR","Euro",9.01001105315805
+"1417","SVN","Slovenia","_T",2004,24239.16,"A","Normal value","EUR","Euro",8.11847572823372
+"1418","SVN","Slovenia","_T",2005,25568.708,"A","Normal value","EUR","Euro",5.48512407195628
+"1419","SVN","Slovenia","_T",2006,27649.612,"A","Normal value","EUR","Euro",8.13847926926931
+"1420","SVN","Slovenia","_T",2007,30729.582,"A","Normal value","EUR","Euro",11.1392883198506
+"1421","SVN","Slovenia","_T",2008,33204.329,"A","Normal value","EUR","Euro",8.0533051181757
+"1422","SVN","Slovenia","_T",2009,31725.24,"A","Normal value","EUR","Euro",-4.45450651931559
+"1423","SVN","Slovenia","_T",2010,31693.477,"A","Normal value","EUR","Euro",-0.100119021952246
+"1424","SVN","Slovenia","_T",2011,32265.72,"A","Normal value","EUR","Euro",1.80555449943218
+"1425","SVN","Slovenia","_T",2012,31475.162,"A","Normal value","EUR","Euro",-2.45014833079814
+"1426","SVN","Slovenia","_T",2013,31508.782,"A","Normal value","EUR","Euro",0.106814382718662
+"1427","SVN","Slovenia","_T",2014,32531.992,"A","Normal value","EUR","Euro",3.24738036525817
+"1428","SVN","Slovenia","_T",2015,33591.727,"A","Normal value","EUR","Euro",3.25751647793348
+"1429","SVN","Slovenia","_T",2016,35029.563,"A","Normal value","EUR","Euro",4.2803277128324
+"1430","SVN","Slovenia","_T",2017,37369.987,"A","Normal value","EUR","Euro",6.68128232144945
+"1431","SVN","Slovenia","_T",2018,39961.374,"A","Normal value","EUR","Euro",6.9344070149128
+"1432","SVN","Slovenia","_T",2019,42377.1,"A","Normal value","EUR","Euro",6.04515250151307
+"1433","SVN","Slovenia","_T",2020,41561.642,"A","Normal value","EUR","Euro",-1.92428929775751
+"1434","SVN","Slovenia","_T",2021,45897.508,"A","Normal value","EUR","Euro",10.4323741588458
+"1435","SVN","Slovenia","_T",2022,50199.202,"A","Normal value","EUR","Euro",9.37239119823236
+"1436","SWE","Sweden","_T",1993,1438412,"A","Normal value","SEK","Swedish krona",NA
+"1437","SWE","Sweden","_T",1994,1537707,"A","Normal value","SEK","Swedish krona",6.90309869494971
+"1438","SWE","Sweden","_T",1995,1675560,"A","Normal value","SEK","Swedish krona",8.96484180666408
+"1439","SWE","Sweden","_T",1996,1728250,"A","Normal value","SEK","Swedish krona",3.14462030604693
+"1440","SWE","Sweden","_T",1997,1810791,"A","Normal value","SEK","Swedish krona",4.77598727036019
+"1441","SWE","Sweden","_T",1998,1902548,"A","Normal value","SEK","Swedish krona",5.06723304898246
+"1442","SWE","Sweden","_T",1999,2002888,"A","Normal value","SEK","Swedish krona",5.27397994689227
+"1443","SWE","Sweden","_T",2000,2140595,"A","Normal value","SEK","Swedish krona",6.8754218907897
+"1444","SWE","Sweden","_T",2001,2224423,"A","Normal value","SEK","Swedish krona",3.9161074374181
+"1445","SWE","Sweden","_T",2002,2304452,"A","Normal value","SEK","Swedish krona",3.59774197623384
+"1446","SWE","Sweden","_T",2003,2398214,"A","Normal value","SEK","Swedish krona",4.06873304369108
+"1447","SWE","Sweden","_T",2004,2515147,"A","Normal value","SEK","Swedish krona",4.87583676852858
+"1448","SWE","Sweden","_T",2005,2594653,"A","Normal value","SEK","Swedish krona",3.16108760243437
+"1449","SWE","Sweden","_T",2006,2767971,"A","Normal value","SEK","Swedish krona",6.67981421793203
+"1450","SWE","Sweden","_T",2007,2944571,"A","Normal value","SEK","Swedish krona",6.38012464725967
+"1451","SWE","Sweden","_T",2008,3021539,"A","Normal value","SEK","Swedish krona",2.61389519899503
+"1452","SWE","Sweden","_T",2009,2947488,"A","Normal value","SEK","Swedish krona",-2.45077094818237
+"1453","SWE","Sweden","_T",2010,3153052,"A","Normal value","SEK","Swedish krona",6.97420990348392
+"1454","SWE","Sweden","_T",2011,3303265,"A","Normal value","SEK","Swedish krona",4.76405083075065
+"1455","SWE","Sweden","_T",2012,3320607,"A","Normal value","SEK","Swedish krona",0.52499572392769
+"1456","SWE","Sweden","_T",2013,3392439,"A","Normal value","SEK","Swedish krona",2.16321895364311
+"1457","SWE","Sweden","_T",2014,3549983,"A","Normal value","SEK","Swedish krona",4.64397443844974
+"1458","SWE","Sweden","_T",2015,3788043,"A","Normal value","SEK","Swedish krona",6.70594760594628
+"1459","SWE","Sweden","_T",2016,3910818,"A","Normal value","SEK","Swedish krona",3.24111949098783
+"1460","SWE","Sweden","_T",2017,4100646,"A","Normal value","SEK","Swedish krona",4.85392058643486
+"1461","SWE","Sweden","_T",2018,4278918,"A","Normal value","SEK","Swedish krona",4.34741257840838
+"1462","SWE","Sweden","_T",2019,4484615,"A","Normal value","SEK","Swedish krona",4.80721995607301
+"1463","SWE","Sweden","_T",2020,4472395,"A","Normal value","SEK","Swedish krona",-0.2724871588754
+"1464","SWE","Sweden","_T",2021,4872894,"A","Normal value","SEK","Swedish krona",8.95491118293442
+"1465","SWE","Sweden","_T",2022,5329470,"A","Normal value","SEK","Swedish krona",9.36970925285877
+"1466","TUR","Türkiye","_T",1998,66262.261,"A","Normal value","TRY","Turkish lira",NA
+"1467","TUR","Türkiye","_T",1999,97991.018,"A","Normal value","TRY","Turkish lira",47.8836014967856
+"1468","TUR","Türkiye","_T",2000,153640.276,"A","Normal value","TRY","Turkish lira",56.7901621350643
+"1469","TUR","Türkiye","_T",2001,220718.383,"A","Normal value","TRY","Turkish lira",43.6591945460967
+"1470","TUR","Türkiye","_T",2002,319950.645,"A","Normal value","TRY","Turkish lira",44.958766302669
+"1471","TUR","Türkiye","_T",2003,414242.214,"A","Normal value","TRY","Turkish lira",29.4706607014341
+"1472","TUR","Türkiye","_T",2004,510087.759,"A","Normal value","TRY","Turkish lira",23.1375610115873
+"1473","TUR","Türkiye","_T",2005,594883.276,"A","Normal value","TRY","Turkish lira",16.6237114111966
+"1474","TUR","Türkiye","_T",2006,696783.871,"A","Normal value","TRY","Turkish lira",17.1295107983503
+"1475","TUR","Türkiye","_T",2007,787510.233,"A","Normal value","TRY","Turkish lira",13.0207322207089
+"1476","TUR","Türkiye","_T",2008,893612.618,"A","Normal value","TRY","Turkish lira",13.4731436562806
+"1477","TUR","Türkiye","_T",2009,898263.064,"A","Normal value","TRY","Turkish lira",0.520409616686948
+"1478","TUR","Türkiye","_T",2010,1027561.054,"A","Normal value","TRY","Turkish lira",14.3942231604438
+"1479","TUR","Türkiye","_T",2011,1237146.314,"A","Normal value","TRY","Turkish lira",20.3963802621893
+"1480","TUR","Türkiye","_T",2012,1397219.904,"A","Normal value","TRY","Turkish lira",12.9389376332087
+"1481","TUR","Türkiye","_T",2013,1599039.31,"A","Normal value","TRY","Turkish lira",14.4443552101016
+"1482","TUR","Türkiye","_T",2014,1818621.907,"A","Normal value","TRY","Turkish lira",13.7321575290103
+"1483","TUR","Türkiye","_T",2015,2073020.639,"A","Normal value","TRY","Turkish lira",13.9885443489272
+"1484","TUR","Türkiye","_T",2016,2316930.424,"A","Normal value","TRY","Turkish lira",11.7659120421328
+"1485","TUR","Türkiye","_T",2017,2779809.362,"A","Normal value","TRY","Turkish lira",19.9781112633014
+"1486","TUR","Türkiye","_T",2018,3371990.85,"A","Normal value","TRY","Turkish lira",21.3029532202863
+"1487","TUR","Türkiye","_T",2019,3887950.309,"A","Normal value","TRY","Turkish lira",15.3013303402054
+"1488","TUR","Türkiye","_T",2020,4488017.525,"A","Normal value","TRY","Turkish lira",15.4340248282222
+"1489","TUR","Türkiye","_T",2021,6488544.712,"A","Normal value","TRY","Turkish lira",44.5748523898645
+"1490","TUR","Türkiye","_T",2022,13436786.794,"A","Normal value","TRY","Turkish lira",107.084753059493
+"1491","USA","United States","_T",1997,8258301.438,"A","Normal value","USD","US dollar",NA
+"1492","USA","United States","_T",1998,8727890.386,"A","Normal value","USD","US dollar",5.6862655296066
+"1493","USA","United States","_T",1999,9284421.44,"A","Normal value","USD","US dollar",6.37646704285729
+"1494","USA","United States","_T",2000,9884024.456,"A","Normal value","USD","US dollar",6.4581624162033
+"1495","USA","United States","_T",2001,10223808.761,"A","Normal value","USD","US dollar",3.43771210312756
+"1496","USA","United States","_T",2002,10545487.824,"A","Normal value","USD","US dollar",3.14637206661263
+"1497","USA","United States","_T",2003,11051413.697,"A","Normal value","USD","US dollar",4.79755779385177
+"1498","USA","United States","_T",2004,11774846.104,"A","Normal value","USD","US dollar",6.54606213136679
+"1499","USA","United States","_T",2005,12567500.825,"A","Normal value","USD","US dollar",6.73176289523418
+"1500","USA","United States","_T",2006,13304108.691,"A","Normal value","USD","US dollar",5.86121199637956
+"1501","USA","United States","_T",2007,13956204.161,"A","Normal value","USD","US dollar",4.90145927957678
+"1502","USA","United States","_T",2008,14247897.632,"A","Normal value","USD","US dollar",2.09006308330687
+"1503","USA","United States","_T",2009,14006528.504,"A","Normal value","USD","US dollar",-1.69406837579951
+"1504","USA","United States","_T",2010,14539845.025,"A","Normal value","USD","US dollar",3.80762814174615
+"1505","USA","United States","_T",2011,15055228.608,"A","Normal value","USD","US dollar",3.54462913541266
+"1506","USA","United States","_T",2012,15681140.2,"A","Normal value","USD","US dollar",4.15743665072881
+"1507","USA","United States","_T",2013,16233259.257,"A","Normal value","USD","US dollar",3.52091142581583
+"1508","USA","United States","_T",2014,16906767.005,"A","Normal value","USD","US dollar",4.14893729803258
+"1509","USA","United States","_T",2015,17543951.899,"A","Normal value","USD","US dollar",3.76881572811384
+"1510","USA","United States","_T",2016,18026678.135,"A","Normal value","USD","US dollar",2.75152507701253
+"1511","USA","United States","_T",2017,18779119.115,"A","Normal value","USD","US dollar",4.17404124245766
+"1512","USA","United States","_T",2018,19767243.575,"A","Normal value","USD","US dollar",5.26182540271938
+"1513","USA","United States","_T",2019,20589955.924,"A","Normal value","USD","US dollar",4.16199833769691
+"1514","USA","United States","_T",2020,20343314.432,"A","Normal value","USD","US dollar",-1.19787285077434
+"1515","USA","United States","_T",2021,22485863.476,"A","Normal value","USD","US dollar",10.5319565853525
+"1516","ZMB","Zambia","_T",2010,91836.3,"A","Normal value","ZMW","Kwacha",NA
+"1517","ZMB","Zambia","_T",2011,107598,"A","Normal value","ZMW","Kwacha",17.1628212373539
+"1518","ZMB","Zambia","_T",2012,124088,"A","Normal value","ZMW","Kwacha",15.3255636721872
+"1519","ZMB","Zambia","_T",2013,142130,"A","Normal value","ZMW","Kwacha",14.5396815163432
+"1520","ZMB","Zambia","_T",2014,155751,"A","Normal value","ZMW","Kwacha",9.58347991275593
+"1521","ZMB","Zambia","_T",2015,173982,"A","Normal value","ZMW","Kwacha",11.7052217963288
+"1522","ZMB","Zambia","_T",2016,205916,"A","Normal value","ZMW","Kwacha",18.3547723327701
+"1523","ZMB","Zambia","_T",2017,230054,"A","Normal value","ZMW","Kwacha",11.7222556770722
+"1524","ZMB","Zambia","_T",2018,253355.886,"A","Normal value","ZMW","Kwacha",10.1288766985143
+"1525","ZMB","Zambia","_T",2019,277634,"A","Normal value","ZMW","Kwacha",9.58261297312035
+"1526","ZMB","Zambia","_T",2020,321762.727,"A","Normal value","ZMW","Kwacha",15.8945687487844
+"1527","ZMB","Zambia","_T",2021,424650.366,"A","Normal value","ZMW","Kwacha",31.9762453405611
