@@ -9,7 +9,7 @@ goal: get the OECD Data Explorer API to work and pull relevant fishing and minin
 knitr::opts_knit$set(root.dir = "../../Deepsea")
 if (!require(pacman)) install.packages('pacman')
 library(pacman)
-p_load(tidyverse, RColorBrewer, ggplot2, OEC, foreign)
+p_load(tidyverse, RColorBrewer, ggplot2, OECD, foreign)
 ```
 
 ### [1] data
@@ -176,6 +176,14 @@ for (col in colnames(sut_data)) {
   }
 }
 unique(sut_data$Economic.activity)
+```
+
+```{r write datasets to csv}
+write.csv(all_finaladd_wide,"all_finaladd_wide.csv")
+write.csv(total_finaladd,"total_finaladd.csv")
+write.csv(fish_finaladd,"fish_finaladd.csv")
+write.csv(mining_finaladd,"mining_finaladd.csv")
+write.csv(watertransport_finaladd,"watertransport_finaladd.csv")
 ```
 
 ### [2] plots
