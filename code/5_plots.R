@@ -1,33 +1,79 @@
----
-title: "updated plots with oecd data"
-output:
-  pdf_document: default
-  html_document: default
-date: "2024-06-19"
----
+library(tidyverse)
+library(RColorBrewer)
 
-```{r setup, include=FALSE}
-if (!require(pacman)) install.packages('pacman')
-library(pacman)
-p_load(tidyverse, RColorBrewer)
-```
+# load data
+df_gdp <- read.csv("data/total_finaladd.csv")
+df_fish <- read.csv("data/fish_finaladd.csv")
+df_mine <- read.csv("data/mining_finaladd.csv")
 
-```{r load-datasets,echo=FALSE,message=FALSE}
-# load data (funky)
-df_plot <- read_csv("/output/fishmine_updated.csv")
-```
+## reformat
+# grab annual GDPs
+country_gdp <- select(df_gdp,Reference.area,TIME_PERIOD,OBS_VALUE) %>%
+  rename(GDP_total=OBS_VALUE)
+
+# join with mining
+df_mine2 <- full_join(df_mine,country_gdp) %>%
+  filter(Economic.activity=="Mining and quarrying")%>%
+  arrange(Reference.area,TIME_PERIOD)
+
+df_fish2 <- full_join(df_fish,country_gdp) %>%
+  filter(Economic.activity=="Fishing and aquaculture")%>%
+  arrange(Reference.area,TIME_PERIOD)
+
+# merge the two
+df_both <- bind_rows(df_fish2,df_mine2)
+
+# rename the columns to match
+df_gdp_calcs_og <- read.csv("output/df_gdp_calcs.csv")
+dfc<-colnames(df_gdp_calcs_og)
 
 
-```{r plot-timeseries-relative-growth,echo=FALSE, message=FALSE, warning=FALSE}
+df_both_renamed <- select(df_both,-c("X","OBS_STATUS","Observation.status")) %>%
+  rename(Country_iso=REF_AREA, Country=Reference.area,
+         Activity_code=ACTIVITY, Activity=Economic.activity,
+         Year=TIME_PERIOD,GVA=OBS_VALUE,
+         Currency_iso=CURRENCY) %>%
+  group_by(Country,Activity) %>%
+  mutate(GDP_perc = GVA/GDP_total*100, # % contribution
+         time_diff = Year - lag(Year), 
+         GDP_change_relative = ((GDP_perc - lag(GDP_perc)) / lag(GDP_perc)) / time_diff * 100,
+         GDP_perc_mean=mean(GDP_perc,na.rm = TRUE), # mean % contr
+         GDP_change_rel_mean = mean(GDP_change_relative,na.rm=TRUE), # mean % rel change
+         GDP_annual_mean=mean(GDP_total,na.rm=TRUE) # mean national gdp
+         ) %>%
+  ungroup() %>%
+  mutate(Country_short = if_else(stringr::str_detect(Country, " "),Country_iso, Country)) # iso if country is 2 words
+
+# select countries from google sheets
+# google sheets goal country list 
+c <- c("AUS", "BEL", "BLZ", "BGR", "CAN", "CHL", "FJI",
+       "FIN", "FRA", "DEU", "IND", "IDN", "JAM", "JPN",
+       "KIR", "NRU", "NZL", "NOR", "PLW", "PAN", "PNG",
+       "POL", "PRT", "WSM", "TON", "GBR", "USA", "VUT")
+
+df_both_clean <- df_both_renamed %>%
+  filter(Country_iso %in% c)
+
+# what's left in the dataset
+b <- unique(df_both_clean$Country_iso)
+
+# what's missing (what we need to get data for)
+setdiff(c,b)
+
+
+#### plot ####
+
+### [2] plots
+
 ### 2.1 Time Series Analysis of GDP
 
 ## relative change rates
-ggplot(df_plot,
+ggplot(df_both_clean,
        aes(x = Year, y = GDP_change_relative,
            color=Country)) +
   geom_line()+
   geom_point(size=.7,alpha=0.6)+
-  facet_wrap(~Industry_simple,scales="free_y")+
+  facet_wrap(~Activity,scales="free_y")+
   labs(title = paste0("Rates of Change in Relative GDP Contributions"),
        x = NULL,
        y = "Annual Change (%)",
@@ -40,16 +86,15 @@ ggplot(df_plot,
         legend.title = element_text(size=12),
         plot.title = element_text(size=15),
         legend.position = "none")
-```
+# ggsave("plots/line_relchange.jpg")
 
-```{r plot-gdp, echo=FALSE, message=FALSE, warning=FALSE}
 ## gdp contributions
-ggplot(df_plot,
-       aes(x = Year, y = GDP_perc_norm,
+ggplot(df_both_clean,
+       aes(x = Year, y = GDP_perc,
            color=Country)) +
   geom_line()+
   geom_point(size=.7,alpha=0.6)+
-  facet_wrap(~Industry_simple,scales="free_y")+
+  facet_wrap(~Activity,scales="free_y")+
   labs(title = paste0("Relative GDP Contributions"),
        x = NULL,
        y = "% GDP",
@@ -62,13 +107,13 @@ ggplot(df_plot,
         legend.title = element_text(size=12),
         plot.title = element_text(size=15),
         legend.position = "none")
-```
+# ggsave("plots/line_relgdp.jpg")
 
-```{r plot-boxplots,echo=FALSE, message=FALSE, warning=FALSE}
+
 ### 2.2 boxplots of GDP and changes
 ## relative change rates
-ggplot(df_plot,
-       aes(x = Country_short, y = GDP_change_relative,color=Industry_simple)) +
+ggplot(df_both_clean,
+       aes(x = Country_short, y = GDP_change_relative,color=Activity)) +
   # geom_abline(slope = 0, intercept = mean(df_gdp_calcs$GDP_change_relative[df_gdp_calcs$Activity == "Fishing"], na.rm = TRUE),
   #             color = brewer.pal(5,"Dark2")[1], linetype = "dashed") + 
   # geom_abline(slope = 0, intercept = mean(df_gdp_calcs$GDP_change_relative[df_gdp_calcs$Activity == "Mining"], na.rm = TRUE),
@@ -76,7 +121,7 @@ ggplot(df_plot,
   geom_boxplot(alpha=0.8)+
   geom_point(size=.7,alpha=0.6)+
   scale_color_brewer(palette="Dark2")+
-  facet_wrap(~Industry_simple,scales="free_y")+
+  # facet_wrap(~Activity,scales="free_y")+
   labs(title = paste0("Rates of Change in Relative GDP Contributions"),
        x = NULL,
        y = "Annual Change (%)",
@@ -88,17 +133,18 @@ ggplot(df_plot,
         legend.text = element_text(size=12),
         legend.title = element_text(size=12),
         plot.title = element_text(size=15))
+# ggsave("plots/box_relchange.jpg")
 
 ##
-ggplot(df_plot,
-       aes(x = Country_short, y = GDP_perc_norm,color=Industry_simple)) +
+ggplot(df_both_clean,
+       aes(x = Country_short, y = GDP_perc,color=Activity)) +
   # geom_abline(slope = 0, intercept = mean(df_gdp_calcs$GDP_perc_norm[df_gdp_calcs$Activity == "Fishing"], na.rm = TRUE),
   #             color = brewer.pal(5,"Dark2")[1], linetype = "dashed") + 
   # geom_abline(slope = 0, intercept = mean(df_gdp_calcs$GDP_perc_norm[df_gdp_calcs$Activity == "Mining"], na.rm = TRUE),
   #             color = brewer.pal(5,"Dark2")[2], linetype = "dashed") + 
   geom_boxplot()+
   geom_point(size=.7,alpha=0.6)+
-  facet_wrap(~Industry_simple, scales = "free_y") +
+  # facet_wrap(~Activity, scales = "free_y") +
   labs(title = paste0("Relative GDP Contributions"),
        x = NULL,
        y = "% GDP",
@@ -111,22 +157,23 @@ ggplot(df_plot,
         legend.text = element_text(size=12),
         legend.title = element_text(size=12),
         plot.title = element_text(size=15))
-```
+# ggsave("plots/box_relgdp.jpg")
 
-```{r plot-barcharts-stacked,echo=FALSE, message=FALSE, warning=FALSE}
+
+
 ### 2.3 stacked bar chart GDP contributions - aggregate
 
 # prep data - remove any annual timeseries variables
-gdp_contr <- group_by(df_plot,Country) %>% 
-  mutate(both_rel_mean=sum(unique(GDP_perc_norm_mean))) %>% ungroup() %>%
+gdp_contr <- group_by(df_both_clean,Country) %>% 
+  mutate(both_rel_mean=sum(unique(GDP_perc_mean))) %>% ungroup() %>%
   arrange(desc(both_rel_mean)) %>%
   mutate(across(where(is.character), ~factor(., levels = unique(.)))) %>%
-  select("Country_iso","Country","Country_short","Industry_simple","GDP_annual_mean","GDP_perc_norm_mean","GDP_change_rel_mean") %>%
+  select("Country_iso","Country","Country_short","Activity","GDP_annual_mean","GDP_perc_mean","GDP_change_rel_mean") %>%
   distinct()
 
 # percentage (%)
 ggplot(gdp_contr,
-       aes(x = Country_short, y = GDP_perc_norm_mean, fill=Industry_simple)) +
+       aes(x = Country_short, y = GDP_perc_mean, fill=Activity)) +
   geom_bar(stat = "identity") +
   labs(title = "Economic Contribution of Fishing and Mining Sectors",
        x = NULL,
@@ -142,30 +189,30 @@ ggplot(gdp_contr,
         legend.text = element_text(size=12),
         plot.title = element_text(size=15),
         legend.position = c(.85,.85), legend.background = element_rect(fill="white",size=0.2))
-```
+# ggsave(paste0("plots/plot_barchart_percgdp_",gdp_type, ".jpg"))
 
-```{r plot-barcharts-individual,echo=FALSE, message=FALSE, warning=FALSE}
+
 ### 2.3 stacked bar chart GDP contributions - individual
 
 ## plot 2 individual sectors
 # process data
-gdp_contr_fish <- filter(df_plot,Industry_specific=="Fishing and aquaculture") %>%
-  arrange(desc(GDP_perc_norm_mean)) %>%   mutate(Country = factor(Country, levels = unique(Country))) %>%
-  select(Country,Country_short,GDP_perc_norm_mean,Industry_simple,Industry_specific) %>% distinct()
-fish_range<- range(gdp_contr_fish$GDP_perc_norm_mean)
+gdp_contr_fish <- filter(df_both_clean,Activity=="Fishing and aquaculture") %>%
+  arrange(desc(GDP_perc_mean)) %>%   mutate(Country = factor(Country, levels = unique(Country))) %>%
+  select(Country,Country_short,GDP_perc_mean,Activity) %>% distinct()
+fish_range<- range(gdp_contr_fish$GDP_perc_mean)
 
-gdp_contr_mine <- filter(df_plot,Industry_specific=="Mining and quarrying") %>%
-  arrange(desc(GDP_perc_norm_mean)) %>%   mutate(Country = factor(Country, levels = unique(Country))) %>%
-  select(Country,Country_short,GDP_perc_norm_mean,Industry_simple,Industry_specific) %>% distinct()
-mine_range<- range(gdp_contr_mine$GDP_perc_norm_mean)
+gdp_contr_mine <- filter(df_both_clean,Activity=="Mining and quarrying") %>%
+  arrange(desc(GDP_perc_mean)) %>%   mutate(Country = factor(Country, levels = unique(Country))) %>%
+  select(Country,Country_short,GDP_perc_mean,Activity) %>% distinct()
+mine_range<- range(gdp_contr_mine$GDP_perc_mean)
 
 # plot
-p_fish <- ggplot(gdp_contr_fish, aes(x = reorder(Country_short, -GDP_perc_norm_mean), y = GDP_perc_norm_mean, fill = Industry_simple)) +
+p_fish <- ggplot(gdp_contr_fish, aes(x = reorder(Country_short, -GDP_perc_mean), y = GDP_perc_mean, fill = Activity)) +
   geom_bar(stat = "identity", show.legend = FALSE,fill=brewer.pal(8, "Set2")[1]) +
-  labs(title = paste0(unique(gdp_contr_fish$Industry_simple)),
+  labs(title = paste0(unique(gdp_contr_fish$Activity)),
        x = NULL,y = "% GDP") +
   # scale_y_continuous(limits = c(floor(fish_range[1] / 5) * 5,ceiling(fish_range[2] / 5) * 5),expand=c(0,0))+
-  # scale_y_continuous(limits=c(0,2),expand=c(0,0))+
+  scale_y_continuous(limits=c(0,2),expand=c(0,0))+
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 7),
         axis.text.y = element_text(size = 8),
@@ -174,11 +221,11 @@ p_fish <- ggplot(gdp_contr_fish, aes(x = reorder(Country_short, -GDP_perc_norm_m
         legend.title = element_text(size = 10),
         plot.title = element_text(size = 10),
         strip.text = element_text(size = 10, face = "bold"))
-p_mine <- ggplot(gdp_contr_mine, aes(x = reorder(Country_short, -GDP_perc_norm_mean), y = GDP_perc_norm_mean, fill = Industry_simple)) +
+p_mine <- ggplot(gdp_contr_mine, aes(x = reorder(Country_short, -GDP_perc_mean), y = GDP_perc_mean, fill = Activity)) +
   geom_bar(stat = "identity", show.legend = FALSE,fill=brewer.pal(8, "Set2")[2]) +
-  labs(title = paste0(unique(gdp_contr_mine$Industry_simple)),
+  labs(title = paste0(unique(gdp_contr_mine$Activity)),
        x = NULL, y = NULL) +
-  # scale_y_continuous(limits = c(floor(mine_range[1] / 5) * 5,ceiling(mine_range[2] / 5) * 5),expand=c(0,0))+
+  scale_y_continuous(limits = c(floor(mine_range[1] / 5) * 5,ceiling(mine_range[2] / 5) * 5),expand=c(0,0))+
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 7),
         axis.text.y = element_text(size = 8),
@@ -189,17 +236,18 @@ p_mine <- ggplot(gdp_contr_mine, aes(x = reorder(Country_short, -GDP_perc_norm_m
         strip.text = element_text(size = 10, face = "bold"))
 
 cowplot::plot_grid(p_fish,p_mine) # combine em
-```
+# ggsave("plots/plot_barchart_percgdp_separate.jpg")
 
-```{r plot-scatterplot-perc-gdp,echo=FALSE, message=FALSE, warning=FALSE}
+
+
 ### 2.4 scatterplots fishing vs. mining contributions
 
-fishing_data <- filter(df_plot,Industry_specific=="Fishing and aquaculture") %>%
-  rename(Fishing_Contribution = GDP_perc_norm_mean,
+fishing_data <- filter(df_both_clean,Activity=="Fishing and aquaculture") %>%
+  rename(Fishing_Contribution = GDP_perc_mean,
          Fishing_Rel = GDP_change_rel_mean) %>%
   select(Country, Country_short, Fishing_Contribution,Fishing_Rel) %>% distinct()
-mining_data <- filter(df_plot,Industry_specific=="Mining and quarrying") %>%
-  rename(Mining_Contribution = GDP_perc_norm_mean,
+mining_data <- filter(df_both_clean,Activity=="Mining and quarrying") %>%
+  rename(Mining_Contribution = GDP_perc_mean,
          Mining_Rel = GDP_change_rel_mean) %>%
   select(Country,Country_short,Mining_Contribution,Mining_Rel) %>% distinct()
 
@@ -236,9 +284,10 @@ scat_gdp_mean <- ggplot(data = combined_data,
   labs(x = "Fishing", y = "Mining",title="Contribution to GDP (%)",
        subtitle=paste0(k," k-means clusters"))
 plot(scat_gdp_mean)
-```
+# ggsave(paste0("plots/scatter_gdp_",gdp_type,".jpg"))
 
-```{r plot-scatterplot-rel-growth,echo=FALSE, message=FALSE, warning=FALSE}
+
+
 ## plot mean relative growth
 data_scaled_rel <- scale(combined_data[,c("Fishing_Rel","Mining_Rel")])
 set.seed(123)  # Setting a random seed for reproducibility
@@ -269,4 +318,4 @@ scat_gdp_rel <- ggplot(data = combined_data,
   labs(x = "Fishing", y = "Mining",title="Average Annual Relative GDP Change (%)",
        subtitle=paste0(k," k-means clusters"))
 plot(scat_gdp_rel)
-```
+# ggsave(paste0("plots/scatter_relchange_",gdp_type,".jpg"))
